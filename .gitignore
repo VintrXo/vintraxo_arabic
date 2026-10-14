@@ -1,0 +1,15 @@
+﻿__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.env
+*.log
+*.sql
+*.sql.gz
+site_config.json
+common_site_config.json
+*.pem
+*.key
+/dist/
+/build/
+vintraxo_arabic/translation_data/server_coverage_latest.*

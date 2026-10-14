@@ -1,0 +1,1064 @@
+source,arabic,app,module,origin
+ Address,العنوان,erpnext,Server,server_ar_20261014
+ Amount,المبلغ,erpnext,Server,server_ar_20261014
+ BOM,قائمة المواد,erpnext,Server,server_ar_20261014
+ Default Work In Progress Warehouse ,مستودع العمل قيد التنفيذ الافتراضي,erpnext,Server,server_ar_20261014
+ Is Child Table,جدول فرعي,erpnext,Server,server_ar_20261014
+ Is Subcontracted,يُنفذ بمقاولة من الباطن,erpnext,Server,server_ar_20261014
+ Item,الصنف,erpnext,Server,server_ar_20261014
+ Name,الاسم,erpnext,Server,server_ar_20261014
+ Online PassKey,مفتاح الوصول الإلكتروني,payments,Server,server_ar_20261014
+ Phantom Item,صنف تجميعي افتراضي,erpnext,Server,server_ar_20261014
+ Rate,السعر,erpnext,Server,server_ar_20261014
+ Raw Material,المادة الخام,erpnext,Server,server_ar_20261014
+ Skip Material Transfer,تجاوز تحويل المواد,erpnext,Server,server_ar_20261014
+ Sub Assembly,تجميع فرعي,erpnext,Server,server_ar_20261014
+ Summary,ملخص,erpnext,Server,server_ar_20261014
+"""Customer Provided Item"" cannot be Purchase Item also",لا يمكن أن يكون «الصنف المقدم من العميل» صنف شراء أيضًا,erpnext,Server,server_ar_20261014
+"""Customer Provided Item"" cannot have Valuation Rate",لا يمكن تحديد معدل تقييم للصنف المقدم من العميل,erpnext,Server,server_ar_20261014
+"""amended_from"" field must be present to do an amendment.","يجب وجود الحقل ""amended_from"" لإجراء التعديل.",frappe,Server,server_ar_20261014
+"""{0}"" is not a valid Google Sheets URL","""{0}"" ليس رابط Google Sheets صالحًا",frappe,Server,server_ar_20261014
+'Account' in the Accounting section of Customer {0},«الحساب» في القسم المحاسبي للعميل {0},erpnext,Server,server_ar_20261014
+'Based On' and 'Group By' can not be same,لا يمكن أن يتطابق «بناءً على» و«تجميع حسب»,erpnext,Server,server_ar_20261014
+'Days Since Last Order' must be greater than or equal to zero,يجب ألا تقل «الأيام منذ آخر طلب» عن صفر,erpnext,Server,server_ar_20261014
+'Default {0} Account' in Company {1},«حساب {0} الافتراضي» في الشركة {1},erpnext,Server,server_ar_20261014
+'Entries' cannot be empty,لا يمكن أن تكون «القيود» فارغة,erpnext,Server,server_ar_20261014
+'From Date' is required,«من تاريخ» مطلوب,erpnext,Server,server_ar_20261014
+'From Date' must be after 'To Date',يجب أن يكون «من تاريخ» بعد «إلى تاريخ»,erpnext,Server,server_ar_20261014
+'Has Serial No' can not be 'Yes' for non-stock item,لا يمكن تفعيل «له رقم تسلسلي» لصنف غير مخزني,erpnext,Server,server_ar_20261014
+'In Global Search' is not allowed for field {0} of type {1},لا يُسمح بخيار «في البحث العام» للحقل {0} من النوع {1},frappe,Server,server_ar_20261014
+'In Global Search' not allowed for type {0} in row {1},لا يُسمح بخيار «في البحث العام» للنوع {0} في الصف {1},frappe,Server,server_ar_20261014
+'In List View' is not allowed for field {0} of type {1},لا يُسمح بخيار «في عرض القائمة» للحقل {0} من النوع {1},frappe,Server,server_ar_20261014
+'In List View' not allowed for type {0} in row {1},لا يُسمح بخيار «في عرض القائمة» للنوع {0} في الصف {1},frappe,Server,server_ar_20261014
+'Opening',افتتاحي,erpnext,Server,server_ar_20261014
+'Recipients' not specified,لم يتم تحديد «المستلمين»,frappe,Server,server_ar_20261014
+'To Date' is required,«إلى تاريخ» مطلوب,erpnext,Server,server_ar_20261014
+'Update Stock' cannot be checked for fixed asset sale,لا يمكن تفعيل «تحديث المخزون» عند بيع أصل ثابت,erpnext,Server,server_ar_20261014
+'{0}' account is already used by {1}. Use another account.,الحساب '{0}' مستخدم بالفعل بواسطة {1}. استخدم حسابًا آخر.,erpnext,Server,server_ar_20261014
+'{0}' has been already added.,تمت إضافة '{0}' بالفعل.,erpnext,Server,server_ar_20261014
+'{0}' is not a valid IBAN,'{0}' ليس رقم IBAN صالحًا,frappe,Server,server_ar_20261014
+'{0}' is not a valid URL,'{0}' ليس رابطًا صالحًا,frappe,Server,server_ar_20261014
+'{0}' not allowed for type {1} in row {2},القيمة '{0}' غير مسموح بها للنوع {1} في الصف {2},frappe,Server,server_ar_20261014
+'{0}' should be in company currency {1}.,يجب أن يكون '{0}' بعملة الشركة {1}.,erpnext,Server,server_ar_20261014
+AP Summary,ملخص الحسابات الدائنة,erpnext,Server,server_ar_20261014
+API Password,كلمة مرور واجهة البرمجة,"payments,insights,erpnext_shipping",Server,server_ar_20261014
+API Version,إصدار واجهة البرمجة,whatsapp,Server,server_ar_20261014
+AR Summary,ملخص الحسابات المدينة,erpnext,Server,server_ar_20261014
+Accept,قبول,crm,Server,server_ar_20261014
+Accept Call,قبول المكالمة,crm,Server,server_ar_20261014
+Accept Contributions,قبول المساهمات,wiki,Server,server_ar_20261014
+Account {0} doesn't belong to Company {1},الحساب {0} لا يتبع الشركة {1},erpnext,Server,server_ar_20261014
+Accounting Dimensions ,الأبعاد المحاسبية,erpnext,Server,server_ar_20261014
+Accounts Setup,إعداد الحسابات,erpnext,Server,server_ar_20261014
+Acknowledged,تم تأكيد الاطلاع,vintraxo_restaurant,Server,server_ar_20261014
+Acknowledgement,تأكيد الاستلام,helpdesk,Server,server_ar_20261014
+Add Attendee,إضافة مشارك,crm,Server,server_ar_20261014
+Add Condition,إضافة شرط,crm,Server,server_ar_20261014
+Add Description.,إضافة وصف.,crm,Server,server_ar_20261014
+Add Field,إضافة حقل,crm,Server,server_ar_20261014
+Add Filter,إضافة مرشح,crm,Server,server_ar_20261014
+Add Location,إضافة موقع,crm,Server,server_ar_20261014
+Add Mobile Number...,إضافة رقم جوال...,crm,Server,server_ar_20261014
+Add Note,إضافة ملاحظة,"crm,healthcare",Server,server_ar_20261014
+Add Notification,إضافة إشعار,crm,Server,server_ar_20261014
+Add Organization...,إضافة مؤسسة...,crm,Server,server_ar_20261014
+Add Sample Data,إضافة بيانات تجريبية,crm,Server,server_ar_20261014
+Add Section,إضافة قسم,crm,Server,server_ar_20261014
+Add Task,إضافة مهمة,crm,Server,server_ar_20261014
+Add a Task,إضافة مهمة,crm,Server,server_ar_20261014
+Add description...,إضافة وصف...,crm,Server,server_ar_20261014
+"Add meta tags, styles, and scripts to page head",إضافة البيانات الوصفية والأنماط والسكربتات إلى رأس الصفحة,builder,Server,server_ar_20261014
+Add scripts to page body,إضافة سكربتات إلى جسم الصفحة,builder,Server,server_ar_20261014
+Added to end of body. For adding scripts.,يُضاف إلى نهاية جسم الصفحة لإضافة السكربتات.,builder,Server,server_ar_20261014
+"Added to end of head. For meta tags, styles, and scripts.",يُضاف إلى نهاية رأس الصفحة للبيانات الوصفية والأنماط والسكربتات.,builder,Server,server_ar_20261014
+Additional Fields,حقول إضافية,ksa_compliance,Server,server_ar_20261014
+Additional Information ,معلومات إضافية,hrms,Server,server_ar_20261014
+Additional Interest Accounts ,حسابات فوائد إضافية,lending,Server,server_ar_20261014
+Additional Receipt Papers,مستندات استلام إضافية,"erpnext,lms,vintraxo_restaurant",Server,server_ar_20261014
+Additional Salary ,راتب إضافي,hrms,Server,server_ar_20261014
+Administration,الإدارة,frappe,Server,server_ar_20261014
+Agent Manager,مدير الوكلاء,"frappe,helpdesk,frappe_slack_connector",Server,server_ar_20261014
+All items have already been transferred for this Work Order.,تم تحويل جميع الأصناف لأمر العمل هذا بالفعل.,erpnext,Server,server_ar_20261014
+Allow Google Calendar Access,السماح بالوصول إلى تقويم Google,frappe,Server,server_ar_20261014
+Allow multi-currency invoices against single party account ,السماح بفواتير متعددة العملات على حساب طرف واحد,erpnext,Server,server_ar_20261014
+Amber,كهرماني,"frappe,helpdesk,lms",Server,server_ar_20261014
+An Error Occurred,حدث خطأ,crm,Server,server_ar_20261014
+An error occurred while updating the document,حدث خطأ أثناء تحديث المستند,crm,Server,server_ar_20261014
+And,و,crm,Server,server_ar_20261014
+Annual Gross Earning,إجمالي الدخل السنوي,hrms,Server,server_ar_20261014
+Annual Revenue should be a number,يجب أن يكون الإيراد السنوي رقمًا,crm,Server,server_ar_20261014
+Another CRM,نظام آخر لإدارة علاقات العملاء,crm,Server,server_ar_20261014
+Append Actions,إلحاق الإجراءات,whatsapp,Server,server_ar_20261014
+Append Only,إلحاق فقط,insights,Server,server_ar_20261014
+Applicant ,مقدم الطلب,lending,Server,server_ar_20261014
+Applicant-Wise Loan Security Exposure ,التعرض لضمانات القروض حسب مقدم الطلب,lending,Server,server_ar_20261014
+Applied,تم التطبيق,"posawesome,education",Server,server_ar_20261014
+Applies to all pages,يُطبق على جميع الصفحات,builder,Server,server_ar_20261014
+Archived At,وقت الأرشفة,"gameplan,wiki",Server,server_ar_20261014
+Are you sure you want to clear assignment for {0} item(s)?,هل تريد إلغاء الإسناد لـ{0} عنصر؟,crm,Server,server_ar_20261014
+Are you sure you want to convert {0} lead(s) to deal(s)?,هل تريد تحويل {0} عميل محتمل إلى صفقات؟,crm,Server,server_ar_20261014
+"Are you sure you want to delete ""{0}"" view?","هل تريد حذف العرض ""{0}""؟",crm,Server,server_ar_20261014
+Are you sure you want to delete this attachment?,هل تريد حذف هذا المرفق؟,crm,Server,server_ar_20261014
+Are you sure you want to delete this contact?,هل تريد حذف جهة الاتصال هذه؟,crm,Server,server_ar_20261014
+Are you sure you want to delete this event?,هل تريد حذف هذا الحدث؟,crm,Server,server_ar_20261014
+Are you sure you want to delete this organization?,هل تريد حذف هذه المؤسسة؟,crm,Server,server_ar_20261014
+Are you sure you want to delete this task?,هل تريد حذف هذه المهمة؟,crm,Server,server_ar_20261014
+Are you sure you want to delete {0} - {1}?,هل تريد حذف {0} - {1}؟,crm,Server,server_ar_20261014
+Are you sure you want to delete {0} items?,هل تريد حذف {0} عنصر؟,crm,Server,server_ar_20261014
+Area/District,المنطقة / الحي,"frappe,lms",Server,server_ar_20261014
+Assets Directory,مجلد الملفات الثابتة,wiki,Server,server_ar_20261014
+Assets Prepend,بادئة مسار الملفات الثابتة,wiki,Server,server_ar_20261014
+Assign Condition JSON,شرط الإسناد (JSON),"frappe,lms",Server,server_ar_20261014
+Assign To Me,إسناد إليّ,crm,Server,server_ar_20261014
+Assignment Cleared Successfully,تم إلغاء الإسناد بنجاح,crm,Server,server_ar_20261014
+Attach a File,إرفاق ملف,crm,Server,server_ar_20261014
+Attempts,المحاولات,telephony,Server,server_ar_20261014
+Audited Instructions,تعليمات موثقة,vintraxo_restaurant,Server,server_ar_20261014
+Auditor,مدقق,erpnext,Server,server_ar_20261014
+Audits,التدقيق,frappe,Server,server_ar_20261014
+Auto Write Off Amount ,مبلغ الشطب التلقائي,lending,Server,server_ar_20261014
+Availability,التوفر,helpdesk,Server,server_ar_20261014
+Avatar,الصورة الشخصية,wiki,Server,server_ar_20261014
+Avatar Seed,قيمة توليد الصورة الشخصية,wiki,Server,server_ar_20261014
+Avatar Style,نمط الصورة الشخصية,wiki,Server,server_ar_20261014
+Average Commission Rate,متوسط نسبة العمولة,erpnext,Server,server_ar_20261014
+Away,غير متاح,helpdesk,Server,server_ar_20261014
+Back to previous question,العودة إلى السؤال السابق,crm,Server,server_ar_20261014
+Background Job,مهمة في الخلفية,frappe,Server,server_ar_20261014
+Bad,سيئ,wiki,Server,server_ar_20261014
+Bank Transactions,الحركات البنكية,banking,Server,server_ar_20261014
+Bank/Cash Account {0} doesn't belong to company {1},الحساب البنكي / النقدي {0} لا يتبع الشركة {1},erpnext,Server,server_ar_20261014
+Banking Action has failed due to the following error(s):,فشلت العملية البنكية بسبب الأخطاء التالية:,banking,Server,server_ar_20261014
+Base Payload,البيانات الأساسية,wiki,Server,server_ar_20261014
+Base Revision,المراجعة الأساسية,wiki,Server,server_ar_20261014
+Base Support Rotation,دورة إسناد الدعم الأساسية,helpdesk,Server,server_ar_20261014
+Basic Authentication,المصادقة الأساسية,insights,Server,server_ar_20261014
+Batch Enrollments,تسجيلات الدفعات,lms,Server,server_ar_20261014
+Batch Evaluator,مقيّم الدفعة,"frappe,lms",Server,server_ar_20261014
+Batch Feedback,تقييمات الدفعات,lms,Server,server_ar_20261014
+Be the first to add one.,كن أول من يضيف عنصرًا.,crm,Server,server_ar_20261014
+Benefit Application,طلب منفعة موظف,hrms,Server,server_ar_20261014
+Benefit Claim,مطالبة منفعة موظف,hrms,Server,server_ar_20261014
+Bento Cards,بطاقات بتخطيط شبكي,gameplan,Server,server_ar_20261014
+Bill Ref Number,الرقم المرجعي للفاتورة,posawesome,Server,server_ar_20261014
+Blank,فارغ,gameplan,Server,server_ar_20261014
+Blank Page,صفحة فارغة,builder,Server,server_ar_20261014
+Blocked,محظور,whatsapp,Server,server_ar_20261014
+Bucket Setttings,إعدادات حاوية التخزين,storage_integration,Server,server_ar_20261014
+Building Number,رقم المبنى,"frappe,erpnext,lms,ksa_compliance",Server,server_ar_20261014
+Bulk Assignment,إسناد جماعي,hrms,Server,server_ar_20261014
+Business Shortcode,الرمز المختصر للنشاط,"payments,posawesome",Server,server_ar_20261014
+Buttons,الأزرار,whatsapp,Server,server_ar_20261014
+CA Certificate,شهادة جهة التصديق,insights,Server,server_ar_20261014
+COA Importer,استيراد دليل الحسابات,erpnext,Server,server_ar_20261014
+CSV imports,استيراد ملفات CSV,crm,Server,server_ar_20261014
+Call using {0},اتصال باستخدام {0},crm,Server,server_ar_20261014
+Calling Medium,وسيلة الاتصال,crm,Server,server_ar_20261014
+Calling...,جارٍ الاتصال...,crm,Server,server_ar_20261014
+Can't rename {0} to {1} because {0} doesn't exist.,لا يمكن إعادة تسمية {0} إلى {1} لأن {0} غير موجود.,frappe,Server,server_ar_20261014
+Cancel Future Accruals and Demands ,إلغاء الاستحقاقات والمطالبات المستقبلية,lending,Server,server_ar_20261014
+Cannot delete Desktop Icon '{0}' as it is restricted,لا يمكن حذف أيقونة سطح المكتب '{0}' لأنها مقيّدة,frappe,Server,server_ar_20261014
+Capture my first lead,تسجيل أول عميل محتمل,crm,Server,server_ar_20261014
+Capturing leads,تسجيل العملاء المحتملين,crm,Server,server_ar_20261014
+Certificates,الشهادات,lms,Server,server_ar_20261014
+Change Status,تغيير الحالة,crm,Server,server_ar_20261014
+Changes Applied,تم تطبيق التغييرات,wiki,Server,server_ar_20261014
+Changes Requested,تغييرات مطلوبة,wiki,Server,server_ar_20261014
+Child nodes can be only created under 'Group' type nodes,يمكن إنشاء العقد الفرعية ضمن عقد من نوع «مجموعة» فقط,"erpnext,healthcare",Server,server_ar_20261014
+Choose Existing,اختيار سجل موجود,crm,Server,server_ar_20261014
+Choose Existing Contact,اختيار جهة اتصال موجودة,crm,Server,server_ar_20261014
+Choose Existing Organization,اختيار مؤسسة موجودة,crm,Server,server_ar_20261014
+Claim History,سجل المطالبات,hrms,Server,server_ar_20261014
+Clear All Filters,مسح جميع المرشحات,crm,Server,server_ar_20261014
+Close my first deal,إتمام أول صفقة,crm,Server,server_ar_20261014
+Closed At,وقت الإغلاق,gameplan,Server,server_ar_20261014
+Collaborating with my team,التعاون مع فريقي,crm,Server,server_ar_20261014
+Comment sent,تم إرسال التعليق,crm,Server,server_ar_20261014
+Commit SHA,بصمة التعديل SHA,wiki,Server,server_ar_20261014
+Community Admin,مدير المجتمع,gameplan,Server,server_ar_20261014
+Compare,مقارنة,wiki,Server,server_ar_20261014
+Compare Changes,مقارنة التغييرات,wiki,Server,server_ar_20261014
+Complete Your Enrollment - Don't miss out!,أكمل تسجيلك ولا تفوّت الفرصة!,lms,Server,server_ar_20261014
+Completed Qty cannot be greater than 'Qty to Manufacture',لا يمكن أن تتجاوز الكمية المكتملة «الكمية المطلوب تصنيعها»,erpnext,Server,server_ar_20261014
+Component properties and references ,خصائص المكوّن ومراجعه,hrms,Server,server_ar_20261014
+Confirm {0},تأكيد {0},crm,Server,server_ar_20261014
+Connect your Email,ربط بريدك الإلكتروني,crm,Server,server_ar_20261014
+Connection String,سلسلة الاتصال,insights,Server,server_ar_20261014
+Consider for Tax Withholding ,يُحتسب لضريبة الاستقطاع,erpnext,Server,server_ar_20261014
+Consolidated Report,التقرير المجمّع,erpnext,Server,server_ar_20261014
+Contact Added,تمت إضافة جهة الاتصال,crm,Server,server_ar_20261014
+Contact Already Added,جهة الاتصال مضافة بالفعل,crm,Server,server_ar_20261014
+Contact Image Updated,تم تحديث صورة جهة الاتصال,crm,Server,server_ar_20261014
+Contact Removed,تمت إزالة جهة الاتصال,crm,Server,server_ar_20261014
+Contact Support,التواصل مع الدعم,crm,Server,server_ar_20261014
+Contact image updated,تم تحديث صورة جهة الاتصال,crm,Server,server_ar_20261014
+Content Blob,كتلة المحتوى,wiki,Server,server_ar_20261014
+Contributions,المساهمات,wiki,Server,server_ar_20261014
+Convert,تحويل,crm,Server,server_ar_20261014
+Convert to Deal,تحويل إلى صفقة,crm,Server,server_ar_20261014
+Converted Successfully,تم التحويل بنجاح,crm,Server,server_ar_20261014
+Cost Center {} doesn't belong to Company {},مركز التكلفة {} لا يتبع الشركة {},erpnext,Server,server_ar_20261014
+"Could not save, try again",تعذر الحفظ، حاول مجددًا,crm,Server,server_ar_20261014
+Could not start enrichment.,تعذر بدء استكمال البيانات.,crm,Server,server_ar_20261014
+Couldn't reach the server. Check the address is right and that it's running.,تعذر الاتصال بالخادم. تأكد من صحة العنوان وتشغيل الخادم.,builder,Server,server_ar_20261014
+"Couldn't save, please check the data you have entered",تعذر الحفظ، يرجى مراجعة البيانات المدخلة,frappe,Server,server_ar_20261014
+Coupon Based,حسب الكوبون,posawesome,Server,server_ar_20261014
+Course Creator,منشئ الدورات,"frappe,lms",Server,server_ar_20261014
+Course Reviews,مراجعات الدورات,lms,Server,server_ar_20261014
+Cover,الغلاف,gameplan,Server,server_ar_20261014
+Coverage,التغطية,healthcare,Server,server_ar_20261014
+Create Deal,إنشاء صفقة,crm,Server,server_ar_20261014
+Create New Assets ,إنشاء ملفات ثابتة جديدة,wiki,Server,server_ar_20261014
+Create New Template,إنشاء قالب جديد,crm,Server,server_ar_20261014
+Create View,إنشاء عرض,crm,Server,server_ar_20261014
+Create an Event,إنشاء حدث,crm,Server,server_ar_20261014
+Currency ,العملة,hrms,Server,server_ar_20261014
+Current Employer ,جهة العمل الحالية,hrms,Server,server_ar_20261014
+Current Odometer value ,قراءة العداد الحالية,hrms,Server,server_ar_20261014
+Current icon,الأيقونة الحالية,crm,Server,server_ar_20261014
+Custom Condition,شرط مخصص,insights,Server,server_ar_20261014
+Custom Headers,ترويسات مخصصة,insights,Server,server_ar_20261014
+Customer ,العميل,erpnext,Server,server_ar_20261014
+Customer Created Successfully,تم إنشاء العميل بنجاح,crm,Server,server_ar_20261014
+Customer Ledger,دفتر أستاذ العملاء,erpnext,Server,server_ar_20261014
+Customer Name: ,اسم العميل: ,erpnext,Server,server_ar_20261014
+Customer isn't enrolled in any Loyalty Program,العميل غير مسجل في أي برنامج ولاء,erpnext,Server,server_ar_20261014
+Customer required for 'Customerwise Discount',العميل مطلوب لتطبيق «خصم حسب العميل»,erpnext,Server,server_ar_20261014
+Customer: ,العميل: ,erpnext,Server,server_ar_20261014
+DPD Log,سجل أيام التأخر في السداد,lending,Server,server_ar_20261014
+Dashboard Manager,مدير لوحات المعلومات,frappe,Server,server_ar_20261014
+Date ,التاريخ,"erpnext,hrms",Server,server_ar_20261014
+Date & Time,التاريخ والوقت,crm,Server,server_ar_20261014
+Deal,صفقة,crm,Server,server_ar_20261014
+Dear ,عزيزي / عزيزتي ,lms,Server,server_ar_20261014
+Debug,تصحيح الأخطاء,whatsapp,Server,server_ar_20261014
+Declined,مرفوض,crm,Server,server_ar_20261014
+Deduction Certificate,شهادة الاستقطاع,erpnext,Server,server_ar_20261014
+Delete All,حذف الكل,crm,Server,server_ar_20261014
+Delete Contact,حذف جهة الاتصال,crm,Server,server_ar_20261014
+Delete Linked Item,حذف العنصر المرتبط,crm,Server,server_ar_20261014
+Delete Organization,حذف المؤسسة,crm,Server,server_ar_20261014
+Delete Task,حذف المهمة,crm,Server,server_ar_20261014
+Delete View,حذف العرض,crm,Server,server_ar_20261014
+Delete or unlink linked documents,حذف المستندات المرتبطة أو إلغاء ربطها,crm,Server,server_ar_20261014
+Delete {0} Item(s),حذف {0} عنصر,crm,Server,server_ar_20261014
+Delete {0} items,حذف {0} عنصر,crm,Server,server_ar_20261014
+Deleted At,وقت الحذف,gameplan,Server,server_ar_20261014
+Deleting note...,جارٍ حذف الملاحظة...,crm,Server,server_ar_20261014
+Delivery Manager,مدير التوصيل,erpnext,Server,server_ar_20261014
+Delivery User,مستخدم التوصيل,erpnext,Server,server_ar_20261014
+Desk User,مستخدم المكتب,"frappe,erpnext",Server,server_ar_20261014
+Device_Id,معرّف الجهاز,vintraxo_restaurant,Server,server_ar_20261014
+Diagnostic Report,تقرير التشخيص,healthcare,Server,server_ar_20261014
+Diagnostics,الفحوص التشخيصية,healthcare,Server,server_ar_20261014
+Did you mean {0}?,هل تقصد {0}؟,banking,Server,server_ar_20261014
+Didn't receive the link?,لم يصلك الرابط؟,frappe,Server,server_ar_20261014
+Direction,الاتجاه,whatsapp,Server,server_ar_20261014
+Distribute Additional Costs Based On ,توزيع التكاليف الإضافية بناءً على,erpnext,Server,server_ar_20261014
+DocType must be Supplier or Employee.,يجب أن يكون نوع المستند مورّدًا أو موظفًا.,banking,Server,server_ar_20261014
+DocType's name should not start or end with whitespace,يجب ألا يبدأ اسم نوع المستند أو ينتهي بمسافة,frappe,Server,server_ar_20261014
+Docs Base Utl,الرابط الأساسي للتوثيق,wiki,Server,server_ar_20261014
+Docs Directory,مجلد التوثيق,wiki,Server,server_ar_20261014
+Docs Subdirectory,المجلد الفرعي للتوثيق,wiki,Server,server_ar_20261014
+"Document ID, not the full name",معرّف المستند، وليس الاسم الكامل,crm,Server,server_ar_20261014
+Document Type ,نوع المستند,erpnext,Server,server_ar_20261014
+Document does not exist,المستند غير موجود,crm,Server,server_ar_20261014
+Document updated successfully,تم تحديث المستند بنجاح,crm,Server,server_ar_20261014
+Domains,مجالات النشاط,frappe,Server,server_ar_20261014
+Don't Import,عدم الاستيراد,frappe,Server,server_ar_20261014
+Don't have an account?,ليس لديك حساب؟,frappe,Server,server_ar_20261014
+Dot,نقطة,gameplan,Server,server_ar_20261014
+Driver access also requires an enabled linked internal courier in this branch.,يتطلب دخول الموصل أيضًا ربط الحساب بسجل موصل داخلي مفعّل في هذا الفرع.,vintraxo_restaurant,Server,server_ar_20261014
+Drop image to attach,أفلت الصورة لإرفاقها,builder,Server,server_ar_20261014
+Duplicate Application,طلب مكرر,hrms,Server,server_ar_20261014
+Duplicate View,نسخ العرض,crm,Server,server_ar_20261014
+Duplicate an Event,نسخ الحدث,crm,Server,server_ar_20261014
+Duration (Seconds),المدة (ثوانٍ),insights,Server,server_ar_20261014
+EBICS Order ID,معرّف أمر EBICS,banking,Server,server_ar_20261014
+EBICS User,مستخدم EBICS,banking,Server,server_ar_20261014
+EBICS User limit exceeded.,تم تجاوز الحد المسموح لمستخدمي EBICS.,banking,Server,server_ar_20261014
+EBICS transactions re-imported successfully.,تمت إعادة استيراد معاملات EBICS بنجاح.,banking,Server,server_ar_20261014
+Edit Call Log,تعديل سجل المكالمة,crm,Server,server_ar_20261014
+Edit Data Fields Layout,تعديل تخطيط حقول البيانات,crm,Server,server_ar_20261014
+Edit Field Layout,تعديل تخطيط الحقل,crm,Server,server_ar_20261014
+Edit Fields Layout,تعديل تخطيط الحقول,crm,Server,server_ar_20261014
+Edit Quick Entry Layout,تعديل تخطيط الإدخال السريع,crm,Server,server_ar_20261014
+Edit Task,تعديل المهمة,crm,Server,server_ar_20261014
+Edit View,تعديل العرض,crm,Server,server_ar_20261014
+Edit an Event,تعديل الحدث,crm,Server,server_ar_20261014
+Edit deal's mandatory fields layout,تعديل تخطيط الحقول الإلزامية للصفقة,crm,Server,server_ar_20261014
+Edit template,تعديل القالب,builder,Server,server_ar_20261014
+Edited At,وقت التعديل,gameplan,Server,server_ar_20261014
+Either 'Selling' or 'Buying' must be selected,يجب تحديد «بيع» أو «شراء»,erpnext,Server,server_ar_20261014
+Eligibility Plan,خطة الأهلية,healthcare,Server,server_ar_20261014
+Email Already Exists,البريد الإلكتروني موجود بالفعل,crm,Server,server_ar_20261014
+Email Campaign For ,حملة بريد إلكتروني لـ,erpnext,Server,server_ar_20261014
+Email From Lead,بريد العميل المحتمل,crm,Server,server_ar_20261014
+Email address added,تمت إضافة البريد الإلكتروني,crm,Server,server_ar_20261014
+Email address removed,تمت إزالة البريد الإلكتروني,crm,Server,server_ar_20261014
+Email address updated,تم تحديث البريد الإلكتروني,crm,Server,server_ar_20261014
+Email already exists,البريد الإلكتروني موجود بالفعل,crm,Server,server_ar_20261014
+Email couldn't be sent.,تعذر إرسال البريد الإلكتروني.,erpnext,Server,server_ar_20261014
+Email sent,تم إرسال البريد الإلكتروني,crm,Server,server_ar_20261014
+Emoji,رمز تعبيري,"helpdesk,gameplan",Server,server_ar_20261014
+Employee ,الموظف,erpnext,Server,server_ar_20261014
+Employee Hours Utilization,استغلال ساعات الموظفين,hrms,Server,server_ar_20261014
+Employee Responsible ,الموظف المسؤول,hrms,Server,server_ar_20261014
+Employee Self Service,الخدمة الذاتية للموظف,"frappe,erpnext,hrms,lending",Server,server_ar_20261014
+Employer Contribution,مساهمة صاحب العمل,hrms,Server,server_ar_20261014
+Employer Contributions,مساهمات صاحب العمل,hrms,Server,server_ar_20261014
+Empty - Choose a field to filter by,فارغ؛ اختر حقلًا للتصفية,crm,Server,server_ar_20261014
+Encounter,زيارة طبية,healthcare,Server,server_ar_20261014
+Encrypt Connection (SSL),تشفير الاتصال (SSL),insights,Server,server_ar_20261014
+Enrich,استكمال البيانات,crm,Server,server_ar_20261014
+Enrich from website,استكمال البيانات من الموقع,crm,Server,server_ar_20261014
+Enriched. Filled: {0},تم استكمال البيانات. الحقول المعبأة: {0},crm,Server,server_ar_20261014
+Enriching,جارٍ استكمال البيانات,crm,Server,server_ar_20261014
+Enriching…,جارٍ استكمال البيانات…,crm,Server,server_ar_20261014
+Enrichment complete.,اكتمل استكمال البيانات.,crm,Server,server_ar_20261014
+Enrichment failed.,فشل استكمال البيانات.,crm,Server,server_ar_20261014
+Enter customer's email,أدخل البريد الإلكتروني للعميل,erpnext,Server,server_ar_20261014
+Enter customer's phone number,أدخل رقم هاتف العميل,erpnext,Server,server_ar_20261014
+Enter default value,أدخل القيمة الافتراضية,builder,Server,server_ar_20261014
+Enter false label display,أدخل تسمية القيمة غير المفعّلة,builder,Server,server_ar_20261014
+Enter image URL or upload one,أدخل رابط الصورة أو ارفع صورة,builder,Server,server_ar_20261014
+Enter the customer's phone number first,أدخل رقم هاتف العميل أولًا,posawesome,Server,server_ar_20261014
+Enter true label display,أدخل تسمية القيمة المفعّلة,builder,Server,server_ar_20261014
+Enter value,أدخل القيمة,builder,Server,server_ar_20261014
+Error converting to deal: {0},خطأ أثناء التحويل إلى صفقة: {0},crm,Server,server_ar_20261014
+Error creating lead: {0},خطأ أثناء إنشاء العميل المحتمل: {0},crm,Server,server_ar_20261014
+Error updating field,خطأ أثناء تحديث الحقل,crm,Server,server_ar_20261014
+"Error validating ""Ignore User Permissions""",خطأ في التحقق من خيار «تجاهل صلاحيات المستخدم»,frappe,Server,server_ar_20261014
+Evaluation Requests,طلبات التقييم,lms,Server,server_ar_20261014
+Evaluations,التقييمات,lms,Server,server_ar_20261014
+Event ID is required,معرّف الحدث مطلوب,crm,Server,server_ar_20261014
+Events in Today's Calendar,أحداث تقويم اليوم,frappe,Server,server_ar_20261014
+Executive,تنفيذي,frappe,Server,server_ar_20261014
+Exemption Declaration,إقرار الإعفاء,hrms,Server,server_ar_20261014
+Exemption Submission Proof,إثبات تقديم الإعفاء,hrms,Server,server_ar_20261014
+Existing Company ,الشركة الحالية,erpnext,Server,server_ar_20261014
+Explanation ,التوضيح,lms,Server,server_ar_20261014
+Export all {0} record(s),تصدير جميع السجلات وعددها {0},crm,Server,server_ar_20261014
+FCRM Note,ملاحظة علاقات العملاء,crm,Server,server_ar_20261014
+FROM,من,crm,Server,server_ar_20261014
+FX Revaluation,إعادة تقييم العملات الأجنبية,erpnext,Server,server_ar_20261014
+Facebook/Instagram Ads,إعلانات Facebook / Instagram,crm,Server,server_ar_20261014
+Failed to add reaction to the message,تعذرت إضافة تفاعل إلى الرسالة,crm,Server,server_ar_20261014
+Failed to delete comment,تعذر حذف التعليق,crm,Server,server_ar_20261014
+Failed to delete note,تعذر حذف الملاحظة,crm,Server,server_ar_20261014
+Failed to load activities,تعذر تحميل الأنشطة,crm,Server,server_ar_20261014
+Failed to load fields layout,تعذر تحميل تخطيط الحقول,crm,Server,server_ar_20261014
+Failed to send WhatsApp message,تعذر إرسال رسالة WhatsApp,crm,Server,server_ar_20261014
+Failed to send WhatsApp template,تعذر إرسال قالب WhatsApp,crm,Server,server_ar_20261014
+Failed to send comment!,تعذر إرسال التعليق!,crm,Server,server_ar_20261014
+Failed to send email!,تعذر إرسال البريد الإلكتروني!,crm,Server,server_ar_20261014
+Failed to update comment,تعذر تحديث التعليق,crm,Server,server_ar_20261014
+Failed to update {0} record(s): {1},تعذر تحديث {0} سجل: {1},crm,Server,server_ar_20261014
+False Label,تسمية القيمة غير المفعّلة,builder,Server,server_ar_20261014
+Feedback ,التقييم,helpdesk,Server,server_ar_20261014
+Feedback (Extra),تقييم إضافي,helpdesk,Server,server_ar_20261014
+Feedback (Option),خيار التقييم,helpdesk,Server,server_ar_20261014
+Feedback Rating,درجة التقييم,helpdesk,Server,server_ar_20261014
+Feedback Template,قالب الملاحظات,erpnext,Server,server_ar_20261014
+Fields Order,ترتيب الحقول,crm,Server,server_ar_20261014
+"File ""{0}"" was skipped because of invalid file type","تم تجاوز الملف ""{0}"" لأن نوعه غير صالح",frappe,Server,server_ar_20261014
+"File ""{0}"" was skipped because only {1} uploads are allowed","تم تجاوز الملف ""{0}"" لأن الحد المسموح هو {1} ملفات فقط",frappe,Server,server_ar_20261014
+"File ""{0}"" was skipped because size exceeds {1} MB","تم تجاوز الملف ""{0}"" لأن حجمه يتجاوز {1} ميجابايت",frappe,Server,server_ar_20261014
+File '{0}' not found,الملف '{0}' غير موجود,"frappe,erpnext",Server,server_ar_20261014
+"Filtered by ""{0}""","تمت التصفية حسب ""{0}""",frappe,Server,server_ar_20261014
+Finished Good Quantity ,كمية المنتج التام,erpnext,Server,server_ar_20261014
+Finished Stock,مخزون جاهز,erpnext,Server,server_ar_20261014
+First Name ,الاسم الأول,hrms,Server,server_ar_20261014
+First Name is mandatory,الاسم الأول مطلوب,crm,Server,server_ar_20261014
+Fleet Manager,مدير الأسطول,"erpnext,hrms",Server,server_ar_20261014
+Folder name should not include '/' (slash),يجب ألا يتضمن اسم المجلد الرمز '/',frappe,Server,server_ar_20261014
+Following up consistently,المتابعة المنتظمة,crm,Server,server_ar_20261014
+For Designation ,للمسمى الوظيفي,hrms,Server,server_ar_20261014
+For Insurance Coverage,للتغطية التأمينية,"erpnext,lms",Server,server_ar_20261014
+"For non-German IBANs, a Bank must be provided.",يجب تحديد البنك لأرقام IBAN غير الألمانية.,banking,Server,server_ar_20261014
+Forecasting,التنبؤ,erpnext,Server,server_ar_20261014
+Fraction of Applicable Earnings ,نسبة الأرباح المطبقة,hrms,Server,server_ar_20261014
+Framework,إطار العمل,frappe,Server,server_ar_20261014
+Frappe CRM,إدارة علاقات العملاء في فرابي,erpnext,Server,server_ar_20261014
+Frappe Learning,نظام فرابي للتعلّم,lms,Server,server_ar_20261014
+Frappe Light,مظهر فرابي الفاتح,frappe,Server,server_ar_20261014
+Frappe Mail,بريد فرابي,frappe,Server,server_ar_20261014
+Freelance,عمل حر,lms,Server,server_ar_20261014
+From ,من ,lms,Server,server_ar_20261014
+From Time ,من وقت,erpnext,Server,server_ar_20261014
+Fulfillment User,مستخدم تنفيذ الطلبات,erpnext,Server,server_ar_20261014
+GP Page,صفحة خطة العمل,gameplan,Server,server_ar_20261014
+GP Poll,استطلاع خطة العمل,gameplan,Server,server_ar_20261014
+Gameplan Admin,مدير خطة العمل,gameplan,Server,server_ar_20261014
+Gameplan Guest,ضيف خطة العمل,gameplan,Server,server_ar_20261014
+Gameplan Member,عضو خطة العمل,gameplan,Server,server_ar_20261014
+General category can't be deleted,لا يمكن حذف الفئة العامة,helpdesk,Server,server_ar_20261014
+General category name can't be changed,لا يمكن تغيير اسم الفئة العامة,helpdesk,Server,server_ar_20261014
+Generating PDF...,جارٍ إنشاء ملف PDF...,frappe,Server,server_ar_20261014
+GitHub Login,تسجيل الدخول عبر GitHub,wiki,Server,server_ar_20261014
+GitHub Repository,مستودع GitHub,crm,Server,server_ar_20261014
+Github ID,معرّف GitHub,"frappe,lms",Server,server_ar_20261014
+Give Product,منح منتج,posawesome,Server,server_ar_20261014
+Global,عام,helpdesk,Server,server_ar_20261014
+Go to Website,الانتقال إلى الموقع,crm,Server,server_ar_20261014
+Google Ads,إعلانات Google,crm,Server,server_ar_20261014
+Google Calender,تقويم Google,frappe,Server,server_ar_20261014
+Grand Total Amount,المبلغ الإجمالي,erpnext,Server,server_ar_20261014
+Greater than,أكبر من,crm,Server,server_ar_20261014
+Greater than or equal to,أكبر من أو يساوي,crm,Server,server_ar_20261014
+Group By: ,تجميع حسب: ,crm,Server,server_ar_20261014
+Guest,ضيف,wiki,Server,server_ar_20261014
+HD Customer Manager,مدير عملاء الدعم,helpdesk,Server,server_ar_20261014
+HR Manager,مدير الموارد البشرية,"frappe,erpnext,hrms",Server,server_ar_20261014
+HR User,مستخدم الموارد البشرية,"frappe,erpnext,hrms",Server,server_ar_20261014
+HTTP Headers,ترويسات HTTP,insights,Server,server_ar_20261014
+Hang Up,إنهاء المكالمة,crm,Server,server_ar_20261014
+Hash,البصمة الرقمية,wiki,Server,server_ar_20261014
+Hashes Stale,البصمات الرقمية غير محدثة,wiki,Server,server_ar_20261014
+Head Revision,آخر مراجعة,wiki,Server,server_ar_20261014
+Header / Robots,الترويسة / تعليمات محركات البحث,wiki,Server,server_ar_20261014
+Header Media,وسائط الترويسة,whatsapp,Server,server_ar_20261014
+Header Media Handle,معرّف وسائط الترويسة,whatsapp,Server,server_ar_20261014
+Headings Weight,وزن العناوين,helpdesk,Server,server_ar_20261014
+Health Report,تقرير سلامة النظام,frappe,Server,server_ar_20261014
+Healthcare,الرعاية الصحية,healthcare,Server,server_ar_20261014
+Healthcare Settings,إعدادات الرعاية الصحية,healthcare,Server,server_ar_20261014
+Helpdesk,مكتب الدعم,helpdesk,Server,server_ar_20261014
+Here's your tracking URL,إليك رابط التتبع,frappe,Server,server_ar_20261014
+Hide ,إخفاء,helpdesk,Server,server_ar_20261014
+Hide Recording,إخفاء التسجيل,crm,Server,server_ar_20261014
+Hide Variants,إخفاء المتغيرات,webshop,Server,server_ar_20261014
+Hiring Manager,مدير التوظيف,frappe_slack_connector,Server,server_ar_20261014
+Hiring Pipeline,مراحل التوظيف,hrms,Server,server_ar_20261014
+Home Tab Icon,أيقونة تبويب الرئيسية,wiki,Server,server_ar_20261014
+Host,المضيف,"insights,lms",Server,server_ar_20261014
+How are you managing your sales today?,كيف تدير مبيعاتك حاليًا؟,crm,Server,server_ar_20261014
+How do new leads usually come to you?,كيف يصلك العملاء المحتملون عادةً؟,crm,Server,server_ar_20261014
+How many people will use Frappe CRM?,كم شخصًا سيستخدم نظام علاقات العملاء؟,crm,Server,server_ar_20261014
+Hybrid,هجين,lms,Server,server_ar_20261014
+IBAN Warning: Not used in SEPA Payment Orders,تنبيه IBAN: غير مستخدم في أوامر دفع SEPA,banking,Server,server_ar_20261014
+IP,عنوان IP,storage_integration,Server,server_ar_20261014
+Iframe,إطار مضمّن,payments,Server,server_ar_20261014
+Ignore Restrictions,تجاهل القيود,helpdesk,Server,server_ar_20261014
+Image link '{0}' is not valid,رابط الصورة '{0}' غير صالح,frappe,Server,server_ar_20261014
+Import my existing data,استيراد بياناتي الحالية,crm,Server,server_ar_20261014
+In less than a minute,خلال أقل من دقيقة,crm,Server,server_ar_20261014
+Inbox User,مستخدم البريد الوارد,frappe,Server,server_ar_20261014
+Income Tax Slab: ,شريحة ضريبة الدخل: ,hrms,Server,server_ar_20261014
+Incoming call...,مكالمة واردة...,crm,Server,server_ar_20261014
+Incremental,تزايدي,insights,Server,server_ar_20261014
+Initiating call...,جارٍ بدء المكالمة...,crm,Server,server_ar_20261014
+Inpatient,التنويم,healthcare,Server,server_ar_20261014
+Inpatient Record,سجل التنويم,healthcare,Server,server_ar_20261014
+Insert Email Template,إدراج قالب بريد إلكتروني,crm,Server,server_ar_20261014
+Insert Emoji,إدراج رمز تعبيري,crm,Server,server_ar_20261014
+Insights,التحليلات,insights,Server,server_ar_20261014
+Insights Admin,مدير التحليلات,insights,Server,server_ar_20261014
+Insights User,مستخدم التحليلات,insights,Server,server_ar_20261014
+Insurance Claim,مطالبة تأمين,"erpnext,lms,healthcare",Server,server_ar_20261014
+Interactive Buttons,أزرار تفاعلية,whatsapp,Server,server_ar_20261014
+"Invalid ""depends_on"" expression","تعبير ""depends_on"" غير صالح",frappe,Server,server_ar_20261014
+"Invalid ""mandatory_depends_on"" expression","تعبير ""mandatory_depends_on"" غير صالح",frappe,Server,server_ar_20261014
+Invalid Email Address,بريد إلكتروني غير صالح,crm,Server,server_ar_20261014
+Invalid Email or Password,البريد الإلكتروني أو كلمة المرور غير صحيحة,crm,Server,server_ar_20261014
+Invalid Start Or End Time,وقت البدء أو الانتهاء غير صالح,crm,Server,server_ar_20261014
+"Invalid community ""{0}""","المجتمع ""{0}"" غير صالح",gameplan,Server,server_ar_20261014
+Invalid date for 'before': {0},تاريخ غير صالح للمرشح 'before': {0},gameplan,Server,server_ar_20261014
+Invalid email address,بريد إلكتروني غير صالح,crm,Server,server_ar_20261014
+Invalid fieldname '{0}' in autoname,اسم الحقل '{0}' غير صالح في التسمية التلقائية,frappe,Server,server_ar_20261014
+Invalid page or not permitted to access,الصفحة غير صالحة أو لا تملك صلاحية الوصول,crm,Server,server_ar_20261014
+Inventory preview policy only; automatic checkout manufacturing is not enabled.,سياسة لمعاينة المخزون فقط؛ التصنيع التلقائي عند الدفع غير مفعّل.,"erpnext,lms,vintraxo_restaurant",Server,server_ar_20261014
+Invite my team,دعوة فريقي,crm,Server,server_ar_20261014
+Invoice can't be made for zero billing hour,لا يمكن إنشاء فاتورة بساعات فوترة تساوي صفرًا,erpnext,Server,server_ar_20261014
+Invoiced Amount (Excl. Tax),المبلغ المفوتر (دون الضريبة),erpnext,Server,server_ar_20261014
+Inward Order,أمر وارد,erpnext,Server,server_ar_20261014
+Item Manager,مدير الأصناف,erpnext,Server,server_ar_20261014
+Item-wise sales Register,سجل المبيعات حسب الصنف,erpnext,Server,server_ar_20261014
+Items To Be Received,أصناف بانتظار الاستلام,erpnext,Server,server_ar_20261014
+Job,وظيفة,lms,Server,server_ar_20261014
+Job Portal,بوابة الوظائف,hrms,Server,server_ar_20261014
+Job is in {0} state and can't be cancelled,المهمة في حالة {0} ولا يمكن إلغاؤها,frappe,Server,server_ar_20261014
+Just exploring,أستكشف فقط,crm,Server,server_ar_20261014
+Just me,أنا فقط,crm,Server,server_ar_20261014
+KSA Compliance Premium,الامتثال السعودي المتقدم,ksa_compliance,Server,server_ar_20261014
+Kanban settings,إعدادات لوحة كانبان,crm,Server,server_ar_20261014
+Keeping my pipeline organized,تنظيم مراحل المبيعات,crm,Server,server_ar_20261014
+Keywords,الكلمات المفتاحية,"gameplan,wiki",Server,server_ar_20261014
+Knowledge Base Contributor,مساهم قاعدة المعرفة,frappe,Server,server_ar_20261014
+Knowledge Base Editor,محرر قاعدة المعرفة,frappe,Server,server_ar_20261014
+LMS Student,متعلم,"frappe,lms",Server,server_ar_20261014
+Last Modified,آخر تعديل,crm,Server,server_ar_20261014
+Last Odometer Value ,قراءة العداد السابقة,hrms,Server,server_ar_20261014
+Layout Customized,تم تخصيص التخطيط,gameplan,Server,server_ar_20261014
+Leave Balance Summary,ملخص أرصدة الإجازات,hrms,Server,server_ar_20261014
+Legacy,قديم,insights,Server,server_ar_20261014
+Less than,أقل من,crm,Server,server_ar_20261014
+Less than or equal to,أقل من أو يساوي,crm,Server,server_ar_20261014
+Let's Get Started,لنبدأ,frappe,Server,server_ar_20261014
+Let's avoid repeated words and characters,تجنب تكرار الكلمات والأحرف,frappe,Server,server_ar_20261014
+Let's set up your account,لنجهز حسابك,frappe,Server,server_ar_20261014
+Let's setup your account.,لنجهز حسابك.,frappe,Server,server_ar_20261014
+Let's take you back to onboarding,العودة إلى خطوات الإعداد,frappe,Server,server_ar_20261014
+Linked Charts,المخططات المرتبطة,insights,Server,server_ar_20261014
+LinkedIn ID,معرّف LinkedIn,"frappe,lms",Server,server_ar_20261014
+Loan LOS User,مستخدم نظام إنشاء القروض,lending,Server,server_ar_20261014
+Loan Reporter,مستخدم تقارير القروض,lending,Server,server_ar_20261014
+Log a Call,تسجيل مكالمة,crm,Server,server_ar_20261014
+Login with Different Account,الدخول بحساب آخر,crm,Server,server_ar_20261014
+Looks like something is wrong with this site's Paypal configuration.,يبدو أن هناك خطأ في إعدادات PayPal لهذا الموقع.,payments,Server,server_ar_20261014
+Looks like something is wrong with this site's payment gateway configuration. No payment has been made.,يبدو أن هناك خطأ في إعدادات بوابة الدفع لهذا الموقع. لم يتم إجراء أي دفع.,payments,Server,server_ar_20261014
+Looks like you didn't change the value,يبدو أنك لم تغيّر القيمة,frappe,Server,server_ar_20261014
+"Lost Notes are required when Lost Reason is ""Other""",ملاحظات الخسارة مطلوبة عندما يكون السبب «أخرى»,crm,Server,server_ar_20261014
+Lost Reason is required,سبب الخسارة مطلوب,crm,Server,server_ar_20261014
+Loyalty Point,نقطة ولاء,posawesome,Server,server_ar_20261014
+Loyalty Point Scheme,نظام نقاط الولاء,posawesome,Server,server_ar_20261014
+Made to Order,تصنيع حسب الطلب,erpnext,Server,server_ar_20261014
+Main Revision,المراجعة الرئيسية,wiki,Server,server_ar_20261014
+Maintenance User,مستخدم الصيانة,"frappe,erpnext",Server,server_ar_20261014
+Make Call,إجراء مكالمة,crm,Server,server_ar_20261014
+Make Private,جعله خاصًا,crm,Server,server_ar_20261014
+Make Public,جعله عامًا,crm,Server,server_ar_20261014
+Make a Call,إجراء مكالمة,crm,Server,server_ar_20261014
+Make attachment {0},جعل المرفق {0},crm,Server,server_ar_20261014
+Make {0} as default calling medium,تعيين {0} وسيلة الاتصال الافتراضية,crm,Server,server_ar_20261014
+Managing contacts and companies,إدارة جهات الاتصال والشركات,crm,Server,server_ar_20261014
+Mandatory field error: {0},خطأ في حقل إلزامي: {0},crm,Server,server_ar_20261014
+Mandatory fields required: {0},حقول إلزامية مطلوبة: {0},crm,Server,server_ar_20261014
+Manufacturing Manager,مدير التصنيع,erpnext,Server,server_ar_20261014
+Manufacturing User,مستخدم التصنيع,erpnext,Server,server_ar_20261014
+Marketing Manager,مدير التسويق,frappe,Server,server_ar_20261014
+Marley Health,مارلي للرعاية الصحية,healthcare,Server,server_ar_20261014
+Material Planning,تخطيط المواد,erpnext,Server,server_ar_20261014
+Materials To Be Transferred,مواد بانتظار التحويل,erpnext,Server,server_ar_20261014
+Max Discount Percentage Allowed ,أقصى نسبة خصم مسموح بها,"erpnext,lms,posawesome",Server,server_ar_20261014
+Max {0},الحد الأقصى {0},banking,Server,server_ar_20261014
+Medical Department,القسم الطبي,"erpnext,lms,healthcare",Server,server_ar_20261014
+Medication Entry,سجل صرف الدواء,healthcare,Server,server_ar_20261014
+Medication Order,أمر دواء,healthcare,Server,server_ar_20261014
+Medium ID,معرّف Medium,"frappe,lms",Server,server_ar_20261014
+Merge Revision,مراجعة الدمج,wiki,Server,server_ar_20261014
+Merged At,وقت الدمج,wiki,Server,server_ar_20261014
+Minimize,تصغير,crm,Server,server_ar_20261014
+Misc,متفرقات,"lending,helpdesk",Server,server_ar_20261014
+Missed Call,مكالمة فائتة,crm,Server,server_ar_20261014
+Mobile number added,تمت إضافة رقم الجوال,crm,Server,server_ar_20261014
+Mobile number removed,تمت إزالة رقم الجوال,crm,Server,server_ar_20261014
+Mobile number should be a number,يجب أن يتكون رقم الجوال من أرقام,crm,Server,server_ar_20261014
+Mobile number updated,تم تحديث رقم الجوال,crm,Server,server_ar_20261014
+Moderator,المشرف,"frappe,lms",Server,server_ar_20261014
+More than 20,أكثر من 20,crm,Server,server_ar_20261014
+Moved,تم النقل,wiki,Server,server_ar_20261014
+Mpesa C2B Register URL,رابط تسجيل الدفع من العميل للشركة في M-Pesa,posawesome,Server,server_ar_20261014
+Multiple Answers,إجابات متعددة,gameplan,Server,server_ar_20261014
+Multiple root nodes not allowed.,لا يُسمح بأكثر من عقدة جذر واحدة.,frappe,Server,server_ar_20261014
+My Open Deals,صفقاتي المفتوحة,crm,Server,server_ar_20261014
+My Workspaces,مساحات عملي,frappe,Server,server_ar_20261014
+Natural,طبيعي,gameplan,Server,server_ar_20261014
+NeedsCleaning,تحتاج تنظيفًا,vintraxo_restaurant,Server,server_ar_20261014
+Nested Conditions,شروط متداخلة,crm,Server,server_ar_20261014
+Net Total Amount,صافي المبلغ الإجمالي,erpnext,Server,server_ar_20261014
+New Comment,تعليق جديد,crm,Server,server_ar_20261014
+New Message,رسالة جديدة,crm,Server,server_ar_20261014
+New Organization,مؤسسة جديدة,crm,Server,server_ar_20261014
+New Section,قسم جديد,crm,Server,server_ar_20261014
+Newsletter Manager,مدير النشرات البريدية,frappe,Server,server_ar_20261014
+Next question,السؤال التالي,crm,Server,server_ar_20261014
+Next_At,موعد المحاولة التالية,vintraxo_restaurant,Server,server_ar_20261014
+No Activities Found,لم يتم العثور على أنشطة,crm,Server,server_ar_20261014
+No Attachments Found,لم يتم العثور على مرفقات,crm,Server,server_ar_20261014
+No Call History,لا يوجد سجل مكالمات,crm,Server,server_ar_20261014
+No Comments Found,لم يتم العثور على تعليقات,crm,Server,server_ar_20261014
+No Contacts Added,لم تتم إضافة جهات اتصال,crm,Server,server_ar_20261014
+No Data Fields Added Yet,لم تتم إضافة حقول بيانات بعد,crm,Server,server_ar_20261014
+No Details Added,لم تتم إضافة تفاصيل,crm,Server,server_ar_20261014
+No Emails Found,لم يتم العثور على رسائل بريد,crm,Server,server_ar_20261014
+No Events Scheduled,لا توجد أحداث مجدولة,crm,Server,server_ar_20261014
+No File found for attachment '{0}'.,لم يتم العثور على ملف للمرفق '{0}'.,whatsapp,Server,server_ar_20261014
+No IBAN for {0} {1}.,لا يوجد رقم IBAN لـ{0} {1}.,banking,Server,server_ar_20261014
+No IBAN found for Employee {0}.,لم يتم العثور على رقم IBAN للموظف {0}.,banking,Server,server_ar_20261014
+No Mobile Number Set,لم يتم تحديد رقم جوال,crm,Server,server_ar_20261014
+No New Notifications,لا توجد إشعارات جديدة,crm,Server,server_ar_20261014
+No Notes Found,لم يتم العثور على ملاحظات,crm,Server,server_ar_20261014
+No Primary Contact Set,لم يتم تحديد جهة اتصال رئيسية,crm,Server,server_ar_20261014
+No Tasks Found,لم يتم العثور على مهام,crm,Server,server_ar_20261014
+No Templates Found,لم يتم العثور على قوالب,crm,Server,server_ar_20261014
+No Title,بلا عنوان,crm,Server,server_ar_20261014
+No Website Found,لم يتم العثور على موقع إلكتروني,crm,Server,server_ar_20261014
+No WhatsApp Messages Found,لم يتم العثور على رسائل WhatsApp,crm,Server,server_ar_20261014
+No components saved,لا توجد مكوّنات محفوظة,builder,Server,server_ar_20261014
+No matches occurred via Auto Reconciliation,لم تنتج مطابقة عن التسوية التلقائية,banking,Server,server_ar_20261014
+"No pages match ""{0}""","لا توجد صفحات تطابق ""{0}""",wiki,Server,server_ar_20261014
+No permission to '{0}' {1},لا توجد صلاحية لتنفيذ '{0}' على {1},frappe,Server,server_ar_20261014
+No {0} Found,لم يتم العثور على {0},crm,Server,server_ar_20261014
+No {0} available,لا يوجد {0} متاح,crm,Server,server_ar_20261014
+NoShow,لم يحضر,vintraxo_restaurant,Server,server_ar_20261014
+Not equals,لا يساوي,crm,Server,server_ar_20261014
+Not in,ليس ضمن,crm,Server,server_ar_20261014
+Not like,لا يشابه,crm,Server,server_ar_20261014
+Not permitted to read another user's shift,غير مسموح بقراءة وردية مستخدم آخر,posawesome,Server,server_ar_20261014
+Note deleted,تم حذف الملاحظة,crm,Server,server_ar_20261014
+Notes View,عرض الملاحظات,crm,Server,server_ar_20261014
+Notes: ,ملاحظات: ,erpnext,Server,server_ar_20261014
+Notice,إشعار,vintraxo_restaurant,Server,server_ar_20261014
+OAuth Provider,مزود المصادقة OAuth,frappe,Server,server_ar_20261014
+OTP,رمز التحقق لمرة واحدة,"telephony,ksa_compliance",Server,server_ar_20261014
+OTP Hash,بصمة رمز التحقق,telephony,Server,server_ar_20261014
+OTP Length,طول رمز التحقق,telephony,Server,server_ar_20261014
+Observation,الملاحظة السريرية,healthcare,Server,server_ar_20261014
+Offer,عرض,posawesome,Server,server_ar_20261014
+Offer Applied,تم تطبيق العرض,"erpnext,lms,posawesome",Server,server_ar_20261014
+Offer Details,تفاصيل العرض,webshop,Server,server_ar_20261014
+Offers,العروض,webshop,Server,server_ar_20261014
+Ok,حسنًا,wiki,Server,server_ar_20261014
+On {0},في {0},banking,Server,server_ar_20261014
+Onboarding Complete,اكتمل الإعداد الأولي,insights,Server,server_ar_20261014
+Once the Work Order is Closed. It can't be resumed.,بعد إقفال أمر العمل، لا يمكن استئنافه.,erpnext,Server,server_ar_20261014
+Only Deduct Tax On Excess Amount ,استقطاع الضريبة على المبلغ الزائد فقط,erpnext,Server,server_ar_20261014
+Open Issues ,المشكلات المفتوحة,erpnext,Server,server_ar_20261014
+Open Nested Conditions,فتح الشروط المتداخلة,crm,Server,server_ar_20261014
+Open Projects ,المشاريع المفتوحة,erpnext,Server,server_ar_20261014
+Open To Do ,المهام المفتوحة,erpnext,Server,server_ar_20261014
+Open Website,فتح الموقع,crm,Server,server_ar_20261014
+OpenOrder,طلب مفتوح,vintraxo_restaurant,Server,server_ar_20261014
+Opening & Closing,الافتتاح والإقفال,erpnext,Server,server_ar_20261014
+Opening Invoice Tool,أداة الفواتير الافتتاحية,erpnext,Server,server_ar_20261014
+Operation is missing 'type',العملية تفتقد الحقل 'type',wiki,Server,server_ar_20261014
+Option,خيار,"lms,gameplan,education,healthcare",Server,server_ar_20261014
+Optional. Set this to specify a preferred version of this page for search engines.,اختياري. حدد نسخة مفضلة من هذه الصفحة لمحركات البحث.,builder,Server,server_ar_20261014
+Or create leads manually,أو إنشاء العملاء المحتملين يدويًا,crm,Server,server_ar_20261014
+Organize my contacts,تنظيم جهات اتصالي,crm,Server,server_ar_20261014
+Original HTML,المحتوى الأصلي (HTML),wiki,Server,server_ar_20261014
+Ours Payload,بيانات نسختنا,wiki,Server,server_ar_20261014
+Outpatient,العيادات الخارجية,healthcare,Server,server_ar_20261014
+Outward Order,أمر صادر,erpnext,Server,server_ar_20261014
+POS,نقطة البيع,erpnext,Server,server_ar_20261014
+POS Awesome,نقطة بيع POS Awesome,posawesome,Server,server_ar_20261014
+POS Closing Shift {} against {} between selected period,وردية إقفال نقطة البيع {} مقابل {} خلال الفترة المحددة,posawesome,Server,server_ar_20261014
+POS Invoice isn't created by user {},فاتورة نقطة البيع لم ينشئها المستخدم {},erpnext,Server,server_ar_20261014
+POS Invoices can't be added when Sales Invoice is enabled,لا يمكن إضافة فواتير نقطة البيع عند تفعيل فاتورة المبيعات,erpnext,Server,server_ar_20261014
+POS Offer,عرض نقطة البيع,posawesome,Server,server_ar_20261014
+POS Opening Shift,وردية افتتاح نقطة البيع,posawesome,Server,server_ar_20261014
+POS Profile doesn't match {},ملف نقطة البيع لا يطابق {},erpnext,Server,server_ar_20261014
+POS Profile {} does not belongs to company {},ملف نقطة البيع {} لا يتبع الشركة {},posawesome,Server,server_ar_20261014
+Pages,الصفحات,wiki,Server,server_ar_20261014
+Patient,المريض,"erpnext,lms,healthcare",Server,server_ar_20261014
+Patient Appointment,موعد المريض,healthcare,Server,server_ar_20261014
+Patient History,التاريخ الطبي للمريض,healthcare,Server,server_ar_20261014
+Patient History Settings,إعدادات التاريخ الطبي للمريض,healthcare,Server,server_ar_20261014
+Patient Name,اسم المريض,"erpnext,lms,healthcare",Server,server_ar_20261014
+Patient Payable Amount,المبلغ المستحق على المريض,"erpnext,lms",Server,server_ar_20261014
+Payload,البيانات المرسلة,wiki,Server,server_ar_20261014
+Payment Link couldn't be sent.,تعذر إرسال رابط الدفع.,erpnext,Server,server_ar_20261014
+Payment Reminder,تذكير بالدفع,crm,Server,server_ar_20261014
+PendingReview,بانتظار المراجعة,vintraxo_restaurant,Server,server_ar_20261014
+Performance Management,إدارة الأداء,hrms,Server,server_ar_20261014
+Permission Manager,إدارة الصلاحيات,frappe,Server,server_ar_20261014
+Phone Digest,بصمة رقم الهاتف,vintraxo_restaurant,Server,server_ar_20261014
+Phone calls,المكالمات الهاتفية,crm,Server,server_ar_20261014
+Pickup contact phone must consist of a '+' followed by one or more digits.,يجب أن يبدأ هاتف جهة اتصال الاستلام بعلامة '+' تتبعها أرقام.,erpnext_shipping,Server,server_ar_20261014
+Pin Scope,نطاق التثبيت,gameplan,Server,server_ar_20261014
+Pin View,تثبيت العرض,crm,Server,server_ar_20261014
+Pinned At,وقت التثبيت,gameplan,Server,server_ar_20261014
+Pinned Views,العروض المثبتة,crm,Server,server_ar_20261014
+Places,الأماكن,frappe,Server,server_ar_20261014
+Playback Speed,سرعة التشغيل,crm,Server,server_ar_20261014
+Please activate the checkbox 'Enable EBICS' in the {0}.,يرجى تفعيل خيار «تفعيل EBICS» في {0}.,banking,Server,server_ar_20261014
+Please activate the checkbox 'Enabled' in the {0}.,يرجى تفعيل خيار «مفعّل» في {0}.,banking,Server,server_ar_20261014
+Please configure 'Fatoora Server URL',يرجى ضبط «رابط خادم فاتورة»,ksa_compliance,Server,server_ar_20261014
+Please configure 'Zatca CLI Path',يرجى ضبط «مسار أداة سطر الأوامر لهيئة الزكاة والضريبة والجمارك»,ksa_compliance,Server,server_ar_20261014
+Please confirm that the following keys are identical to the ones mentioned on your bank's letter:,يرجى التأكد من تطابق المفاتيح التالية مع المذكورة في خطاب البنك:,banking,Server,server_ar_20261014
+Please enter a valid email address,يرجى إدخال بريد إلكتروني صالح,crm,Server,server_ar_20261014
+Please enter a valid phone number,يرجى إدخال رقم هاتف صالح,crm,Server,server_ar_20261014
+"Please enter your email, we'll send you password reset link",أدخل بريدك الإلكتروني لنرسل إليك رابط إعادة تعيين كلمة المرور,frappe,Server,server_ar_20261014
+Please onboard first to generate a 'Compliance Request ID',يرجى إكمال التهيئة أولًا لإنشاء «معرّف طلب الامتثال»,ksa_compliance,Server,server_ar_20261014
+Please select From Date.,يرجى تحديد تاريخ البداية.,hrms,Server,server_ar_20261014
+Please select Shift Schedule and assignment date(s).,يرجى اختيار جدول الورديات وتواريخ الإسناد.,hrms,Server,server_ar_20261014
+Please select Shift Type and assignment date(s).,يرجى اختيار نوع الوردية وتواريخ الإسناد.,hrms,Server,server_ar_20261014
+Please select an existing contact,يرجى اختيار جهة اتصال موجودة,crm,Server,server_ar_20261014
+Please select an existing organization,يرجى اختيار مؤسسة موجودة,crm,Server,server_ar_20261014
+Please select another payment method. Go Cardless does not support transactions in currency '{0}',يرجى اختيار طريقة دفع أخرى. لا يدعم GoCardless المعاملات بالعملة '{0}',payments,Server,server_ar_20261014
+Please select another payment method. Mpesa does not support transactions in currency '{0}',يرجى اختيار طريقة دفع أخرى. لا يدعم M-Pesa المعاملات بالعملة '{0}',payments,Server,server_ar_20261014
+Please select another payment method. PayPal does not support transactions in currency '{0}',يرجى اختيار طريقة دفع أخرى. لا يدعم PayPal المعاملات بالعملة '{0}',payments,Server,server_ar_20261014
+Please select another payment method. Paytm does not support transactions in currency '{0}',يرجى اختيار طريقة دفع أخرى. لا يدعم Paytm المعاملات بالعملة '{0}',payments,Server,server_ar_20261014
+Please select another payment method. Razorpay does not support transactions in currency '{0}',يرجى اختيار طريقة دفع أخرى. لا يدعم Razorpay المعاملات بالعملة '{0}',payments,Server,server_ar_20261014
+Please select another payment method. Stripe does not support transactions in currency '{0}',يرجى اختيار طريقة دفع أخرى. لا يدعم Stripe المعاملات بالعملة '{0}',payments,Server,server_ar_20261014
+Please set a mobile number to make calls,يرجى تحديد رقم جوال لإجراء المكالمات,crm,Server,server_ar_20261014
+Please set a website to visit,يرجى تحديد الموقع الإلكتروني لزيارته,crm,Server,server_ar_20261014
+Please set an email address to send emails,يرجى تحديد بريد إلكتروني لإرسال الرسائل,crm,Server,server_ar_20261014
+Please set the 'Bank Account' filter,يرجى تحديد مرشح «الحساب البنكي»,banking,Server,server_ar_20261014
+Positional,حسب الموضع,whatsapp,Server,server_ar_20261014
+Practitioner,الممارس الصحي,"erpnext,lms,healthcare",Server,server_ar_20261014
+Prefer knowledge base,تفضيل قاعدة المعرفة,helpdesk,Server,server_ar_20261014
+Preparation Minutes,مدة التحضير بالدقائق,vintraxo_restaurant,Server,server_ar_20261014
+Prepared,مجهّز,vintraxo_restaurant,Server,server_ar_20261014
+Prepared Report User,مستخدم التقارير المعدّة,frappe,Server,server_ar_20261014
+Prevent Duplicate Applications,منع الطلبات المكررة,hrms,Server,server_ar_20261014
+Price Discount Scheme ,نظام خصم الأسعار,posawesome,Server,server_ar_20261014
+Primary Contact Set,تم تحديد جهة الاتصال الرئيسية,crm,Server,server_ar_20261014
+Primary email address updated,تم تحديث البريد الإلكتروني الرئيسي,crm,Server,server_ar_20261014
+Primary mobile number updated,تم تحديث رقم الجوال الرئيسي,crm,Server,server_ar_20261014
+Private Verification State,حالة التحقق الخاصة,vintraxo_restaurant,Server,server_ar_20261014
+Private or Public,خاص أو عام,crm,Server,server_ar_20261014
+Projected,متوقع,erpnext,Server,server_ar_20261014
+Projected Quantity as Source,استخدام الكمية المتوقعة كمصدر,erpnext,Server,server_ar_20261014
+Projects Manager,مدير المشاريع,erpnext,Server,server_ar_20261014
+Projects User,مستخدم المشاريع,"erpnext,frappe_slack_connector",Server,server_ar_20261014
+Proposed,مقترح,wiki,Server,server_ar_20261014
+Provider_Code,رمز المزود,vintraxo_restaurant,Server,server_ar_20261014
+Public Views,العروض العامة,crm,Server,server_ar_20261014
+Purchase Manager,مدير المشتريات,"frappe,erpnext",Server,server_ar_20261014
+Purchase Master Manager,مدير بيانات المشتريات,"frappe,erpnext",Server,server_ar_20261014
+Purchase Receipt Trends ,اتجاهات استلام المشتريات,erpnext,Server,server_ar_20261014
+Purchase User,مستخدم المشتريات,"frappe,erpnext",Server,server_ar_20261014
+Push Notification,إشعار فوري,frappe,Server,server_ar_20261014
+Qty ,الكمية,"erpnext,webshop",Server,server_ar_20261014
+Qty to Transfer,الكمية المطلوب تحويلها,erpnext,Server,server_ar_20261014
+Quality Manager,مدير الجودة,erpnext,Server,server_ar_20261014
+Quick Reaction Emojis,رموز التفاعل السريع,gameplan,Server,server_ar_20261014
+Quick Reply,رد سريع,whatsapp,Server,server_ar_20261014
+Quick filters updated successfully,تم تحديث المرشحات السريعة بنجاح,crm,Server,server_ar_20261014
+Quotations: ,عروض الأسعار: ,erpnext,Server,server_ar_20261014
+Rank,الرتبة,helpdesk,Server,server_ar_20261014
+Ranking,الترتيب,webshop,Server,server_ar_20261014
+Read Receipts,إشعارات القراءة,whatsapp,Server,server_ar_20261014
+Read-only,للقراءة فقط,wiki,Server,server_ar_20261014
+Receipt Papers,مستندات الاستلام,"erpnext,lms,vintraxo_restaurant",Server,server_ar_20261014
+Receipt Photo,صورة الاستلام,"erpnext,lms,vintraxo_restaurant",Server,server_ar_20261014
+Receiver Name,اسم المستلم,"erpnext,lms,vintraxo_restaurant",Server,server_ar_20261014
+Receiver Signature,توقيع المستلم,"erpnext,lms,vintraxo_restaurant",Server,server_ar_20261014
+Reconciliation Statement,كشف التسوية,erpnext,Server,server_ar_20261014
+Recording not available,التسجيل غير متاح,crm,Server,server_ar_20261014
+Recurring holidays,العطلات المتكررة,helpdesk,Server,server_ar_20261014
+Referrals,الإحالات,crm,Server,server_ar_20261014
+Referring Practitioner,الممارس الصحي المُحيل,"erpnext,lms,healthcare",Server,server_ar_20261014
+Region,المنطقة,storage_integration,Server,server_ar_20261014
+Registers,السجلات,erpnext,Server,server_ar_20261014
+Registration_Token,رمز تسجيل الجهاز,vintraxo_restaurant,Server,server_ar_20261014
+Rehabilitation,إعادة التأهيل,healthcare,Server,server_ar_20261014
+Reject Call,رفض المكالمة,crm,Server,server_ar_20261014
+Rejected ,مرفوض,erpnext,Server,server_ar_20261014
+Rejected At,وقت الرفض,wiki,Server,server_ar_20261014
+Relieving Date ,تاريخ انتهاء الخدمة,hrms,Server,server_ar_20261014
+Remote,عن بُعد,lms,Server,server_ar_20261014
+Remove Image,إزالة الصورة,crm,Server,server_ar_20261014
+Reordered,تمت إعادة الترتيب,wiki,Server,server_ar_20261014
+Repayment Amount must be greater than ,يجب أن يكون مبلغ السداد أكبر من ,lending,Server,server_ar_20261014
+Replace with an icon...,استبدالها بأيقونة...,crm,Server,server_ar_20261014
+Replacing my current CRM,استبدال نظام علاقات العملاء الحالي,crm,Server,server_ar_20261014
+Replicate Role,نسخ الدور,frappe,Server,server_ar_20261014
+Replicating Role...,جارٍ نسخ الدور...,frappe,Server,server_ar_20261014
+Report Manager,مدير التقارير,frappe,Server,server_ar_20261014
+Reporting & forecasting,التقارير والتنبؤ,crm,Server,server_ar_20261014
+Repository,المستودع البرمجي,wiki,Server,server_ar_20261014
+Repository Owner,مالك المستودع البرمجي,wiki,Server,server_ar_20261014
+Repost Accounting Ledger Settings,إعدادات إعادة ترحيل دفتر الأستاذ المحاسبي,erpnext,Server,server_ar_20261014
+Resolved At,وقت الحل,wiki,Server,server_ar_20261014
+Resolved Payload,البيانات بعد حل التعارض,wiki,Server,server_ar_20261014
+Resource Allocation,تخصيص الموارد,frappe_slack_connector,Server,server_ar_20261014
+Restaurant Receipt Evidence,إثبات استلام المطعم,"erpnext,lms,vintraxo_restaurant",Server,server_ar_20261014
+Retail,تجزئة,"erpnext,vintraxo_restaurant",Server,server_ar_20261014
+Returned Qty ,الكمية المرتجعة,erpnext,Server,server_ar_20261014
+Reviewed,تمت المراجعة,vintraxo_restaurant,Server,server_ar_20261014
+Reviewed At,وقت المراجعة,wiki,Server,server_ar_20261014
+Rich Quote,اقتباس منسق,gameplan,Server,server_ar_20261014
+Ringing...,جارٍ الرنين...,crm,Server,server_ar_20261014
+Role Allowed to over bill ,الدور المسموح له بتجاوز مبلغ الفوترة,erpnext,Server,server_ar_20261014
+Row Size (KB),حجم الصف (كيلوبايت),insights,Server,server_ar_20261014
+Rush,وضع الذروة,vintraxo_restaurant,Server,server_ar_20261014
+SLA Mapping,ربط اتفاقيات مستوى الخدمة,helpdesk,Server,server_ar_20261014
+SUBJECT,الموضوع,crm,Server,server_ar_20261014
+Salary Component ,مكوّن الراتب,hrms,Server,server_ar_20261014
+Salary Structure: ,هيكل الراتب: ,hrms,Server,server_ar_20261014
+Sales Invoice isn't created by user {},فاتورة المبيعات لم ينشئها المستخدم {},erpnext,Server,server_ar_20261014
+Sales Master Manager,مدير بيانات المبيعات,"frappe,erpnext,posawesome",Server,server_ar_20261014
+Sales Partner ,شريك المبيعات,erpnext,Server,server_ar_20261014
+Sales Taxes,ضرائب المبيعات,erpnext,Server,server_ar_20261014
+Sample Collection,جمع العينات,healthcare,Server,server_ar_20261014
+Sandbox,بيئة اختبار,"payments,ksa_compliance",Server,server_ar_20261014
+Save Changes,حفظ التغييرات,crm,Server,server_ar_20261014
+Save Quotations as Draft,حفظ عروض الأسعار كمسودات,webshop,Server,server_ar_20261014
+Saved Views,العروض المحفوظة,crm,Server,server_ar_20261014
+Schedule (Cron),الجدولة (Cron),insights,Server,server_ar_20261014
+Schedule Interview,جدولة مقابلة,hrms,Server,server_ar_20261014
+Schedule a task...,جدولة مهمة...,crm,Server,server_ar_20261014
+Schedule an Event,جدولة حدث,crm,Server,server_ar_20261014
+Scheduler is Inactive. Can't trigger job now.,المجدول غير نشط. لا يمكن تشغيل المهمة الآن.,erpnext,Server,server_ar_20261014
+Scheduler is Inactive. Can't trigger jobs now.,المجدول غير نشط. لا يمكن تشغيل المهام الآن.,erpnext,Server,server_ar_20261014
+Schema,مخطط البيانات,insights,Server,server_ar_20261014
+Script Manager,مدير السكربتات,frappe,Server,server_ar_20261014
+Search component,البحث عن مكوّن,builder,Server,server_ar_20261014
+Seated,تم الإجلاس,vintraxo_restaurant,Server,server_ar_20261014
+Secrets,المفاتيح السرية,"insights,wiki",Server,server_ar_20261014
+Security Credential,بيانات اعتماد الأمان,payments,Server,server_ar_20261014
+Security Management,إدارة الضمانات,lending,Server,server_ar_20261014
+Select Country to see state options,اختر الدولة لعرض المناطق,crm,Server,server_ar_20261014
+Select Dispatch Address ,اختر عنوان الإرسال,erpnext,Server,server_ar_20261014
+Select Type,اختر النوع,crm,Server,server_ar_20261014
+Select a Value,اختر قيمة,crm,Server,server_ar_20261014
+Select all that apply,اختر جميع الخيارات المنطبقة,crm,Server,server_ar_20261014
+Select an Option,اختر خيارًا,crm,Server,server_ar_20261014
+Select an icon...,اختر أيقونة...,crm,Server,server_ar_20261014
+Select default color,اختر اللون الافتراضي,builder,Server,server_ar_20261014
+Send Template,إرسال قالب,crm,Server,server_ar_20261014
+Send an Email,إرسال بريد إلكتروني,crm,Server,server_ar_20261014
+Sending comment...,جارٍ إرسال التعليق...,crm,Server,server_ar_20261014
+Sending email...,جارٍ إرسال البريد الإلكتروني...,crm,Server,server_ar_20261014
+Sent At,وقت الإرسال,"whatsapp,telephony",Server,server_ar_20261014
+Service Unit,وحدة الخدمة,"erpnext,lms,healthcare",Server,server_ar_20261014
+Set As Default,تعيين كافتراضي,crm,Server,server_ar_20261014
+Set First Name,تحديد الاسم الأول,crm,Server,server_ar_20261014
+Set Meta Tags,تحديد البيانات الوصفية,webshop,Server,server_ar_20261014
+Set an Organization,تحديد مؤسسة,crm,Server,server_ar_20261014
+Set as Primary Contact,تعيين كجهة اتصال رئيسية,crm,Server,server_ar_20261014
+Set up my sales pipeline,إعداد مراحل مبيعاتي,crm,Server,server_ar_20261014
+Share Feedback,مشاركة التقييم,helpdesk,Server,server_ar_20261014
+Share Link,رابط المشاركة,insights,Server,server_ar_20261014
+Show ,عرض,helpdesk,Server,server_ar_20261014
+Show unclosed fiscal year's P&L balances,عرض أرصدة الأرباح والخسائر للسنوات المالية غير المقفلة,erpnext,Server,server_ar_20261014
+Sidebar Badge Style,نمط شارة القائمة الجانبية,gameplan,Server,server_ar_20261014
+Skip for now,تجاوز حاليًا,crm,Server,server_ar_20261014
+Slack Information,معلومات Slack,"lms,frappe_slack_connector",Server,server_ar_20261014
+Social Preview,معاينة المشاركة الاجتماعية,builder,Server,server_ar_20261014
+"Sorry, this coupon code's validity has expired",انتهت صلاحية كوبون الخصم,"erpnext,posawesome",Server,server_ar_20261014
+"Sorry, this coupon code's validity has not started",لم تبدأ صلاحية كوبون الخصم بعد,"erpnext,posawesome",Server,server_ar_20261014
+Source Path,مسار المصدر,wiki,Server,server_ar_20261014
+Space,مساحة,"gameplan,wiki",Server,server_ar_20261014
+Space Color,لون المساحة,wiki,Server,server_ar_20261014
+Space Icon,أيقونة المساحة,wiki,Server,server_ar_20261014
+Spaces,المساحات,wiki,Server,server_ar_20261014
+Spooled,أُرسل إلى قائمة الطباعة,vintraxo_restaurant,Server,server_ar_20261014
+Spreadsheets,جداول البيانات,crm,Server,server_ar_20261014
+StaffImport,استيراد الموظفين,vintraxo_restaurant,Server,server_ar_20261014
+Staging,بيئة تجريبية,payments,Server,server_ar_20261014
+"Standard Form Scripts can't be modified, duplicate the script instead.",لا يمكن تعديل سكربتات النماذج القياسية؛ أنشئ نسخة من السكربت.,helpdesk,Server,server_ar_20261014
+Standard Views,العروض القياسية,crm,Server,server_ar_20261014
+Start & End Time Are Required,وقتا البدء والانتهاء مطلوبان,crm,Server,server_ar_20261014
+Start Time can't be greater than or equal to End Time in row <u>{0}</u>.,يجب أن يسبق وقت البدء وقت الانتهاء في الصف <u>{0}</u>.,helpdesk,Server,server_ar_20261014
+Start a conversation now!,ابدأ محادثة الآن!,crm,Server,server_ar_20261014
+Start with sample 10 leads,البدء بعشرة عملاء محتملين تجريبيين,crm,Server,server_ar_20261014
+State (JSON),الحالة (JSON),insights,Server,server_ar_20261014
+Status ,الحالة,helpdesk,Server,server_ar_20261014
+Status is required,الحالة مطلوبة,crm,Server,server_ar_20261014
+Step {0} of {1},الخطوة {0} من {1},crm,Server,server_ar_20261014
+Stock Information,معلومات المخزون,webshop,Server,server_ar_20261014
+Stock Manager,مدير المخزون,"erpnext,webshop,ecommerce_integrations",Server,server_ar_20261014
+Stock User,مستخدم المخزون,"erpnext,webshop,ecommerce_integrations",Server,server_ar_20261014
+Stopped At,وقت الإيقاف,gameplan,Server,server_ar_20261014
+Store the API secret securely. It won't be displayed again.,احفظ المفتاح السري لواجهة البرمجة في مكان آمن. لن يُعرض مجددًا.,frappe,Server,server_ar_20261014
+Stored,مخزّن,insights,Server,server_ar_20261014
+Student Info,معلومات الطالب,"erpnext,lms",Server,server_ar_20261014
+Subject: {0},الموضوع: {0},crm,Server,server_ar_20261014
+Submit Payment ,اعتماد الدفع,posawesome,Server,server_ar_20261014
+Supplier Ledger,دفتر أستاذ الموردين,erpnext,Server,server_ar_20261014
+Support Team,فريق الدعم,"erpnext,helpdesk",Server,server_ar_20261014
+"Sync your Contacts, Email and Calendars",مزامنة جهات الاتصال والبريد والتقاويم,crm,Server,server_ar_20261014
+Synonyms,المرادفات,helpdesk,Server,server_ar_20261014
+TO,إلى,crm,Server,server_ar_20261014
+TP Agent,موظف الاتصالات,telephony,Server,server_ar_20261014
+TP Manager,مدير الاتصالات,telephony,Server,server_ar_20261014
+TP OTP,رمز تحقق الاتصالات,telephony,Server,server_ar_20261014
+Tab Icon,أيقونة التبويب,wiki,Server,server_ar_20261014
+Tabs,التبويبات,webshop,Server,server_ar_20261014
+Take a note...,دوّن ملاحظة...,crm,Server,server_ar_20261014
+Tap,اضغط,hrms,Server,server_ar_20261014
+Task Progress,تقدم المهمة,erpnext,Server,server_ar_20261014
+Tax Template,قالب الضرائب,erpnext,Server,server_ar_20261014
+Teal,أخضر مزرق,"frappe,helpdesk,lms",Server,server_ar_20261014
+Team Permissions,صلاحيات الفريق,insights,Server,server_ar_20261014
+Team Restrictions,قيود الفريق,helpdesk,Server,server_ar_20261014
+"That key was rejected. Check you copied all of it, and that it hasn't been revoked.",تم رفض المفتاح. تأكد من نسخه كاملًا ومن عدم إلغائه.,builder,Server,server_ar_20261014
+The 'Closed' status cannot be renamed.,لا يمكن إعادة تسمية حالة «مغلق».,helpdesk,Server,server_ar_20261014
+The Assign Condition JSON '{0}' is invalid: </br> {1},شرط الإسناد JSON '{0}' غير صالح: </br> {1},helpdesk,Server,server_ar_20261014
+The Condition '{0}' is invalid,الشرط '{0}' غير صالح,"frappe,erpnext",Server,server_ar_20261014
+The Condition '{0}' is invalid: {1},الشرط '{0}' غير صالح: {1},crm,Server,server_ar_20261014
+The File URL you've entered is incorrect,رابط الملف الذي أدخلته غير صحيح,frappe,Server,server_ar_20261014
+The Loyalty Program isn't valid for the selected company,برنامج الولاء غير صالح للشركة المحددة,erpnext,Server,server_ar_20261014
+The Unassign Condition JSON '{0}' is invalid: </br> {1},شرط إلغاء الإسناد JSON '{0}' غير صالح: </br> {1},helpdesk,Server,server_ar_20261014
+The assignment condition '{0}' is invalid: {1},شرط الإسناد '{0}' غير صالح: {1},helpdesk,Server,server_ar_20261014
+The assignment condition json '{0}' is invalid: {1},شرط الإسناد JSON '{0}' غير صالح: {1},helpdesk,Server,server_ar_20261014
+The coupon code '{0}' is invalid.,كود الخصم '{0}' غير صالح.,lms,Server,server_ar_20261014
+The fieldname you've specified in Attached To Field is invalid,اسم الحقل المحدد في «مرفق بالحقل» غير صالح,frappe,Server,server_ar_20261014
+"The key is valid, but that model isn't available on this account.",المفتاح صالح، لكن النموذج غير متاح لهذا الحساب.,builder,Server,server_ar_20261014
+The selected change account {} doesn't belongs to Company {}.,حساب الباقي المحدد {} لا يتبع الشركة {}.,erpnext,Server,server_ar_20261014
+Theirs Payload,بيانات نسختهم,wiki,Server,server_ar_20261014
+Therapy Plan,خطة العلاج,healthcare,Server,server_ar_20261014
+Therapy Session,جلسة علاج,healthcare,Server,server_ar_20261014
+"There is no task called ""{}""","لا توجد مهمة باسم ""{}""",frappe,Server,server_ar_20261014
+This Month's Summary,ملخص هذا الشهر,erpnext,Server,server_ar_20261014
+This Week's Summary,ملخص هذا الأسبوع,erpnext,Server,server_ar_20261014
+This is my first CRM,هذا أول نظام علاقات عملاء أستخدمه,crm,Server,server_ar_20261014
+This script will be executed on all the pages of your website.,سيُنفذ هذا السكربت على جميع صفحات موقعك.,builder,Server,server_ar_20261014
+This section is not editable,هذا القسم غير قابل للتعديل,crm,Server,server_ar_20261014
+This space doesn't have any pages yet.,لا توجد صفحات في هذه المساحة بعد.,wiki,Server,server_ar_20261014
+This ticket (#{0}) has been merged with ticket <a href = '/helpdesk/tickets/{1}'>#{1}</a>.,تم دمج التذكرة (#{0}) مع التذكرة <a href = '/helpdesk/tickets/{1}'>#{1}</a>.,helpdesk,Server,server_ar_20261014
+This value is fetched from {0}'s {1} field,تُجلب هذه القيمة من الحقل {1} في {0},frappe,Server,server_ar_20261014
+Ticket #{0}: We've received your request,التذكرة #{0}: استلمنا طلبك,helpdesk,Server,server_ar_20261014
+Till Number,رقم صندوق التحصيل,"payments,posawesome",Server,server_ar_20261014
+Time: ,الوقت: ,lms,Server,server_ar_20261014
+To Produce,للإنتاج,erpnext,Server,server_ar_20261014
+"To use protocol version H005, please activate the checkbox 'Needs Certificates'.",لاستخدام إصدار البروتوكول H005، يرجى تفعيل خيار «يتطلب شهادات».,banking,Server,server_ar_20261014
+Toggle on for Preview,فعّل للمعاينة,crm,Server,server_ar_20261014
+Total Number of Booked Depreciations ,إجمالي عدد الإهلاكات المسجلة,erpnext,Server,server_ar_20261014
+Total Number of invoices,إجمالي عدد الفواتير,erpnext,Server,server_ar_20261014
+Total payments amount can't be greater than {},لا يمكن أن يتجاوز إجمالي المدفوعات {},erpnext,Server,server_ar_20261014
+Transaction date can't be earlier than previous movement date,لا يمكن أن يسبق تاريخ المعاملة تاريخ الحركة السابقة,erpnext,Server,server_ar_20261014
+Translator,مترجم,frappe,Server,server_ar_20261014
+Transmitted,تم الإرسال,"erpnext,hrms",Server,server_ar_20261014
+Treatment Counselling,الاستشارة العلاجية,"erpnext,lms,healthcare",Server,server_ar_20261014
+Tree Hash,بصمة الشجرة,wiki,Server,server_ar_20261014
+Tries,عدد المحاولات,vintraxo_restaurant,Server,server_ar_20261014
+Trigger,المشغّل,wiki,Server,server_ar_20261014
+True Label,تسمية القيمة المفعّلة,builder,Server,server_ar_20261014
+Twilio SID,معرّف Twilio SID,telephony,Server,server_ar_20261014
+Twitter ID,معرّف Twitter,"frappe,lms",Server,server_ar_20261014
+Type an email address to add attendee,أدخل بريدًا إلكترونيًا لإضافة مشارك,crm,Server,server_ar_20261014
+Type your message here...,اكتب رسالتك هنا...,crm,Server,server_ar_20261014
+UAE VAT 201,إقرار ضريبة القيمة المضافة الإماراتي 201,erpnext,Server,server_ar_20261014
+Unassign Condition JSON,شرط إلغاء الإسناد (JSON),"frappe,lms",Server,server_ar_20261014
+Undelivered,لم يتم التسليم,telephony,Server,server_ar_20261014
+Unlink,إلغاء الربط,crm,Server,server_ar_20261014
+Unlink & Delete,إلغاء الربط والحذف,crm,Server,server_ar_20261014
+Unlink & Delete {0} items,إلغاء ربط وحذف {0} عنصر,crm,Server,server_ar_20261014
+Unlink All,إلغاء ربط الكل,crm,Server,server_ar_20261014
+Unlink Linked Item,إلغاء ربط العنصر,crm,Server,server_ar_20261014
+Unlink {0} Item(s),إلغاء ربط {0} عنصر,crm,Server,server_ar_20261014
+Unpin View,إلغاء تثبيت العرض,crm,Server,server_ar_20261014
+Unpublished,غير منشور,wiki,Server,server_ar_20261014
+Unsupported doctype '{0}' for ticket stats.,نوع المستند '{0}' غير مدعوم لإحصاءات التذاكر.,helpdesk,Server,server_ar_20261014
+Update {0} Records,تحديث {0} سجل,crm,Server,server_ar_20261014
+Updated_At,وقت التحديث,vintraxo_restaurant,Server,server_ar_20261014
+Upload Attachment,رفع مرفق,crm,Server,server_ar_20261014
+Upload Document,رفع مستند,crm,Server,server_ar_20261014
+Upload Meta Image,رفع صورة البيانات الوصفية,builder,Server,server_ar_20261014
+Upload Video,رفع فيديو,crm,Server,server_ar_20261014
+Uploading...,جارٍ الرفع...,wiki,Server,server_ar_20261014
+Use Redis cache on the server to speedup initial loads of POS Awesome ,استخدام ذاكرة Redis على الخادم لتسريع التحميل الأولي لنقطة بيع POS Awesome,"erpnext,lms,posawesome",Server,server_ar_20261014
+Use template,استخدام القالب,builder,Server,server_ar_20261014
+Used in following pages,مستخدم في الصفحات التالية,builder,Server,server_ar_20261014
+User '{0}' already has the role '{1}',المستخدم '{0}' لديه الدور '{1}' بالفعل,frappe,Server,server_ar_20261014
+User don't have permissions to select/read this account.,ليس لدى المستخدم صلاحية اختيار أو قراءة هذا الحساب.,erpnext,Server,server_ar_20261014
+User {} has been disabled. Please select valid user/cashier,المستخدم {} معطّل. يرجى اختيار مستخدم أو كاشير مفعّل,posawesome,Server,server_ar_20261014
+Uses system's theme to switch between light and dark mode,استخدام مظهر النظام للتبديل بين الوضعين الفاتح والداكن,frappe,Server,server_ar_20261014
+Utility,خدمي,whatsapp,Server,server_ar_20261014
+VAT Total Amount,إجمالي مبلغ ضريبة القيمة المضافة,erpnext,Server,server_ar_20261014
+VIP,عميل مميز,vintraxo_restaurant,Server,server_ar_20261014
+VR Branch Member,عضو فرع فينتراكسو,vintraxo_restaurant,Server,server_ar_20261014
+VR Bundle Component,مكوّن حزمة فينتراكسو,vintraxo_restaurant,Server,server_ar_20261014
+VR Customer App Session,جلسة تطبيق العميل,vintraxo_restaurant,Server,server_ar_20261014
+VR Customer Menu Group,مجموعة قائمة العملاء,vintraxo_restaurant,Server,server_ar_20261014
+VR Customer Menu Item,صنف قائمة العملاء,vintraxo_restaurant,Server,server_ar_20261014
+VR Customer Phone Claim,حجز رقم هاتف العميل,vintraxo_restaurant,Server,server_ar_20261014
+VR Customer Verification,التحقق من العميل,vintraxo_restaurant,Server,server_ar_20261014
+VR Kitchen Device,جهاز المطبخ,vintraxo_restaurant,Server,server_ar_20261014
+VR Manual Platform,منصة بيع يدوية,vintraxo_restaurant,Server,server_ar_20261014
+VR Order Line,سطر الطلب,vintraxo_restaurant,Server,server_ar_20261014
+VR Push Attempt,محاولة إرسال إشعار,vintraxo_restaurant,Server,server_ar_20261014
+VR Ticket Line,سطر تذكرة المطبخ,vintraxo_restaurant,Server,server_ar_20261014
+Variable Example,مثال المتغير,whatsapp,Server,server_ar_20261014
+Variable Format,تنسيق المتغير,whatsapp,Server,server_ar_20261014
+Verified At,وقت التحقق,telephony,Server,server_ar_20261014
+Version 3,الإصدار 3,wiki,Server,server_ar_20261014
+Vertical Compact Layout,تخطيط رأسي مضغوط,insights,Server,server_ar_20261014
+View Additional Salary entries,عرض سجلات الرواتب الإضافية,hrms,Server,server_ar_20261014
+View Contact,عرض جهة الاتصال,crm,Server,server_ar_20261014
+View Name,اسم العرض,crm,Server,server_ar_20261014
+View Sidebar,عرض القائمة الجانبية,frappe,Server,server_ar_20261014
+Vintraxo Bill Contribution,مساهمة سداد فاتورة فينتراكسو,"erpnext,lms,vintraxo_restaurant",Server,server_ar_20261014
+Vintraxo Branch Manager,مدير فرع فينتراكسو,"frappe,erpnext,posawesome,vintraxo_restaurant",Server,server_ar_20261014
+Vintraxo Business Mode,نوع نشاط فينتراكسو,"erpnext,lms,vintraxo_restaurant",Server,server_ar_20261014
+Vintraxo Driver,موصل فينتراكسو,erpnext,Server,server_ar_20261014
+Vintraxo Half Items JSON,أصناف الأنصاف في فينتراكسو (JSON),"erpnext,lms,vintraxo_restaurant",Server,server_ar_20261014
+Vintraxo Kitchen,مطبخ فينتراكسو,"frappe,erpnext",Server,server_ar_20261014
+Vintraxo Meal Groups JSON,مجموعات الوجبات في فينتراكسو (JSON),"erpnext,lms,vintraxo_restaurant",Server,server_ar_20261014
+Vintraxo Packing,تجهيز وتغليف فينتراكسو,"frappe,erpnext",Server,server_ar_20261014
+Vintraxo Paid Extra Items JSON,الإضافات المدفوعة في فينتراكسو (JSON),"erpnext,lms,vintraxo_restaurant",Server,server_ar_20261014
+Vintraxo Phone Lookup Key,مفتاح البحث بالهاتف في فينتراكسو,"erpnext,lms,vintraxo_restaurant",Server,server_ar_20261014
+Vintraxo Preparation Choices JSON,خيارات التحضير في فينتراكسو (JSON),"erpnext,lms,vintraxo_restaurant",Server,server_ar_20261014
+Vintraxo Restaurant Order,طلب مطعم فينتراكسو,"erpnext,lms,vintraxo_restaurant",Server,server_ar_20261014
+Vintraxo Restaurant Stock Policy,سياسة مخزون مطعم فينتراكسو,"erpnext,lms,vintraxo_restaurant",Server,server_ar_20261014
+Vintraxo Return Order,طلب مرتجع فينتراكسو,"erpnext,lms,vintraxo_restaurant",Server,server_ar_20261014
+Vintraxo Size Items JSON,أصناف الأحجام في فينتراكسو (JSON),"erpnext,lms,vintraxo_restaurant",Server,server_ar_20261014
+Vintraxo Waiter,جرسون فينتراكسو,"frappe,erpnext",Server,server_ar_20261014
+Vintraxo Waiting Number,رقم انتظار فينتراكسو,"erpnext,lms,vintraxo_restaurant",Server,server_ar_20261014
+Visit the following link to view your ,زر الرابط التالي لعرض ,lms,Server,server_ar_20261014
+Vital Signs,العلامات الحيوية,healthcare,Server,server_ar_20261014
+Voice Call,مكالمة صوتية,whatsapp,Server,server_ar_20261014
+Votes,الأصوات,gameplan,Server,server_ar_20261014
+Waiting,في الانتظار,vintraxo_restaurant,Server,server_ar_20261014
+Walk-ins,زيارات مباشرة,crm,Server,server_ar_20261014
+"We have a limited number of seats, and they won't be available for long!",عدد المقاعد محدود وقد تنفد قريبًا!,lms,Server,server_ar_20261014
+We're here to help!,نحن هنا لمساعدتك!,erpnext,Server,server_ar_20261014
+We've received your query!,لقد استلمنا استفسارك!,frappe,Server,server_ar_20261014
+Website Manager,مدير الموقع الإلكتروني,"frappe,erpnext,webshop,builder,posawesome",Server,server_ar_20261014
+Website forms,نماذج الموقع,crm,Server,server_ar_20261014
+Welcome Message,رسالة ترحيب,crm,Server,server_ar_20261014
+Welcome to Frappe CRM,مرحبًا بك في إدارة علاقات العملاء,crm,Server,server_ar_20261014
+"Welcome {0}, lets add your first lead",مرحبًا {0}، لنضف أول عميل محتمل,crm,Server,server_ar_20261014
+What are your biggest challenges with sales today?,ما أبرز تحديات المبيعات لديك حاليًا؟,crm,Server,server_ar_20261014
+What would you like to accomplish first?,ما الذي ترغب في إنجازه أولًا؟,crm,Server,server_ar_20261014
+What's New,ما الجديد,frappe,Server,server_ar_20261014
+WhatsApp Template '{0}' does not exist.,قالب WhatsApp '{0}' غير موجود.,whatsapp,Server,server_ar_20261014
+WhatsApp Template '{0}' is {1} and cannot be sent; only Approved templates can.,قالب WhatsApp '{0}' في حالة {1} ولا يمكن إرساله؛ يُسمح بالقوالب المعتمدة فقط.,whatsapp,Server,server_ar_20261014
+WhatsApp Templates,قوالب WhatsApp,crm,Server,server_ar_20261014
+Where,حيث,crm,Server,server_ar_20261014
+Wiki,قاعدة المعرفة,wiki,Server,server_ar_20261014
+Wiki Approver,معتمد قاعدة المعرفة,wiki,Server,server_ar_20261014
+Wiki Broken Links,روابط قاعدة المعرفة المعطلة,wiki,Server,server_ar_20261014
+Wiki Config (.wiki.json),إعدادات قاعدة المعرفة (.wiki.json),wiki,Server,server_ar_20261014
+Wiki Manager,مدير قاعدة المعرفة,wiki,Server,server_ar_20261014
+Wiki Pages,صفحات قاعدة المعرفة,wiki,Server,server_ar_20261014
+Wiki Sidebars,القوائم الجانبية لقاعدة المعرفة,wiki,Server,server_ar_20261014
+"Wiki Space ""{0}"" created successfully.","تم إنشاء مساحة قاعدة المعرفة ""{0}"" بنجاح.",wiki,Server,server_ar_20261014
+Wiki User,مستخدم قاعدة المعرفة,wiki,Server,server_ar_20261014
+Withdraw,سحب,wiki,Server,server_ar_20261014
+Word,كلمة,helpdesk,Server,server_ar_20261014
+Words,الكلمات,wiki,Server,server_ar_20261014
+Work Anniversaries ,ذكرى الالتحاق بالعمل,hrms,Server,server_ar_20261014
+Workflow States Don't Exist,حالات سير العمل غير موجودة,frappe,Server,server_ar_20261014
+Workspace Manager,مدير مساحات العمل,frappe,Server,server_ar_20261014
+You are not allowed to view another agent's stats.,غير مسموح لك بعرض إحصاءات موظف آخر.,helpdesk,Server,server_ar_20261014
+You can't set 'Options' for field {0},لا يمكنك تحديد «الخيارات» للحقل {0},frappe,Server,server_ar_20261014
+You can't set 'Translatable' for field {0},لا يمكنك تفعيل «قابل للترجمة» للحقل {0},frappe,Server,server_ar_20261014
+You can't set standard field {0} as virtual,لا يمكنك جعل الحقل القياسي {0} افتراضيًا,frappe,Server,server_ar_20261014
+You cannot enable both the settings '{0}' and '{1}'.,لا يمكن تفعيل الإعدادين '{0}' و'{1}' معًا.,erpnext,Server,server_ar_20261014
+You cannot unset 'Read Only' for field {0},لا يمكنك إلغاء «للقراءة فقط» للحقل {0},frappe,Server,server_ar_20261014
+You do not have permission to access this document,ليس لديك صلاحية الوصول إلى هذا المستند,crm,Server,server_ar_20261014
+You don't have access to Report: {0},ليس لديك صلاحية الوصول إلى التقرير: {0},frappe,Server,server_ar_20261014
+"You don't have access to this ticket, or it no longer exists.",لا تملك صلاحية الوصول إلى هذه التذكرة، أو أنها لم تعد موجودة.,helpdesk,Server,server_ar_20261014
+You don't have any notifications.,لا توجد لديك إشعارات.,lms,Server,server_ar_20261014
+You don't have enough Loyalty Points to redeem,ليس لديك نقاط ولاء كافية للاستبدال,erpnext,Server,server_ar_20261014
+You don't have enough points to redeem.,ليس لديك نقاط كافية للاستبدال.,erpnext,Server,server_ar_20261014
+You don't have permission to access the Wiki.,ليس لديك صلاحية الوصول إلى قاعدة المعرفة.,wiki,Server,server_ar_20261014
+You don't have permission to access the {0} DocType.,ليس لديك صلاحية الوصول إلى نوع المستند {0}.,frappe,Server,server_ar_20261014
+You don't have permission to access this file,ليس لديك صلاحية الوصول إلى هذا الملف,frappe,Server,server_ar_20261014
+You don't have permission to create Report records.,ليس لديك صلاحية إنشاء سجلات التقارير.,frappe,Server,server_ar_20261014
+You don't have permission to create report for {0},ليس لديك صلاحية إنشاء تقرير لـ{0},frappe,Server,server_ar_20261014
+You don't have permission to delete child document: {0},ليس لديك صلاحية حذف المستند الفرعي: {0},wiki,Server,server_ar_20261014
+You don't have permission to delete this attachment,ليس لديك صلاحية حذف هذا المرفق,crm,Server,server_ar_20261014
+You don't have permission to delete this document,ليس لديك صلاحية حذف هذا المستند,wiki,Server,server_ar_20261014
+You don't have permission to get a report on: {0},ليس لديك صلاحية الحصول على تقرير عن: {0},frappe,Server,server_ar_20261014
+You don't have permission to print: {0},ليس لديك صلاحية طباعة: {0},frappe,Server,server_ar_20261014
+You don't have permission to read/attach the file {0}.,ليس لديك صلاحية قراءة أو إرفاق الملف {0}.,frappe,Server,server_ar_20261014
+You don't have the permissions to access this document,ليس لديك الصلاحيات اللازمة للوصول إلى هذا المستند,frappe,Server,server_ar_20261014
+You haven't added any Dashboard Charts or Number Cards yet.,لم تضف أي مخططات أو بطاقات أرقام إلى لوحة المعلومات بعد.,frappe,Server,server_ar_20261014
+You haven't created a {0} yet,لم تنشئ {0} بعد,"frappe,erpnext",Server,server_ar_20261014
+You need the '{0}' permission on {1} {2} to perform this action.,تحتاج إلى صلاحية '{0}' على {1} {2} لتنفيذ هذا الإجراء.,frappe,Server,server_ar_20261014
+"You need to have ""Share"" permission",تحتاج إلى صلاحية «مشاركة»,frappe,Server,server_ar_20261014
+"You're enrolled and all set! The course content is ready, so you can start learning right away and go at your own pace.",اكتمل تسجيلك! محتوى الدورة جاهز، ويمكنك البدء والتعلّم بالوتيرة المناسبة لك.,lms,Server,server_ar_20261014
+You're enrolled in {0} – start whenever you're ready,أنت مسجل في {0}؛ ابدأ عندما تكون جاهزًا,lms,Server,server_ar_20261014
+You've applied to become a mentor for this course. Your request is currently under review.,قدمت طلبًا لتصبح مرشدًا لهذه الدورة. طلبك قيد المراجعة حاليًا.,lms,Server,server_ar_20261014
+You've been invited,تمت دعوتك,frappe,Server,server_ar_20261014
+You've been invited to join {0},تمت دعوتك للانضمام إلى {0},frappe,Server,server_ar_20261014
+You've been invited to join {0}.,تمت دعوتك للانضمام إلى {0}.,frappe,Server,server_ar_20261014
+ZATCA Integration status,حالة الربط مع هيئة الزكاة والضريبة والجمارك,erpnext,Server,server_ar_20261014
+"and then ""Add to Home Screen""",ثم «إضافة إلى الشاشة الرئيسية»,hrms,Server,server_ar_20261014
+call_waiter,استدعاء الجرسون,vintraxo_restaurant,Server,server_ar_20261014
+custom,مخصص,gameplan,Server,server_ar_20261014
+field,حقل,gameplan,Server,server_ar_20261014
+goal,هدف,hrms,Server,server_ar_20261014
+goals,أهداف,hrms,Server,server_ar_20261014
+reason,السبب,hrms,Server,server_ar_20261014
+request_bill,طلب الفاتورة,vintraxo_restaurant,Server,server_ar_20261014
+{0} can't view images. Pick a vision-capable model or remove the image.,لا يدعم {0} قراءة الصور. اختر نموذجًا يدعم الصور أو أزل الصورة.,builder,Server,server_ar_20261014
+{0} is an invalid email address in 'Recipients',البريد الإلكتروني {0} غير صالح في «المستلمين»,frappe,Server,server_ar_20261014
+{0} mentioned you in a comment in {1} {2},أشار إليك {0} في تعليق على {1} {2},frappe,Server,server_ar_20261014

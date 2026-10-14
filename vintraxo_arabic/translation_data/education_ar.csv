@@ -1,0 +1,438 @@
+source,arabic,app,module,origin
+ days, أيام,education,Education,education_ar
+ meetings, اجتماعات,education,Education,education_ar
+ out of , من ,education,Education,education_ar
+...Adding Article to Topics,جارٍ إضافة المقال إلى الموضوعات...,education,Education,education_ar
+...Adding Course to Programs,جارٍ إضافة المقرر إلى البرامج...,education,Education,education_ar
+...Adding Quiz to Topics,جارٍ إضافة الاختبار إلى الموضوعات...,education,Education,education_ar
+...Adding Topic to Courses,جارٍ إضافة الموضوع إلى المقررات...,education,Education,education_ar
+A question must have more than one options,يجب أن يحتوي السؤال على أكثر من خيار واحد,education,Education,education_ar
+A qustion must have at least one correct options,يجب أن يحتوي السؤال على خيار صحيح واحد على الأقل,education,Education,education_ar
+Academic,أكاديمي,education,Education,education_ar
+Academic Term {0} does not belong to Academic Year {1},الفصل الدراسي {0} لا ينتمي إلى العام الدراسي {1},education,Education,education_ar
+Academic Term: ,الفصل الدراسي: ,education,Education,education_ar
+Academic Year Name,اسم العام الدراسي,education,Education,education_ar
+Academic Year: ,العام الدراسي: ,education,Education,education_ar
+Academics,الشؤون الأكاديمية,education,Education,education_ar
+Academics User,مستخدم الشؤون الأكاديمية,education,Education,education_ar
+Accounting Defaults,الإعدادات المحاسبية الافتراضية,education,Education,education_ar
+Accounting Defaults are not set in row {0} for component {1} ,الإعدادات المحاسبية الافتراضية غير محددة في الصف {0} للمكوّن {1} ,education,Education,education_ar
+Accounts Manager,مدير الحسابات,education,Education,education_ar
+Accounts User,مستخدم الحسابات,education,Education,education_ar
+Achievement,الإنجاز,education,Education,education_ar
+Activity Date,تاريخ النشاط,education,Education,education_ar
+Add Article to Topics,إضافة مقال إلى الموضوعات,education,Education,education_ar
+Add Course to Programs,إضافة مقرر إلى البرامج,education,Education,education_ar
+Add Guardians to Email Group,إضافة أولياء الأمور إلى مجموعة البريد الإلكتروني,education,Education,education_ar
+Add Quiz to Topics,إضافة اختبار إلى الموضوعات,education,Education,education_ar
+Add Topic to Courses,إضافة موضوع إلى المقررات,education,Education,education_ar
+Add letterhead,إضافة ترويسة,education,Education,education_ar
+Add to Courses,إضافة إلى المقررات,education,Education,education_ar
+Add to Programs,إضافة إلى البرامج,education,Education,education_ar
+Add to Topics,إضافة إلى الموضوعات,education,Education,education_ar
+Admission End Date,تاريخ انتهاء القبول,education,Education,education_ar
+Admission End Date should be greater than Admission Start Date.,يجب أن يكون تاريخ انتهاء القبول بعد تاريخ بدئه.,education,Education,education_ar
+Admission Start Date,تاريخ بدء القبول,education,Education,education_ar
+Admissions,القبول والتسجيل,education,Education,education_ar
+Admissions for {0},القبول في {0},education,Education,education_ar
+Admitted,مقبول,education,Education,education_ar
+Against Invoice,مقابل فاتورة,education,Education,education_ar
+All Student Admissions,جميع سجلات قبول الطلاب,education,Education,education_ar
+Alternate Number,رقم بديل,education,Education,education_ar
+An academic term with this 'Academic Year' {0} and 'Term Name' {1} already exists. Please modify these entries and try again.,يوجد فصل دراسي بالفعل للعام الدراسي {0} واسم الفصل {1}. يرجى تعديل البيانات والمحاولة مجددًا.,education,Education,education_ar
+Application Fee,رسوم التقديم,education,Education,education_ar
+As Examiner,بصفة ممتحن,education,Education,education_ar
+As Supervisor,بصفة مشرف,education,Education,education_ar
+Assessment Criteria Group,مجموعة معايير التقييم,education,Education,education_ar
+Assessment Group Name,اسم مجموعة التقييم,education,Education,education_ar
+Assessment Group: ,مجموعة التقييم: ,education,Education,education_ar
+Assessment Plan Criteria,معايير خطة التقييم,education,Education,education_ar
+Assessment Plan Name,اسم خطة التقييم,education,Education,education_ar
+Assessment Report,تقرير التقييم,education,Education,education_ar
+Assessment Result Detail,تفاصيل نتيجة التقييم,education,Education,education_ar
+Assessment Result record {0} already exists.,سجل نتيجة التقييم {0} موجود بالفعل.,education,Education,education_ar
+Assessment Terms,شروط التقييم,education,Education,education_ar
+Attendance Based On,أساس تسجيل الحضور,education,Education,education_ar
+Attendance Based on Course Schedule,الحضور حسب جدول المقرر,education,Education,education_ar
+Attendance Freeze Date,تاريخ إقفال الحضور,education,Education,education_ar
+Attendance Reports,تقارير الحضور,education,Education,education_ar
+Attendance cannot be marked for future dates.,لا يمكن تسجيل الحضور لتواريخ مستقبلية.,education,Education,education_ar
+Attendance cannot be marked for {0} as it is a holiday.,لا يمكن تسجيل الحضور ليوم {0} لأنه عطلة.,education,Education,education_ar
+Attendance cannot be marked outside of Academic Year {0},لا يمكن تسجيل الحضور خارج العام الدراسي {0},education,Education,education_ar
+Attendance has been marked successfully.,تم تسجيل الحضور بنجاح.,education,Education,education_ar
+Authentication failed,فشلت المصادقة,education,Education,education_ar
+Batch is mandatory in row {0},الدفعة مطلوبة في الصف {0},education,Education,education_ar
+Batch: ,الدفعة: ,education,Education,education_ar
+Boarding Student,طالب مقيم بالسكن,education,Education,education_ar
+"By default, Sales Invoice will be created against Program Enrollment / Fee Schedule.
+If enabled Sales Order will be created","افتراضيًا، تُنشأ فاتورة مبيعات مقابل التسجيل بالبرنامج / جدول الرسوم.
+عند التفعيل، يُنشأ أمر بيع.",education,Education,education_ar
+"By default, a new User is created for every new Student. If enabled, no new User will be created when a new Student is created.",افتراضيًا، يُنشأ مستخدم لكل طالب جديد. عند التفعيل، لن يُنشأ مستخدم عند إنشاء الطالب.,education,Education,education_ar
+"By default, the Sales Invoice Created will be in Draft Mode. If enabled, the Sales Invoice will be submitted once created.",افتراضيًا، تُنشأ فاتورة المبيعات كمسودة. عند التفعيل، تُعتمد الفاتورة بمجرد إنشائها.,education,Education,education_ar
+"By default, the Sales Invoice's  Posting Date will be equal to Fee Schedule's Posting Date. If disabled then Sales Invoice's Posting Date will be today's date.",افتراضيًا، يطابق تاريخ ترحيل فاتورة المبيعات تاريخ ترحيل جدول الرسوم. عند التعطيل، يكون تاريخ ترحيل الفاتورة هو تاريخ اليوم.,education,Education,education_ar
+"By default, the Sales Order Created will be in Draft Mode. If enabled, the Sales Order will be submitted once created.",افتراضيًا، يُنشأ أمر البيع كمسودة. عند التفعيل، يُعتمد أمر البيع بمجرد إنشائه.,education,Education,education_ar
+"By default, the Sales Order's  Transaction Date will be equal to Fee Schedule's Transaction Date. If disabled then Sales Order's Transaction Date will be today's date.",افتراضيًا، يطابق تاريخ معاملة أمر البيع تاريخ معاملة جدول الرسوم. عند التعطيل، يكون تاريخ معاملة أمر البيع هو تاريخ اليوم.,education,Education,education_ar
+Can't create standard criteria. Please rename the criteria,لا يمكن إنشاء معايير قياسية. يرجى تغيير اسم المعايير,education,Education,education_ar
+Cannot enroll more than {0} students for this student group.,لا يمكن تسجيل أكثر من {0} طالب في هذه المجموعة.,education,Education,education_ar
+Cannot mark attendance for future dates.,لا يمكن تسجيل الحضور لتواريخ مستقبلية.,education,Education,education_ar
+Check all,تحديد الكل,education,Education,education_ar
+Check this if the Student is residing at the Institute's Hostel.,حدد هذا الخيار إذا كان الطالب يقيم في سكن المؤسسة التعليمية.,education,Education,education_ar
+"Check this to mark the student as present in case the student is not attending the institute to participate or represent the institute in any event.
+
+","حدد هذا الخيار لتسجيل الطالب حاضرًا عند تغيبه للمشاركة في فعالية أو تمثيل المؤسسة التعليمية.
+
+",education,Education,education_ar
+Class Schedule Color,لون الجدول الدراسي,education,Education,education_ar
+Compare List function takes on list arguments,دالة مقارنة القوائم تقبل وسيطات من نوع قائمة,education,Education,education_ar
+Correct,صحيح,education,Education,education_ar
+Course Assessment Criteria,معايير تقييم المقرر,education,Education,education_ar
+Course Code,رمز المقرر,education,Education,education_ar
+Course Code: ,رمز المقرر: ,education,Education,education_ar
+Course End Date,تاريخ انتهاء المقرر,education,Education,education_ar
+Course Enrollment {0} does not exists,تسجيل المقرر {0} غير موجود,education,Education,education_ar
+Course Scheduling Failed,فشلت جدولة المقرر,education,Education,education_ar
+Course Start Date,تاريخ بدء المقرر,education,Education,education_ar
+Course Start Date cannot be greater than Course End Date.,لا يمكن أن يكون تاريخ بدء المقرر بعد تاريخ انتهائه.,education,Education,education_ar
+Course Topic,موضوع المقرر,education,Education,education_ar
+Course and Assessment,المقررات والتقييم,education,Education,education_ar
+Course is mandatory in row {0},المقرر مطلوب في الصف {0},education,Education,education_ar
+Course {0} has been added to all the selected programs successfully.,تمت إضافة المقرر {0} إلى جميع البرامج المحددة بنجاح.,education,Education,education_ar
+Course: ,المقرر: ,education,Education,education_ar
+Courses updated,تم تحديث المقررات,education,Education,education_ar
+Create Fee Schedule,إنشاء جدول رسوم,education,Education,education_ar
+Create Sales Order instead of Sales Invoice,إنشاء أمر بيع بدلًا من فاتورة مبيعات,education,Education,education_ar
+Create Student Groups,إنشاء مجموعات طلاب,education,Education,education_ar
+Creating student groups,جارٍ إنشاء مجموعات الطلاب,education,Education,education_ar
+Current Academic Term,الفصل الدراسي الحالي,education,Education,education_ar
+Current Academic Year,العام الدراسي الحالي,education,Education,education_ar
+Customer {0} created and linked to Student,تم إنشاء العميل {0} وربطه بالطالب,education,Education,education_ar
+Customer {0} updated,تم تحديث العميل {0},education,Education,education_ar
+Date of Birth cannot be greater than Joining Date.,لا يمكن أن يكون تاريخ الميلاد بعد تاريخ الالتحاق.,education,Education,education_ar
+Date of Leaving,تاريخ المغادرة,education,Education,education_ar
+Days HTML,عرض الأيام (HTML),education,Education,education_ar
+Default Grading Scale,سلم التقديرات الافتراضي,education,Education,education_ar
+"Defaults fetched from ""Fee Component"" Item Group ",تم جلب الإعدادات الافتراضية من مجموعة أصناف «مكوّن الرسوم» ,education,Education,education_ar
+Discount cannot be greater than 100%  in row {0},لا يمكن أن يتجاوز الخصم 100% في الصف {0},education,Education,education_ar
+Discount(%),الخصم (%),education,Education,education_ar
+Do you want to update attendance? <br> Present: {0} <br> Absent: {1},هل تريد تحديث الحضور؟ <br> حاضر: {0} <br> غائب: {1},education,Education,education_ar
+Due Date in row {0} should be greater than or same as today's date.,يجب ألا يسبق تاريخ الاستحقاق في الصف {0} تاريخ اليوم.,education,Education,education_ar
+Duplicate roll number for student {0},رقم القيد مكرر للطالب {0},education,Education,education_ar
+Education,التعليم,education,Education,education_ar
+Education Manager,مدير التعليم,education,Education,education_ar
+Eligibility and Details,الأهلية والتفاصيل,education,Education,education_ar
+Employee ID is linked with another instructor,معرّف الموظف مرتبط بمعلم آخر,education,Education,education_ar
+Enable Admission Application,تفعيل طلبات القبول,education,Education,education_ar
+End on,ينتهي في,education,Education,education_ar
+Enroll,تسجيل,education,Education,education_ar
+Enroll Students,تسجيل الطلاب,education,Education,education_ar
+Enrolled courses,المقررات المسجل بها,education,Education,education_ar
+Enrolling student,جارٍ تسجيل الطالب,education,Education,education_ar
+Enrolling students,جارٍ تسجيل الطلاب,education,Education,education_ar
+Enrollment,التسجيل,education,Education,education_ar
+Enrollment Date,تاريخ التسجيل,education,Education,education_ar
+Enrollment Details,تفاصيل التسجيل,education,Education,education_ar
+Enter 0 to waive limit,أدخل 0 لإلغاء الحد,education,Education,education_ar
+Error during payment: {0},خطأ أثناء الدفع: {0},education,Education,education_ar
+Error during payment: {0} Please contact the Administrator. Amount {1} Currency {2} Formatted {3},خطأ أثناء الدفع: {0} يرجى التواصل مع مسؤول النظام. المبلغ {1} العملة {2} القيمة المنسقة {3},education,Education,education_ar
+Evaluate,تقييم,education,Education,education_ar
+Examiner,الممتحن,education,Education,education_ar
+Examiner Name,اسم الممتحن,education,Education,education_ar
+Father,الأب,education,Education,education_ar
+Fee,الرسوم,education,Education,education_ar
+Fee Breakup (each student),تفصيل الرسوم (لكل طالب),education,Education,education_ar
+Fee Category Default,الإعداد الافتراضي لفئة الرسوم,education,Education,education_ar
+Fee Component,مكوّن الرسوم,education,Education,education_ar
+Fee Component {0} is not part of Fee Structure {1},مكوّن الرسوم {0} ليس ضمن هيكل الرسوم {1},education,Education,education_ar
+Fee Management,إدارة الرسوم,education,Education,education_ar
+Fee Records Created - {0},سجلات الرسوم المنشأة - {0},education,Education,education_ar
+Fee Reports,تقارير الرسوم,education,Education,education_ar
+Fee Schedule Details,تفاصيل جدول الرسوم,education,Education,education_ar
+Fee Schedule Program,برنامج جدول الرسوم,education,Education,education_ar
+Fee Schedule Student Group,مجموعة طلاب جدول الرسوم,education,Education,education_ar
+"Fee records will be created in the background.
+                In case of any error the error message will be updated in the Schedule.","ستُنشأ سجلات الرسوم في الخلفية.
+في حال حدوث خطأ، ستُحدّث رسالة الخطأ في الجدول.",education,Education,education_ar
+Fees Category,فئة الرسوم,education,Education,education_ar
+Fees Collected,الرسوم المحصلة,education,Education,education_ar
+Following course schedules were created,تم إنشاء جداول المقررات التالية,education,Education,education_ar
+"For Batch based Student Group, the Student Batch will be validated for every Student from the Program Enrollment.",في مجموعات الطلاب حسب الدفعة، يتم التحقق من دفعة كل طالب من سجل تسجيله بالبرنامج.,education,Education,education_ar
+"For Course based Student Group, the Course will be validated for every Student from the enrolled Courses in Program Enrollment.",في مجموعات الطلاب حسب المقرر، يتم التحقق من المقرر لكل طالب من المقررات المسجل بها في البرنامج.,education,Education,education_ar
+From Time cannot be greater than To Time.,لا يمكن أن يكون وقت البدء بعد وقت الانتهاء.,education,Education,education_ar
+Get Courses,جلب المقررات,education,Education,education_ar
+Get Students,جلب الطلاب,education,Education,education_ar
+Get Students From,جلب الطلاب من,education,Education,education_ar
+Grade Code,رمز التقدير,education,Education,education_ar
+Grade Description,وصف التقدير,education,Education,education_ar
+Grading Basis,أساس احتساب التقدير,education,Education,education_ar
+Grading Scale Interval,شريحة سلم التقديرات,education,Education,education_ar
+Grading Scale Intervals,شرائح سلم التقديرات,education,Education,education_ar
+Grading Scale Name,اسم سلم التقديرات,education,Education,education_ar
+Group Based On,أساس تكوين المجموعة,education,Education,education_ar
+Group Based on,أساس تكوين المجموعة,education,Education,education_ar
+Group Roll No,رقم القيد بالمجموعة,education,Education,education_ar
+Group Roll Number,رقم القيد بالمجموعة,education,Education,education_ar
+Guardian Details,بيانات ولي الأمر,education,Education,education_ar
+Guardian Interest,اهتمام ولي الأمر,education,Education,education_ar
+Guardian Interests,اهتمامات ولي الأمر,education,Education,education_ar
+Guardian Name,اسم ولي الأمر,education,Education,education_ar
+Guardian Of ,ولي أمر ,education,Education,education_ar
+Guardian Student,طالب ولي الأمر,education,Education,education_ar
+Guardian1 Email ID,البريد الإلكتروني لولي الأمر الأول,education,Education,education_ar
+Guardian1 Mobile No,جوال ولي الأمر الأول,education,Education,education_ar
+Guardian1 Name,اسم ولي الأمر الأول,education,Education,education_ar
+Guardian2 Email ID,البريد الإلكتروني لولي الأمر الثاني,education,Education,education_ar
+Guardian2 Mobile No,جوال ولي الأمر الثاني,education,Education,education_ar
+Guardian2 Name,اسم ولي الأمر الثاني,education,Education,education_ar
+Guardians,أولياء الأمور,education,Education,education_ar
+Hero Image,الصورة الرئيسية,education,Education,education_ar
+House Name,اسم البيت المدرسي,education,Education,education_ar
+"If enabled, field Academic Term will be Mandatory in Program Enrollment Tool.",عند التفعيل، يصبح حقل الفصل الدراسي إلزاميًا في أداة التسجيل بالبرامج.,education,Education,education_ar
+"If enabled, the attendance will be marked on Course Schedule basis and will be mandatory.
+
+If disabled, the attendance will be marked on Student Group Basis for that particular date.","عند التفعيل، يُسجل الحضور حسب جدول المقرر ويكون إلزاميًا.
+
+عند التعطيل، يُسجل الحضور حسب مجموعة الطلاب للتاريخ المحدد.",education,Education,education_ar
+Institution,المؤسسة التعليمية,education,Education,education_ar
+Instructor Log,سجل المعلم,education,Education,education_ar
+Instructor Name,اسم المعلم,education,Education,education_ar
+Instructor Records to be created by,تسمية سجلات المعلمين حسب,education,Education,education_ar
+Intervals,الشرائح,education,Education,education_ar
+Invalid Enrollment {0} for student {1},التسجيل {0} غير صالح للطالب {1},education,Education,education_ar
+Invalid document provided.,المستند المقدم غير صالح.,education,Education,education_ar
+Invoice Created,تم إنشاء الفاتورة,education,Education,education_ar
+Invoice Pending,الفاتورة قيد الانتظار,education,Education,education_ar
+Is Time-Bound,محدد بوقت,education,Education,education_ar
+Joining Date can not be greater than Leaving Date,لا يمكن أن يكون تاريخ الالتحاق بعد تاريخ المغادرة,education,Education,education_ar
+Latest Attempt,آخر محاولة,education,Education,education_ar
+Latest Highest Score,أحدث درجة قصوى,education,Education,education_ar
+Leave application {0} already exists against the student {1},طلب الإجازة {0} موجود بالفعل للطالب {1},education,Education,education_ar
+Leave blank if you make students groups per year,اتركه فارغًا إذا كنت تنشئ مجموعات الطلاب حسب السنة,education,Education,education_ar
+Leave unchecked if you don't want to consider batch while making course based groups. ,اتركه غير محدد لتجاهل الدفعة عند إنشاء مجموعات حسب المقرر. ,education,Education,education_ar
+Leaving Certificate Number,رقم شهادة المغادرة,education,Education,education_ar
+Ledger Entries will be created against the company mentioned here.,سيتم إنشاء قيود دفتر الأستاذ للشركة المحددة هنا.,education,Education,education_ar
+Make Academic Term Mandatory,جعل الفصل الدراسي إلزاميًا,education,Education,education_ar
+Mandatory Fields,الحقول الإلزامية,education,Education,education_ar
+Mandatory field - Academic Year,حقل إلزامي - العام الدراسي,education,Education,education_ar
+Mandatory field - Get Students From,حقل إلزامي - جلب الطلاب من,education,Education,education_ar
+Mandatory field - Program,حقل إلزامي - البرنامج,education,Education,education_ar
+Mark as Present,تسجيل كحاضر,education,Education,education_ar
+Marking attendance,جارٍ تسجيل الحضور,education,Education,education_ar
+Max Strength,الحد الأقصى لعدد الطلاب,education,Education,education_ar
+Max strength cannot be less than zero.,لا يمكن أن يكون الحد الأقصى لعدد الطلاب أقل من صفر.,education,Education,education_ar
+Maximum Age,الحد الأقصى للعمر,education,Education,education_ar
+Maximum Assessment Score,الدرجة القصوى للتقييم,education,Education,education_ar
+Maximum Score,الدرجة القصوى,education,Education,education_ar
+Maximum attempts for this quiz reached!,تم بلوغ الحد الأقصى لمحاولات هذا الاختبار!,education,Education,education_ar
+Minimum Age,الحد الأدنى للعمر,education,Education,education_ar
+Mother,الأم,education,Education,education_ar
+Multiple Correct Answer,إجابات صحيحة متعددة,education,Education,education_ar
+NO,لا,education,Education,education_ar
+Naming Series (for Student Applicant),سلسلة التسمية (للطالب المتقدم),education,Education,education_ar
+Nationality,الجنسية,education,Education,education_ar
+New Academic Term,فصل دراسي جديد,education,Education,education_ar
+New Academic Year,عام دراسي جديد,education,Education,education_ar
+New Program,برنامج جديد,education,Education,education_ar
+New Student Batch,دفعة طلاب جديدة,education,Education,education_ar
+Newsletter,النشرة البريدية,education,Education,education_ar
+No Academic Terms found for Academic Year {0},لم يتم العثور على فصول دراسية للعام الدراسي {0},education,Education,education_ar
+No Result to submit,لا توجد نتيجة للاعتماد,education,Education,education_ar
+No Student Groups created.,لم يتم إنشاء مجموعات طلاب.,education,Education,education_ar
+No Students in,لا يوجد طلاب في,education,Education,education_ar
+No attendance has been marked for {0} as it is a Holiday,لم يُسجل حضور ليوم {0} لأنه عطلة,education,Education,education_ar
+No classes found in the leave period,لا توجد حصص خلال فترة الإجازة,education,Education,education_ar
+No correct answer is set for {0},لم يتم تحديد إجابة صحيحة للسؤال {0},education,Education,education_ar
+No student groups found for the student,لا توجد مجموعات لهذا الطالب,education,Education,education_ar
+No students Found,لم يتم العثور على طلاب,education,Education,education_ar
+No students found,لم يتم العثور على طلاب,education,Education,education_ar
+No. of Meetings Attended by Parents,عدد الاجتماعات التي حضرها أولياء الأمور,education,Education,education_ar
+Not eligible for the admission in this program as per Date Of Birth,غير مؤهل للقبول في هذا البرنامج وفقًا لتاريخ الميلاد,education,Education,education_ar
+Occupation,المهنة,education,Education,education_ar
+"Only the Student Applicant with the status ""Approved"" will be selected in the table below.",سيُختار في الجدول أدناه الطلاب المتقدمون بحالة «موافق عليه» فقط.,education,Education,education_ar
+Order Created,تم إنشاء أمر البيع,education,Education,education_ar
+Order Pending,أمر البيع قيد الانتظار,education,Education,education_ar
+Other details,تفاصيل أخرى,education,Education,education_ar
+Parent Assessment Group,مجموعة التقييم الأم,education,Education,education_ar
+Parents Teacher Meeting Attendance,حضور اجتماع أولياء الأمور والمعلمين,education,Education,education_ar
+Passing Score,درجة النجاح,education,Education,education_ar
+Passing Score value should be between 0 and 100,يجب أن تكون درجة النجاح بين 0 و100,education,Education,education_ar
+Payment ID ,معرّف الدفع ,education,Education,education_ar
+Payment Record,سجل الدفع,education,Education,education_ar
+Payment for {0} course,دفع مقابل المقرر {0},education,Education,education_ar
+Payment request {0} created,تم إنشاء طلب الدفع {0},education,Education,education_ar
+Please add programs to enable admission application.,يرجى إضافة برامج لتفعيل طلبات القبول.,education,Education,education_ar
+Please define grade for Threshold 0%,يرجى تحديد تقدير لعتبة 0%,education,Education,education_ar
+Please enter the Academic Year and set the Start and End date.,يرجى إدخال العام الدراسي وتحديد تاريخي البدء والانتهاء.,education,Education,education_ar
+Please fill in all the details to generate Assessment Result.,يرجى استكمال جميع البيانات لإنشاء نتيجة التقييم.,education,Education,education_ar
+Please fill in all the mandatory fields.,يرجى تعبئة جميع الحقول الإلزامية.,education,Education,education_ar
+Please select Course,يرجى اختيار المقرر,education,Education,education_ar
+Please select Program,يرجى اختيار البرنامج,education,Education,education_ar
+Please select a Program first.,يرجى اختيار البرنامج أولًا.,education,Education,education_ar
+Please select at least one day to schedule the course.,يرجى اختيار يوم واحد على الأقل لجدولة المقرر.,education,Education,education_ar
+Please select the assessment group other than 'All Assessment Groups',يرجى اختيار مجموعة تقييم غير «جميع مجموعات التقييم»,education,Education,education_ar
+Please set the Email ID for the Student to send the Payment Request,يرجى تحديد البريد الإلكتروني للطالب لإرسال طلب الدفع,education,Education,education_ar
+Please setup Instructor Naming System in Education > Education Settings,يرجى ضبط نظام تسمية المعلمين في التعليم > إعدادات التعليم,education,Education,education_ar
+Please setup Students under Student Groups,يرجى إضافة الطلاب ضمن مجموعات الطلاب,education,Education,education_ar
+Present ,حاضر ,education,Education,education_ar
+Print Report Card,طباعة كشف الدرجات,education,Education,education_ar
+Program Abbreviation,اختصار البرنامج,education,Education,education_ar
+Program Course,مقرر البرنامج,education,Education,education_ar
+Program Enrollment Course,مقرر التسجيل بالبرنامج,education,Education,education_ar
+Program Enrollment Fee,رسوم التسجيل بالبرنامج,education,Education,education_ar
+Program Enrollment Tool Student,طالب أداة التسجيل بالبرامج,education,Education,education_ar
+Program Fee,رسوم البرنامج,education,Education,education_ar
+Program Name,اسم البرنامج,education,Education,education_ar
+Program and Course,البرامج والمقررات,education,Education,education_ar
+Program enrollment not found,لم يتم العثور على تسجيل بالبرنامج,education,Education,education_ar
+Program in the Fee Structure and Student Group {0} are different.,البرنامج في هيكل الرسوم مختلف عن برنامج مجموعة الطلاب {0}.,education,Education,education_ar
+Program is required,البرنامج مطلوب,education,Education,education_ar
+Program wise Fee Collection,تحصيل الرسوم حسب البرنامج,education,Education,education_ar
+Program: ,البرنامج: ,education,Education,education_ar
+Programs updated,تم تحديث البرامج,education,Education,education_ar
+Question Link,رابط السؤال,education,Education,education_ar
+Quiz Configuration,إعدادات الاختبار,education,Education,education_ar
+Quiz Question,سؤال الاختبار,education,Education,education_ar
+Quiz Result,نتيجة الاختبار,education,Education,education_ar
+Quiz {0} does not exist,الاختبار {0} غير موجود,education,Education,education_ar
+Razorpay Data,بيانات Razorpay,education,Education,education_ar
+Razorpay Key,مفتاح Razorpay,education,Education,education_ar
+Razorpay Secret,المفتاح السري لـRazorpay,education,Education,education_ar
+Reason For Leaving,سبب المغادرة,education,Education,education_ar
+Relation with Guardian1,صلة القرابة بولي الأمر الأول,education,Education,education_ar
+Relation with Guardian2,صلة القرابة بولي الأمر الثاني,education,Education,education_ar
+Relations,صلات القرابة,education,Education,education_ar
+Report Settings,إعدادات التقرير,education,Education,education_ar
+Reschedule,إعادة الجدولة,education,Education,education_ar
+Result HTML,عرض النتيجة (HTML),education,Education,education_ar
+Result already Submitted,تم اعتماد النتيجة بالفعل,education,Education,education_ar
+Room Name,اسم القاعة,education,Education,education_ar
+Room Number,رقم القاعة,education,Education,education_ar
+Row {0}:Sibling Date of Birth cannot be greater than today.,الصف {0}: لا يمكن أن يكون تاريخ ميلاد الأخ أو الأخت بعد اليوم.,education,Education,education_ar
+Sales Invoice Posting Date should be same as Fee Schedule Posting Date,يجب أن يطابق تاريخ ترحيل فاتورة المبيعات تاريخ ترحيل جدول الرسوم,education,Education,education_ar
+Sales Order Posting Date should be same as Fee Schedule Posting Date,يجب أن يطابق تاريخ ترحيل أمر البيع تاريخ ترحيل جدول الرسوم,education,Education,education_ar
+Schedule Course,جدولة المقرر,education,Education,education_ar
+Schedule date selected does not lie within the Academic Term of the Student Group {0}.,تاريخ الجدولة المحدد خارج الفصل الدراسي لمجموعة الطلاب {0}.,education,Education,education_ar
+Schedule date selected does not lie within the Academic Year of the Student Group {0}.,تاريخ الجدولة المحدد خارج العام الدراسي لمجموعة الطلاب {0}.,education,Education,education_ar
+Scheduled Upto,تمت الجدولة حتى,education,Education,education_ar
+School / College Logo,شعار المدرسة / الكلية,education,Education,education_ar
+School / College Name Abbreviation,اختصار اسم المدرسة / الكلية,education,Education,education_ar
+School House,البيت المدرسي,education,Education,education_ar
+Score cannot be greater than Maximum Score,لا يمكن أن تتجاوز الدرجة الدرجة القصوى,education,Education,education_ar
+Score out of 100,الدرجة من 100,education,Education,education_ar
+Seating Capacity,سعة المقاعد,education,Education,education_ar
+Select students manually for the Activity based Group,اختر الطلاب يدويًا للمجموعة القائمة على النشاط,education,Education,education_ar
+Select the program first,اختر البرنامج أولًا,education,Education,education_ar
+Selected Option,الخيار المحدد,education,Education,education_ar
+Send Payment Request,إرسال طلب دفع,education,Education,education_ar
+Send Payment Request Email,إرسال بريد طلب الدفع,education,Education,education_ar
+Separate course based Group for every Batch,مجموعة مقررات منفصلة لكل دفعة,education,Education,education_ar
+Set 0 for no limit,حدد 0 لإلغاء الحد,education,Education,education_ar
+Show Marks,عرض الدرجات,education,Education,education_ar
+Sibling Details,بيانات الإخوة والأخوات,education,Education,education_ar
+Siblings,الإخوة والأخوات,education,Education,education_ar
+Single Correct Answer,إجابة صحيحة واحدة,education,Education,education_ar
+Skip User creation for new Student,عدم إنشاء مستخدم للطالب الجديد,education,Education,education_ar
+Start on,يبدأ في,education,Education,education_ar
+Student Address,عنوان الطالب,education,Education,education_ar
+Student Admission Program,برنامج قبول الطالب,education,Education,education_ar
+Student Admissions,قبول الطلاب,education,Education,education_ar
+Student Attendance record {0} already exists against the Student {1},سجل الحضور {0} موجود بالفعل للطالب {1},education,Education,education_ar
+Student Batch,دفعة الطلاب,education,Education,education_ar
+Student Data,بيانات الطالب,education,Education,education_ar
+Student Details,تفاصيل الطالب,education,Education,education_ar
+Student Email,البريد الإلكتروني للطالب,education,Education,education_ar
+Student Email Address,عنوان البريد الإلكتروني للطالب,education,Education,education_ar
+Student Email ID,البريد الإلكتروني للطالب,education,Education,education_ar
+Student Fee Collection,تحصيل رسوم الطلاب,education,Education,education_ar
+Student Group Creation Tool Course,مقرر أداة إنشاء مجموعات الطلاب,education,Education,education_ar
+Student Group Instructor,معلم مجموعة الطلاب,education,Education,education_ar
+Student Group Name,اسم مجموعة الطلاب,education,Education,education_ar
+Student Group Name is mandatory in row {0},اسم مجموعة الطلاب مطلوب في الصف {0},education,Education,education_ar
+Student Group Strength,عدد طلاب المجموعة,education,Education,education_ar
+Student Group Student,طالب مجموعة الطلاب,education,Education,education_ar
+Student Group is already updated.,تم تحديث مجموعة الطلاب بالفعل.,education,Education,education_ar
+Student Group is mandatory,مجموعة الطلاب مطلوبة,education,Education,education_ar
+Student Group: ,مجموعة الطلاب: ,education,Education,education_ar
+Student Guardian,ولي أمر الطالب,education,Education,education_ar
+Student ID,معرّف الطالب,education,Education,education_ar
+Student ID: ,معرّف الطالب: ,education,Education,education_ar
+Student Language,لغة الطالب,education,Education,education_ar
+Student Management,إدارة الطلاب,education,Education,education_ar
+Student Mobile No.,رقم جوال الطالب,education,Education,education_ar
+Student Mobile Number,رقم جوال الطالب,education,Education,education_ar
+Student Name,اسم الطالب,education,Education,education_ar
+Student Name: ,اسم الطالب: ,education,Education,education_ar
+Student Report Card,كشف درجات الطالب,education,Education,education_ar
+Student Sibling,أخ أو أخت الطالب,education,Education,education_ar
+Student Siblings,إخوة وأخوات الطالب,education,Education,education_ar
+Student is already enrolled via Course Enrollment {0},الطالب مسجل بالفعل من خلال تسجيل المقرر {0},education,Education,education_ar
+Student is already enrolled.,الطالب مسجل بالفعل.,education,Education,education_ar
+Student with email {0} does not exist,لا يوجد طالب بالبريد الإلكتروني {0},education,Education,education_ar
+Student {0} - {1} appears Multiple times in row {2} & {3},الطالب {0} - {1} مكرر في الصفين {2} و{3},education,Education,education_ar
+Student {0} does not belong to group {1},الطالب {0} لا ينتمي إلى المجموعة {1},education,Education,education_ar
+Student {0} exist against student applicant {1},يوجد الطالب {0} بالفعل مرتبطًا بطلب التقديم {1},education,Education,education_ar
+Student {0}: {1} does not belong to Student Group {2},الطالب {0}: {1} لا ينتمي إلى مجموعة الطلاب {2},education,Education,education_ar
+Students HTML,عرض الطلاب (HTML),education,Education,education_ar
+Studying in Same Institute,يدرس في المؤسسة نفسها,education,Education,education_ar
+Submit Sales Invoice from Program Enrollment / Fee Schedule,اعتماد فاتورة المبيعات من تسجيل البرنامج / جدول الرسوم,education,Education,education_ar
+Submit Sales Order from Program Enrollment / Fee Schedule,اعتماد أمر البيع من تسجيل البرنامج / جدول الرسوم,education,Education,education_ar
+Sum of Scores of Assessment Criteria needs to be {0}.,يجب أن يكون مجموع درجات معايير التقييم {0}.,education,Education,education_ar
+Supervisor,المشرف,education,Education,education_ar
+Supervisor Name,اسم المشرف,education,Education,education_ar
+System Health,حالة النظام,education,Education,education_ar
+Term,الفصل الدراسي,education,Education,education_ar
+Term End Date,تاريخ انتهاء الفصل الدراسي,education,Education,education_ar
+Term Name,اسم الفصل الدراسي,education,Education,education_ar
+Term Start Date,تاريخ بدء الفصل الدراسي,education,Education,education_ar
+The Term End Date cannot be before the Term Start Date. Please correct the dates and try again.,لا يمكن أن يسبق تاريخ انتهاء الفصل الدراسي تاريخ بدئه. يرجى تصحيح التواريخ والمحاولة مجددًا.,education,Education,education_ar
+The Term cannot end after the Academic Year {0},لا يمكن أن ينتهي الفصل الدراسي بعد نهاية العام الدراسي {0},education,Education,education_ar
+The Term cannot start before the Academic Year {0},لا يمكن أن يبدأ الفصل الدراسي قبل بداية العام الدراسي {0},education,Education,education_ar
+The Year End Date cannot be earlier than the Year Start Date. Please correct the dates and try again.,لا يمكن أن يسبق تاريخ انتهاء العام تاريخ بدئه. يرجى تصحيح التواريخ والمحاولة مجددًا.,education,Education,education_ar
+The question cannot be duplicate,لا يمكن تكرار السؤال,education,Education,education_ar
+There is a problem with the payment gateway. Please contact the Administrator to proceed.,توجد مشكلة في بوابة الدفع. يرجى التواصل مع مسؤول النظام للمتابعة.,education,Education,education_ar
+There were errors creating Course Schedule,حدثت أخطاء أثناء إنشاء جدول المقرر,education,Education,education_ar
+This article is already added to the existing topics,هذا المقال مضاف بالفعل إلى الموضوعات الحالية,education,Education,education_ar
+This course is already added to the existing programs,هذا المقرر مضاف بالفعل إلى البرامج الحالية,education,Education,education_ar
+This is based on the attendance of this Student,يعتمد هذا على حضور هذا الطالب,education,Education,education_ar
+This is based on the course schedules of this Instructor,يعتمد هذا على جداول مقررات هذا المعلم,education,Education,education_ar
+This quiz is already added to the existing topics,هذا الاختبار مضاف بالفعل إلى الموضوعات الحالية,education,Education,education_ar
+This topic is already added to the existing courses,هذا الموضوع مضاف بالفعل إلى المقررات الحالية,education,Education,education_ar
+This {0} conflicts with {1} for {2} {3},يوجد تعارض بين {0} و{1} فيما يخص {2} {3},education,Education,education_ar
+Threshold,العتبة,education,Education,education_ar
+Topic Content,محتوى الموضوع,education,Education,education_ar
+Topic Name,اسم الموضوع,education,Education,education_ar
+Topic {0} has been added to all the selected courses successfully.,تمت إضافة الموضوع {0} إلى جميع المقررات المحددة بنجاح.,education,Education,education_ar
+Topics,الموضوعات,education,Education,education_ar
+Topics updated,تم تحديث الموضوعات,education,Education,education_ar
+Total Amount per Student,إجمالي المبلغ لكل طالب,education,Education,education_ar
+Total Collected: {0},إجمالي المحصل: {0},education,Education,education_ar
+Total Leave,إجمالي الإجازات,education,Education,education_ar
+Total Outstanding: {0},إجمالي المستحق: {0},education,Education,education_ar
+Total Parents Teacher Meeting,إجمالي اجتماعات أولياء الأمور والمعلمين,education,Education,education_ar
+Total Student,إجمالي الطلاب,education,Education,education_ar
+Total Students,إجمالي الطلاب,education,Education,education_ar
+Total Weightage of all Assessment Criteria must be 100%,يجب أن يكون مجموع أوزان جميع معايير التقييم 100%,education,Education,education_ar
+Total amount in the table should be equal to the total amount from fee structure,يجب أن يساوي إجمالي المبلغ في الجدول إجمالي مبلغ هيكل الرسوم,education,Education,education_ar
+Total amount of Fee Schedules exceeds the Total Amount of Fee Structure,إجمالي مبالغ جداول الرسوم يتجاوز إجمالي مبلغ هيكل الرسوم,education,Education,education_ar
+Treshold {0}% appears more than once,العتبة {0}% مكررة,education,Education,education_ar
+Uncheck all,إلغاء تحديد الكل,education,Education,education_ar
+User {0} already exists,المستخدم {0} موجود بالفعل,education,Education,education_ar
+User {0} created,تم إنشاء المستخدم {0},education,Education,education_ar
+Validate Batch for Students in Student Group,التحقق من دفعات الطلاب في المجموعة,education,Education,education_ar
+Validate Enrolled Course for Students in Student Group,التحقق من المقرر المسجل به للطلاب في المجموعة,education,Education,education_ar
+Work Address,عنوان العمل,education,Education,education_ar
+Wrong,خطأ,education,Education,education_ar
+YES,نعم,education,Education,education_ar
+You are not allowed to enroll for this course,غير مسموح لك بالتسجيل في هذا المقرر,education,Education,education_ar
+You are not authorized to access this student group,غير مصرح لك بالوصول إلى مجموعة الطلاب هذه,education,Education,education_ar
+You are not authorized to access this student's {0},غير مصرح لك بالوصول إلى {0} لهذا الطالب,education,Education,education_ar
+You are not enrolled in program {0},أنت غير مسجل في البرنامج {0},education,Education,education_ar
+You have already assessed for the assessment criteria {}.,سبق لك تقييم معيار التقييم {}.,education,Education,education_ar
+{0} - {1} is inactive student,الطالب {0} - {1} غير نشط,education,Education,education_ar
+{0} - {1} is not enrolled in the Batch {2},الطالب {0} - {1} غير مسجل في الدفعة {2},education,Education,education_ar
+{0} - {1} is not enrolled in the Course {2},الطالب {0} - {1} غير مسجل في المقرر {2},education,Education,education_ar
+{0} Fee Schedule(s) created,تم إنشاء {0} من جداول الرسوم,education,Education,education_ar
+{0} Result submittted,تم اعتماد {0} نتيجة,education,Education,education_ar
+{0} Student Groups created.,تم إنشاء {0} من مجموعات الطلاب.,education,Education,education_ar
+{0} Students have been enrolled,تم تسجيل {0} طالب,education,Education,education_ar
+{0} or {1} is mandatory,الحقل {0} أو {1} مطلوب,education,Education,education_ar
+{0} {1} has been added to all the selected topics successfully.,تمت إضافة {0} {1} إلى جميع الموضوعات المحددة بنجاح.,education,Education,education_ar

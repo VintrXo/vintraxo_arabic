@@ -1,0 +1,197 @@
+source,arabic,app,module,origin
+ (New), (جديد),crm,Server,server_ar_20261014_review
+ Salary slips starting on or after this date will be considered for arrear calculations,تُحتسب فروقات الرواتب من قسائم الرواتب التي تبدأ في هذا التاريخ أو بعده,hrms,Server,server_ar_20261014_review
+ Save ,حفظ,hrms,Server,server_ar_20261014_review
+ Unlink Payment on Cancellation of Employee Advance,إلغاء ربط الدفع عند إلغاء سلفة الموظف,hrms,Server,server_ar_20261014_review
+"""From Date"" can not be greater than or equal to ""To Date""",يجب أن يسبق «من تاريخ» قيمة «إلى تاريخ»,hrms,Server,server_ar_20261014_review
+'employee_field_value' and 'timestamp' are required.,الحقلان 'employee_field_value' و'timestamp' مطلوبان.,hrms,Server,server_ar_20261014_review
+'employee_fieldname' must be one of {0}.,يجب أن تكون قيمة 'employee_fieldname' إحدى القيم {0}.,hrms,Server,server_ar_20261014_review
+A Lead requires either a person's name or an organization's name,يتطلب العميل المحتمل اسم شخص أو اسم مؤسسة,"erpnext,crm",Server,server_ar_20261014_review
+Active Emergencies,حالات الطوارئ النشطة,healthcare,Server,server_ar_20261014_review
+Active Service Requests,طلبات الخدمة النشطة,healthcare,Server,server_ar_20261014_review
+Actual balances aren't available because the leave application spans over different leave allocations. You can still apply for leaves which would be compensated during the next allocation.,الأرصدة الفعلية غير متاحة لأن الطلب يمتد عبر تخصيصات إجازة مختلفة. يمكنك تقديم الطلب، وتُسوّى الإجازات خلال التخصيص التالي.,hrms,Server,server_ar_20261014_review
+Added tax components from the Salary Component master as the salary structure didn't have any tax component.,أُضيفت مكوّنات الضريبة من سجل مكوّن الراتب لعدم وجود مكوّن ضريبي في هيكل الراتب.,hrms,Server,server_ar_20261014_review
+Admission Status,حالة الدخول للتنويم,healthcare,Server,server_ar_20261014_review
+Admitted Patients,المرضى المنوّمون,healthcare,Server,server_ar_20261014_review
+Appointments To Bill,مواعيد بانتظار الفوترة,healthcare,Server,server_ar_20261014_review
+Appointments To Bill OP,مواعيد العيادات الخارجية بانتظار الفوترة,healthcare,Server,server_ar_20261014_review
+Appointments to Bill,مواعيد بانتظار الفوترة,healthcare,Server,server_ar_20261014_review
+Approval Status must be 'Approved' or 'Rejected',يجب أن تكون حالة الموافقة «موافق عليه» أو «مرفوض»,hrms,Server,server_ar_20261014_review
+Are you sure you want to delete {0} linked doc(s)?,هل تريد حذف {0} مستند مرتبط؟,crm,Server,server_ar_20261014_review
+Are you sure you want to delete {0} linked item(s)?,هل تريد حذف {0} عنصر مرتبط؟,crm,Server,server_ar_20261014_review
+Are you sure you want to make this attachment {0}?,هل تريد جعل هذا المرفق {0}؟,crm,Server,server_ar_20261014_review
+Are you sure you want to reset 'Create Quotation from CRM Deal' Form Script?,هل تريد إعادة ضبط سكربت نموذج «إنشاء عرض سعر من صفقة علاقات العملاء»؟,crm,Server,server_ar_20261014_review
+Are you sure you want to unlink {0} linked doc(s)?,هل تريد إلغاء ربط {0} مستند؟,crm,Server,server_ar_20261014_review
+Are you sure you want to unlink {0} linked item(s)?,هل تريد إلغاء ربط {0} عنصر؟,crm,Server,server_ar_20261014_review
+Assignment Date: ,تاريخ الإسناد: ,hrms,Server,server_ar_20261014_review
+Attendance date {0} can not be less than employee {1}'s joining date: {2},لا يمكن أن يسبق تاريخ الحضور {0} تاريخ التحاق الموظف {1}: {2},hrms,Server,server_ar_20261014_review
+Auto-generated from the portal view — do not edit directly unless you know what you're doing! ,أُنشئ تلقائيًا من عرض البوابة؛ لا تعدله مباشرة إلا إذا كنت تعرف أثر التغيير.,"crm,helpdesk",Server,server_ar_20261014_review
+Automate processes and extend standard functionality using scripts and background jobs,أتمتة العمليات وتوسيع الوظائف القياسية باستخدام السكربتات ومهام الخلفية,frappe,Server,server_ar_20261014_review
+Billing & Payments,الفوترة والمدفوعات,healthcare,Server,server_ar_20261014_review
+Billing and Payments,الفوترة والمدفوعات,healthcare,Server,server_ar_20261014_review
+"Build your own reports, print formats, and dashboards. Create personalized workspaces for easier navigation",أنشئ تقاريرك وتنسيقات الطباعة ولوحات المعلومات، وخصص مساحات العمل لتسهيل التنقل,frappe,Server,server_ar_20261014_review
+"Bulk operation is enqueued in background. Failures, if any, are recorded in Error Log.",أُدرجت العملية الجماعية في مهام الخلفية. تُسجل أي حالات فشل في سجل الأخطاء.,crm,Server,server_ar_20261014_review
+"Call connected, but the call log could not be saved. Please contact your administrator.",تم الاتصال، لكن تعذر حفظ سجل المكالمة. يرجى التواصل مع مسؤول النظام.,crm,Server,server_ar_20261014_review
+Call with John Doe,مكالمة مع أحمد محمد,crm,Server,server_ar_20261014_review
+Can't retry sync for this without source!,لا يمكن إعادة محاولة المزامنة دون مصدر!,crm,Server,server_ar_20261014_review
+Cannot delete: linked ERPNext Item {0} is referenced by a Quotation. Remove the reference or delete the Item in ERPNext first.,لا يمكن الحذف: الصنف المرتبط {0} في ERPNext مستخدم في عرض سعر. أزل المرجع أو احذف الصنف في ERPNext أولًا.,crm,Server,server_ar_20261014_review
+Cannot rename: an unrelated {0} '{1}' already exists on the other side. Resolve manually first.,لا يمكن إعادة التسمية: يوجد {0} '{1}' غير مرتبط في الجانب الآخر. عالج التعارض يدويًا أولًا.,crm,Server,server_ar_20261014_review
+Changing '{0}' to {1}.,جارٍ تغيير '{0}' إلى {1}.,hrms,Server,server_ar_20261014_review
+Check <a href='/app/List/Error Log?reference_doctype={0}'>{1}</a> for more details,راجع <a href='/app/List/Error Log?reference_doctype={0}'>{1}</a> لمزيد من التفاصيل,hrms,Server,server_ar_20261014_review
+Child nodes can only be created under 'Group' type nodes,يمكن إنشاء العقد الفرعية ضمن عقد من نوع «مجموعة» فقط,hrms,Server,server_ar_20261014_review
+Clinical,الشؤون السريرية,healthcare,Server,server_ar_20261014_review
+Clinical Procedures Status,حالة الإجراءات الطبية,healthcare,Server,server_ar_20261014_review
+Closing this Job Opening for {1} may not be according to the Staffing Plan {0}.<br><br>Do you want to close this Job Opening?,قد لا يتوافق إغلاق هذه الوظيفة الشاغرة لـ{1} مع خطة التوظيف {0}.<br><br>هل تريد إغلاق الوظيفة الشاغرة؟,hrms,Server,server_ar_20261014_review
+Configuration & Transactions,الإعدادات والحركات,ksa_compliance,Server,server_ar_20261014_review
+Consultation,الاستشارة,healthcare,Server,server_ar_20261014_review
+Consultation Setup,إعداد الاستشارات,healthcare,Server,server_ar_20261014_review
+"Could not create the Frappe CRM custom fields on {0} automatically. If it is running the latest ERPNext, enable <b>Frappe CRM Data Synchronization</b> in its CRM Settings, Otherwise check the Error Log.",تعذر إنشاء حقول علاقات العملاء المخصصة على {0} تلقائيًا. إذا كان يستخدم أحدث ERPNext، فعّل <b>مزامنة بيانات علاقات العملاء في فرابي</b> في إعداداته، وإلا فراجع سجل الأخطاء.,crm,Server,server_ar_20261014_review
+"Customize properties, naming, fields and more for standard doctypes",تخصيص خصائص المستندات القياسية وتسميتها وحقولها وغير ذلك,frappe,Server,server_ar_20261014_review
+Default calling medium set successfully to {0},تم تعيين {0} وسيلة الاتصال الافتراضية بنجاح,crm,Server,server_ar_20261014_review
+Delete or unlink these linked documents before deleting this document,احذف المستندات المرتبطة أو ألغِ ربطها قبل حذف هذا المستند,crm,Server,server_ar_20261014_review
+Department wise Patient Appointments,مواعيد المرضى حسب القسم,healthcare,Server,server_ar_20261014_review
+Diagnoses,التشخيصات,healthcare,Server,server_ar_20261014_review
+Diagnostic Module,قسم الفحوص التشخيصية,healthcare,Server,server_ar_20261014_review
+Diagnostics Setup,إعداد الفحوص التشخيصية,healthcare,Server,server_ar_20261014_review
+Draft Observations,مسودات الملاحظات السريرية,healthcare,Server,server_ar_20261014_review
+Eligibility,الأهلية,healthcare,Server,server_ar_20261014_review
+Emergency Beds,أسرّة الطوارئ,healthcare,Server,server_ar_20261014_review
+Emergency Department,قسم الطوارئ,healthcare,Server,server_ar_20261014_review
+Employee Advance return is scheduled via Additional Salary: {0} | <a href='{1}'> {2} </a>,جُدول رد سلفة الموظف من خلال الراتب الإضافي: {0} | <a href='{1}'> {2} </a>,hrms,Server,server_ar_20261014_review
+Employee {0} relieved on {1} must be set as 'Left',يجب تعيين حالة الموظف {0} الذي انتهت خدمته في {1} إلى «ترك العمل»,hrms,Server,server_ar_20261014_review
+Facility,المنشأة,healthcare,Server,server_ar_20261014_review
+Failed to load file-based form controller: {0},تعذر تحميل متحكم النموذج من الملف: {0},crm,Server,server_ar_20261014_review
+Failed to load form controller: {0},تعذر تحميل متحكم النموذج: {0},crm,Server,server_ar_20261014_review
+Feedback and Links,الملاحظات والروابط,ksa_compliance,Server,server_ar_20261014_review
+From Date {0} cannot be after employee's relieving Date {1},لا يمكن أن يكون تاريخ البداية {0} بعد تاريخ انتهاء خدمة الموظف {1},hrms,Server,server_ar_20261014_review
+From Date {0} cannot be before employee's joining Date {1},لا يمكن أن يسبق تاريخ البداية {0} تاريخ التحاق الموظف {1},hrms,Server,server_ar_20261014_review
+From date can not be less than employee's joining date,لا يمكن أن يسبق تاريخ البداية تاريخ التحاق الموظف,hrms,Server,server_ar_20261014_review
+From date can not be less than employee's joining date.,لا يمكن أن يسبق تاريخ البداية تاريخ التحاق الموظف.,hrms,Server,server_ar_20261014_review
+Group goal's progress is auto-calculated based on the child goals.,يُحسب تقدم هدف المجموعة تلقائيًا حسب الأهداف الفرعية.,hrms,Server,server_ar_20261014_review
+Group your custom doctypes under modules,تجميع أنواع المستندات المخصصة ضمن وحدات,frappe,Server,server_ar_20261014_review
+Helpdesk Configuration,إعدادات مكتب الدعم,helpdesk,Server,server_ar_20261014_review
+"I guess you don't have access to any workspace yet, but you can create one just for yourself. Click on the Create Workspace button to create one.",ليس لديك وصول إلى مساحة عمل بعد، لكن يمكنك إنشاء مساحة خاصة بك بالضغط على زر «إنشاء مساحة عمل».,frappe,Server,server_ar_20261014_review
+In-Patient Status,حالة المرضى المنوّمين,healthcare,Server,server_ar_20261014_review
+In-Process IP Orders,أوامر التنويم قيد التنفيذ,healthcare,Server,server_ar_20261014_review
+Insurance Claim Status,حالة مطالبات التأمين,healthcare,Server,server_ar_20261014_review
+Insurance Setup,إعداد التأمين,healthcare,Server,server_ar_20261014_review
+It appears that there are currently no {0} available. You can create more {0} by using the Create button.,لا يوجد {0} متاح حاليًا. يمكنك إنشاء المزيد من {0} باستخدام زر «إنشاء».,crm,Server,server_ar_20261014_review
+LOS,نظام إنشاء القروض,lending,Server,server_ar_20261014_review
+Laboratory (Legacy),المختبر (النظام القديم),healthcare,Server,server_ar_20261014_review
+Laboratory Setup,إعداد المختبر,healthcare,Server,server_ar_20261014_review
+Leaderboard,لوحة الترتيب,erpnext,Server,server_ar_20261014_review
+"Leave Ledger Entry's To date needs to be after From date. Currently, From Date is {0} and To Date is {1}",يجب أن يكون تاريخ نهاية قيد الإجازة بعد تاريخ بدايته. تاريخ البداية الحالي {0} وتاريخ النهاية {1},hrms,Server,server_ar_20261014_review
+Leaves for the Leave Type {0} won't be carry-forwarded since carry-forwarding is disabled.,لن تُرحّل إجازات النوع {0} لأن الترحيل معطّل.,hrms,Server,server_ar_20261014_review
+META,البيانات الوصفية,crm,Server,server_ar_20261014_review
+Masters & Reports,البيانات الأساسية والتقارير,"erpnext,hrms",Server,server_ar_20261014_review
+"Monitor logs for errors, background jobs, communications, and user activity",مراقبة سجلات الأخطاء ومهام الخلفية والاتصالات ونشاط المستخدمين,frappe,Server,server_ar_20261014_review
+New contact will be created based on the person's details,ستُنشأ جهة اتصال جديدة بناءً على بيانات الشخص,crm,Server,server_ar_20261014_review
+New organization will be created based on the data in details section,ستُنشأ مؤسسة جديدة بناءً على البيانات في قسم التفاصيل,crm,Server,server_ar_20261014_review
+No Employee found for the given employee field value. '{}': {},لم يتم العثور على موظف بقيمة الحقل المحددة. '{}': {},hrms,Server,server_ar_20261014_review
+No active Salary Structure Assignment found for employee {0} with salary structure {1} on or after arrear start date {2},لا يوجد إسناد هيكل راتب نشط للموظف {0} بالهيكل {1} في تاريخ بدء الفروقات {2} أو بعده,hrms,Server,server_ar_20261014_review
+No data fields have been added yet.,لم تتم إضافة حقول بيانات بعد.,crm,Server,server_ar_20261014_review
+No emails found in your inbox. New messages will appear here soon.,لا توجد رسائل في بريدك الوارد. ستظهر الرسائل الجديدة هنا.,crm,Server,server_ar_20261014_review
+No events coming up. Create a new one to keep things on track.,لا توجد أحداث قادمة. أنشئ حدثًا جديدًا لتنظيم المتابعة.,crm,Server,server_ar_20261014_review
+No files have been attached yet. Upload files to see them here.,لم تُرفق ملفات بعد. ارفع الملفات لتظهر هنا.,crm,Server,server_ar_20261014_review
+No recent calls to display. Log a call or call someone now!,لا توجد مكالمات حديثة للعرض. سجّل مكالمة أو أجرِ اتصالًا الآن!,crm,Server,server_ar_20261014_review
+Note: Total allocated leaves {0} shouldn't be less than already approved leaves {1} for the period,ملاحظة: يجب ألا يقل إجمالي الإجازات المخصصة {0} عن الإجازات المعتمدة بالفعل {1} للفترة,hrms,Server,server_ar_20261014_review
+Nothing here for now. Add a note to keep track of things.,لا توجد ملاحظات حاليًا. أضف ملاحظة لتسهيل المتابعة.,crm,Server,server_ar_20261014_review
+Nothing to do at the moment. Start organizing by adding one here.,لا توجد مهام حاليًا. أضف مهمة هنا لبدء التنظيم.,crm,Server,server_ar_20261014_review
+Nursing,التمريض,healthcare,Server,server_ar_20261014_review
+Observation Template,قالب الملاحظة السريرية,healthcare,Server,server_ar_20261014_review
+Observations,الملاحظات السريرية,healthcare,Server,server_ar_20261014_review
+Only Leave Applications with status 'Approved' and 'Rejected' can be submitted,يمكن اعتماد طلبات الإجازة بحالة «موافق عليه» أو «مرفوض» فقط,hrms,Server,server_ar_20261014_review
+Only Shift Request with status 'Approved' and 'Rejected' can be submitted,يمكن اعتماد طلب الوردية بحالة «موافق عليه» أو «مرفوض» فقط,hrms,Server,server_ar_20261014_review
+Open Appointments,المواعيد المفتوحة,healthcare,Server,server_ar_20261014_review
+Open Appointments OP,مواعيد العيادات الخارجية المفتوحة,healthcare,Server,server_ar_20261014_review
+Open Diagnostic Reports,تقارير التشخيص المفتوحة,healthcare,Server,server_ar_20261014_review
+Organism,الكائن الدقيق,healthcare,Server,server_ar_20261014_review
+Outpatient Setup,إعداد العيادات الخارجية,healthcare,Server,server_ar_20261014_review
+Outstanding Claims,المطالبات المستحقة,healthcare,Server,server_ar_20261014_review
+Outstanding Claims Value,قيمة المطالبات المستحقة,healthcare,Server,server_ar_20261014_review
+PORTAL,البوابة,crm,Server,server_ar_20261014_review
+POS Awesome App,تطبيق نقطة البيع POS Awesome,posawesome,Server,server_ar_20261014_review
+"Packages are lightweight apps (collection of Module Defs) that can be created, imported, or released right from the UI",الحزم تطبيقات خفيفة تضم تعريفات وحدات، ويمكن إنشاؤها أو استيرادها أو إصدارها مباشرة من الواجهة,frappe,Server,server_ar_20261014_review
+Paid Claims,المطالبات المسددة,healthcare,Server,server_ar_20261014_review
+Paid Claims Value,قيمة المطالبات المسددة,healthcare,Server,server_ar_20261014_review
+Patient Appointments,مواعيد المرضى,healthcare,Server,server_ar_20261014_review
+Patient Appointments OP,مواعيد مرضى العيادات الخارجية,healthcare,Server,server_ar_20261014_review
+Payor Contract,عقد جهة السداد,healthcare,Server,server_ar_20261014_review
+Payroll date can not be greater than employee's relieving date.,لا يمكن أن يكون تاريخ مسير الرواتب بعد تاريخ انتهاء خدمة الموظف.,hrms,Server,server_ar_20261014_review
+Payroll date can not be less than employee's joining date.,لا يمكن أن يسبق تاريخ مسير الرواتب تاريخ التحاق الموظف.,hrms,Server,server_ar_20261014_review
+Pending IP Medications,أدوية التنويم المعلقة,healthcare,Server,server_ar_20261014_review
+Pending Sample Collection,عينات بانتظار الجمع,healthcare,Server,server_ar_20261014_review
+Pending Sessions,الجلسات المعلقة,healthcare,Server,server_ar_20261014_review
+Pending Therapy Plans,خطط العلاج المعلقة,healthcare,Server,server_ar_20261014_review
+Plan & Assessment,الخطط والتقييم,healthcare,Server,server_ar_20261014_review
+Please provide a reason for marking this {0} as lost,يرجى تحديد سبب تعيين {0} كخاسر,crm,Server,server_ar_20261014_review
+"Please set ""Default Payroll Payable Account"" in Company Defaults",يرجى تحديد «حساب الرواتب المستحقة الافتراضي» في إعدادات الشركة الافتراضية,hrms,Server,server_ar_20261014_review
+Please set employee's total cost to company to see CTC breakup.,يرجى تحديد إجمالي تكلفة الموظف على الشركة لعرض تفاصيل التكلفة.,hrms,Server,server_ar_20261014_review
+Please share your feedback to the training by clicking on 'Training Feedback' and then 'New',شارك تقييمك للتدريب بالضغط على «تقييم التدريب» ثم «جديد»,hrms,Server,server_ar_20261014_review
+Records and History,السجلات والتاريخ الطبي,healthcare,Server,server_ar_20261014_review
+Reduction is more than {0}'s available leave balance {1} for leave type {2},التخفيض يتجاوز رصيد الإجازة المتاح للموظف {0} البالغ {1} من نوع الإجازة {2},hrms,Server,server_ar_20261014_review
+Rehabilitation and Physiotherapy,إعادة التأهيل والعلاج الطبيعي,healthcare,Server,server_ar_20261014_review
+Reports & Pages,التقارير والصفحات,healthcare,Server,server_ar_20261014_review
+Reports and Pages,التقارير والصفحات,healthcare,Server,server_ar_20261014_review
+Row {0}: Paid amount {1} is greater than pending accrued amount {2} against loan {3},الصف {0}: المبلغ المدفوع {1} يتجاوز المبلغ المستحق المعلق {2} مقابل القرض {3},hrms,Server,server_ar_20261014_review
+SHORTCUTS,الاختصارات,crm,Server,server_ar_20261014_review
+Salary Component {0} must be of type 'Earning' to be used in Employee Benefit Ledger,يجب أن يكون مكوّن الراتب {0} من نوع «استحقاق» لاستخدامه في دفتر منافع الموظفين,hrms,Server,server_ar_20261014_review
+Service Definitions,تعريفات الخدمات,healthcare,Server,server_ar_20261014_review
+Service Unit Type wise Status,الحالة حسب نوع وحدة الخدمة,healthcare,Server,server_ar_20261014_review
+Setup a Home Page,إعداد الصفحة الرئيسية,lms,Server,server_ar_20261014_review
+"Setup the Exchange Rate Provider other than 'Frankfurter' in settings, as default provider does not support currency conversion for {0} to {1}.",اختر مزود أسعار صرف غير 'Frankfurter' في الإعدادات؛ المزود الافتراضي لا يدعم التحويل من {0} إلى {1}.,crm,Server,server_ar_20261014_review
+Shared document with the user {0} with 'Submit' permission,تمت مشاركة المستند مع المستخدم {0} بصلاحية «اعتماد»,hrms,Server,server_ar_20261014_review
+"Since you added a new assignee, the {0} has been set to {1}.",نظرًا لإضافة مسؤول جديد، تم تعيين {0} إلى {1}.,crm,Server,server_ar_20261014_review
+"Since you removed {0} from the assignee, the {0} has also been removed.",نظرًا لإزالة {0} من المسؤولين، أُزيل {0} أيضًا.,crm,Server,server_ar_20261014_review
+"Since you removed {0} from the assignee, the {0} has been changed to the next available assignee {1}.",نظرًا لإزالة {0} من المسؤولين، تم تعيين {0} إلى المسؤول التالي المتاح {1}.,crm,Server,server_ar_20261014_review
+Subcontracting Inward and Outward,المقاولات من الباطن الواردة والصادرة,erpnext,Server,server_ar_20261014_review
+Terminology (Medical Codes),المصطلحات (الرموز الطبية),healthcare,Server,server_ar_20261014_review
+Terminology Mapping,ربط المصطلحات,healthcare,Server,server_ar_20261014_review
+The currency of {0} should be same as the company's default currency. Please select another account.,يجب أن تطابق عملة {0} العملة الافتراضية للشركة. يرجى اختيار حساب آخر.,hrms,Server,server_ar_20261014_review
+The date on which Salary Component with Amount will contribute for Earnings/Deduction in Salary Slip. ,التاريخ الذي يُحتسب فيه مبلغ مكوّن الراتب ضمن الاستحقاقات أو الاستقطاعات في قسيمة الراتب.,hrms,Server,server_ar_20261014_review
+Therapy Sessions,جلسات العلاج,healthcare,Server,server_ar_20261014_review
+There are no activities to display here. Go ahead and make some changes.,لا توجد أنشطة للعرض هنا. ستظهر الأنشطة عند إجراء تغييرات.,crm,Server,server_ar_20261014_review
+There's no Employee with Salary Structure: {0}. Assign {1} to an Employee to preview Salary Slip,لا يوجد موظف بهيكل الراتب: {0}. أسند {1} إلى موظف لمعاينة قسيمة الراتب,hrms,Server,server_ar_20261014_review
+"This module is scheduled for deprecation and will be completely removed in version 17, please use Frappe CRM instead.",سيُوقف دعم هذه الوحدة وستُحذف بالكامل في الإصدار 17. يرجى استخدام تطبيق علاقات العملاء من فرابي بدلًا منها.,erpnext,Server,server_ar_20261014_review
+"This module is scheduled for deprecation and will be completely removed in version 17, please use Frappe Helpdesk instead.",سيُوقف دعم هذه الوحدة وستُحذف بالكامل في الإصدار 17. يرجى استخدام تطبيق الدعم من فرابي بدلًا منها.,erpnext,Server,server_ar_20261014_review
+"This will delete selected items and items linked to it, are you sure?",سيحذف هذا العناصر المحددة والعناصر المرتبطة بها. هل تريد المتابعة؟,crm,Server,server_ar_20261014_review
+"This will delete selected items and unlink linked items to it, are you sure?",سيحذف هذا العناصر المحددة ويلغي ربط العناصر المرتبطة بها. هل تريد المتابعة؟,crm,Server,server_ar_20261014_review
+This will overwrite the tax component {0} in the salary slip and tax won't be calculated based on the Income Tax Slabs,سيؤدي هذا إلى استبدال مكوّن الضريبة {0} في قسيمة الراتب، ولن تُحسب الضريبة حسب شرائح ضريبة الدخل,hrms,Server,server_ar_20261014_review
+To apply for a Half Day check 'Half Day' and select the Half Day Date,لطلب نصف يوم، حدد «نصف يوم» واختر تاريخه,hrms,Server,server_ar_20261014_review
+To date can not be greater than employee's relieving date.,لا يمكن أن يكون تاريخ النهاية بعد تاريخ انتهاء خدمة الموظف.,hrms,Server,server_ar_20261014_review
+To date can not greater than employee's relieving date,لا يمكن أن يكون تاريخ النهاية بعد تاريخ انتهاء خدمة الموظف,hrms,Server,server_ar_20261014_review
+Today is {0}'s birthday 🎉,اليوم عيد ميلاد {0} 🎉,hrms,Server,server_ar_20261014_review
+Total Diagnostic Reports,إجمالي تقارير التشخيص,healthcare,Server,server_ar_20261014_review
+Total IP Records,إجمالي سجلات التنويم,healthcare,Server,server_ar_20261014_review
+Total Medications,إجمالي الأدوية,healthcare,Server,server_ar_20261014_review
+Total Observations,إجمالي الملاحظات السريرية,healthcare,Server,server_ar_20261014_review
+Total Out Patients,إجمالي مرضى العيادات الخارجية,healthcare,Server,server_ar_20261014_review
+Total Patients,إجمالي المرضى,healthcare,Server,server_ar_20261014_review
+Total Patients Admitted,إجمالي المرضى الذين تم تنويمهم,healthcare,Server,server_ar_20261014_review
+Total Sessions to Bill,إجمالي الجلسات بانتظار الفوترة,healthcare,Server,server_ar_20261014_review
+Total Therapy Plans,إجمالي خطط العلاج,healthcare,Server,server_ar_20261014_review
+Transactions & Reports,الحركات والتقارير,hrms,Server,server_ar_20261014_review
+Triage Queue,قائمة انتظار الفرز الطبي,healthcare,Server,server_ar_20261014_review
+Visit Helpdesk,فتح مكتب الدعم,helpdesk,Server,server_ar_20261014_review
+Visit LMS Portal,فتح بوابة التعلّم,lms,Server,server_ar_20261014_review
+We're unable to connect your call right now. Please try again later.,تعذر إجراء المكالمة الآن. يرجى المحاولة لاحقًا.,crm,Server,server_ar_20261014_review
+"Width can be in number, pixel or rem (eg. 3, 30px, 10rem)",يمكن تحديد العرض برقم أو بالبكسل أو rem (مثل 3 أو 30px أو 10rem),crm,Server,server_ar_20261014_review
+You do not have enough permissions to access Frappe CRM. Please contact your administrator if you believe this is an error.,لا تملك الصلاحيات اللازمة لدخول إدارة علاقات العملاء. تواصل مع مسؤول النظام إذا كنت تعتقد أن هناك خطأ.,crm,Server,server_ar_20261014_review
+ZATCA Integration,الربط مع هيئة الزكاة والضريبة والجمارك,ksa_compliance,Server,server_ar_20261014_review
+ZATCA Workspace - Feedback and Link Section,مساحة الهيئة - قسم الملاحظات والروابط,ksa_compliance,Server,server_ar_20261014_review
+or for the Employee's Department: {0},أو لقسم الموظف: {0},hrms,Server,server_ar_20261014_review
+{0} can't be collected by a form,لا يمكن جمع {0} عبر نموذج,crm,Server,server_ar_20261014_review
+{0} can't be set as a hidden field,لا يمكن تعيين {0} كحقل مخفي,crm,Server,server_ar_20261014_review
+{0} can't be used as a layout break,لا يمكن استخدام {0} كفاصل تخطيط,crm,Server,server_ar_20261014_review
+{0} deleted successfully,تم حذف {0} بنجاح,crm,Server,server_ar_20261014_review
+{0} hrs,{0} ساعة,crm,Server,server_ar_20261014_review
+{0} is an Invalid Value,{0} قيمة غير صالحة,crm,Server,server_ar_20261014_review
+{0} is an Invalid value,{0} قيمة غير صالحة,crm,Server,server_ar_20261014_review
+{0} is an invalid email address,{0} بريد إلكتروني غير صالح,crm,Server,server_ar_20261014_review
+{0} isn't a linkable field on a CRM form.,{0} ليس حقلًا قابلًا للربط في نموذج علاقات العملاء.,crm,Server,server_ar_20261014_review
+{0} mins,{0} دقيقة,crm,Server,server_ar_20261014_review
+{0}% complete,اكتمل {0}%,crm,Server,server_ar_20261014_review
+"⚠️ Avoid using ""trigger"" as a field name — it conflicts with the built-in trigger() method.","⚠️ تجنب تسمية الحقل ""trigger"" لأنه يتعارض مع الدالة المضمنة trigger().",crm,Server,server_ar_20261014_review
+"⚠️ Method ""{0}"" not found in class.","⚠️ الدالة ""{0}"" غير موجودة في الفئة.",crm,Server,server_ar_20261014_review
+⚠️ No data found for parent field: {0},⚠️ لم يتم العثور على بيانات للحقل الأب: {0},crm,Server,server_ar_20261014_review
+⚠️ No row found for idx: {0} in parent field: {1},⚠️ لم يتم العثور على الصف ذي الترتيب {0} في الحقل الأب: {1},crm,Server,server_ar_20261014_review

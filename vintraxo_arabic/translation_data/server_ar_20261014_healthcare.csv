@@ -1,0 +1,934 @@
+source,arabic,app,module,origin
+Aadhaar Consent Template,قالب موافقة Aadhaar,healthcare,Server,server_ar_20261014_healthcare
+Abdomen,البطن,healthcare,Server,server_ar_20261014_healthcare
+Abnormal,غير طبيعي,healthcare,Server,server_ar_20261014_healthcare
+Abnormal Condition,الحالة غير الطبيعية,healthcare,Server,server_ar_20261014_healthcare
+Abnormal From,بداية النطاق غير الطبيعي,healthcare,Server,server_ar_20261014_healthcare
+Abnormal Interpretation,تفسير النتيجة غير الطبيعية,healthcare,Server,server_ar_20261014_healthcare
+Abnormal Long Interpretation,التفسير المفصل للنتيجة غير الطبيعية,healthcare,Server,server_ar_20261014_healthcare
+Abnormal Options,خيارات النتائج غير الطبيعية,healthcare,Server,server_ar_20261014_healthcare
+Abnormal Ratio,النسبة غير الطبيعية,healthcare,Server,server_ar_20261014_healthcare
+Abnormal To,نهاية النطاق غير الطبيعي,healthcare,Server,server_ar_20261014_healthcare
+Abnormal Value,القيمة غير الطبيعية,healthcare,Server,server_ar_20261014_healthcare
+Active Assist,مساعدة الحركة النشطة,healthcare,Server,server_ar_20261014_healthcare
+Activity Duration,مدة النشاط,healthcare,Server,server_ar_20261014_healthcare
+Actual End Datetime,تاريخ ووقت الانتهاء الفعلي,healthcare,Server,server_ar_20261014_healthcare
+Actual Start Datetime,تاريخ ووقت البدء الفعلي,healthcare,Server,server_ar_20261014_healthcare
+Acuity,درجة حدة الحالة,healthcare,Server,server_ar_20261014_healthcare
+Add / Edit Fields,إضافة / تعديل الحقول,healthcare,Server,server_ar_20261014_healthcare
+Add Clinical Note,إضافة ملاحظة سريرية,healthcare,Server,server_ar_20261014_healthcare
+Add Exercise Step,إضافة خطوة تمرين,healthcare,Server,server_ar_20261014_healthcare
+Add Exercises,إضافة تمارين,healthcare,Server,server_ar_20261014_healthcare
+Add Medication Orders,إضافة أوامر أدوية,healthcare,Server,server_ar_20261014_healthcare
+Add Multiple Service Units,إضافة وحدات خدمة متعددة,healthcare,Server,server_ar_20261014_healthcare
+Add New Line,إضافة سطر جديد,healthcare,Server,server_ar_20261014_healthcare
+Add Observation,إضافة ملاحظة سريرية,healthcare,Server,server_ar_20261014_healthcare
+Add Test,إضافة فحص,healthcare,Server,server_ar_20261014_healthcare
+Add Time Slots,إضافة فترات زمنية,healthcare,Server,server_ar_20261014_healthcare
+Adding Order Entries,جارٍ إضافة بنود الأوامر,healthcare,Server,server_ar_20261014_healthcare
+Admission Encounter,زيارة الدخول للتنويم,healthcare,Server,server_ar_20261014_healthcare
+Admission Instructions,تعليمات الدخول للتنويم,healthcare,Server,server_ar_20261014_healthcare
+Admission Order,أمر دخول للتنويم,healthcare,Server,server_ar_20261014_healthcare
+Admission Ordered For,المطلوب تنويمه,healthcare,Server,server_ar_20261014_healthcare
+Admission Schedule Date,تاريخ التنويم المجدول,healthcare,Server,server_ar_20261014_healthcare
+Admission Scheduled,تمت جدولة التنويم,healthcare,Server,server_ar_20261014_healthcare
+Admission Service Unit Type,نوع وحدة خدمة التنويم,healthcare,Server,server_ar_20261014_healthcare
+Admit,تنويم المريض,healthcare,Server,server_ar_20261014_healthcare
+Admitted Datetime,تاريخ ووقت الدخول للتنويم,healthcare,Server,server_ar_20261014_healthcare
+Advice,الإرشادات,healthcare,Server,server_ar_20261014_healthcare
+Advice on Discharge,إرشادات الخروج,healthcare,Server,server_ar_20261014_healthcare
+Against Inpatient Medication Order,مقابل أمر دواء لمريض منوّم,healthcare,Server,server_ar_20261014_healthcare
+Age From,العمر من,healthcare,Server,server_ar_20261014_healthcare
+Age To,العمر إلى,healthcare,Server,server_ar_20261014_healthcare
+Alcohol Consumption (Past),استهلاك الكحول سابقًا,healthcare,Server,server_ar_20261014_healthcare
+Alcohol Consumption (Present),استهلاك الكحول حاليًا,healthcare,Server,server_ar_20261014_healthcare
+Alcohol past use,تعاطي الكحول سابقًا,healthcare,Server,server_ar_20261014_healthcare
+Alcohol use,تعاطي الكحول,healthcare,Server,server_ar_20261014_healthcare
+Alert,تنبيه,healthcare,Server,server_ar_20261014_healthcare
+Alert Message,رسالة التنبيه,healthcare,Server,server_ar_20261014_healthcare
+Alerts,التنبيهات,healthcare,Server,server_ar_20261014_healthcare
+Allergies,الحساسيات,healthcare,Server,server_ar_20261014_healthcare
+Allergy,الحساسية,healthcare,Server,server_ar_20261014_healthcare
+Allergy Name,اسم الحساسية,healthcare,Server,server_ar_20261014_healthcare
+Allergy recorded,تم تسجيل الحساسية,healthcare,Server,server_ar_20261014_healthcare
+Allerigies,الحساسيات,healthcare,Server,server_ar_20261014_healthcare
+Allow Appointments,السماح بالمواعيد,healthcare,Server,server_ar_20261014_healthcare
+Allow Blank,السماح بقيمة فارغة,healthcare,Server,server_ar_20261014_healthcare
+Allow Booking For,السماح بالحجز لـ,healthcare,Server,server_ar_20261014_healthcare
+Allow Overlap,السماح بالتداخل,healthcare,Server,server_ar_20261014_healthcare
+Allow Stock Consumption,السماح باستهلاك المخزون,healthcare,Server,server_ar_20261014_healthcare
+Allow Video Conferencing,السماح بالاستشارات المرئية,healthcare,Server,server_ar_20261014_healthcare
+Allowed Options,الخيارات المسموحة,healthcare,Server,server_ar_20261014_healthcare
+Already Exist,موجود بالفعل,healthcare,Server,server_ar_20261014_healthcare
+Ambulance,الإسعاف,healthcare,Server,server_ar_20261014_healthcare
+Amended,معدّل,healthcare,Server,server_ar_20261014_healthcare
+Antibiotic,مضاد حيوي,healthcare,Server,server_ar_20261014_healthcare
+Antibiotic Name,اسم المضاد الحيوي,healthcare,Server,server_ar_20261014_healthcare
+Appointment Based On Check In,الموعد بناءً على تسجيل الوصول,healthcare,Server,server_ar_20261014_healthcare
+Appointment Booked,تم حجز الموعد,healthcare,Server,server_ar_20261014_healthcare
+Appointment Datetime,تاريخ ووقت الموعد,healthcare,Server,server_ar_20261014_healthcare
+Appointment Duration (mins),مدة الموعد (دقائق),healthcare,Server,server_ar_20261014_healthcare
+Appointment End Datetime,تاريخ ووقت انتهاء الموعد,healthcare,Server,server_ar_20261014_healthcare
+Appointment For,الموعد لـ,healthcare,Server,server_ar_20261014_healthcare
+Appointment Notes,ملاحظات الموعد,healthcare,Server,server_ar_20261014_healthcare
+Appointment Reminder,تذكير بالموعد,healthcare,Server,server_ar_20261014_healthcare
+Appointment Status,حالة الموعد,healthcare,Server,server_ar_20261014_healthcare
+Appointment Type,نوع الموعد,healthcare,Server,server_ar_20261014_healthcare
+Appointment Type Service Item,صنف خدمة نوع الموعد,healthcare,Server,server_ar_20261014_healthcare
+Appointment Type Service Items,أصناف خدمات نوع الموعد,healthcare,Server,server_ar_20261014_healthcare
+Appointments,المواعيد,healthcare,Server,server_ar_20261014_healthcare
+Approved Amount,المبلغ المعتمد,healthcare,Server,server_ar_20261014_healthcare
+Approved Date,تاريخ الاعتماد,healthcare,Server,server_ar_20261014_healthcare
+Arrival,الوصول,healthcare,Server,server_ar_20261014_healthcare
+Arrival Date and Time,تاريخ ووقت الوصول,healthcare,Server,server_ar_20261014_healthcare
+Arrival Mode,وسيلة الوصول,healthcare,Server,server_ar_20261014_healthcare
+Assessment Datetime,تاريخ ووقت التقييم,healthcare,Server,server_ar_20261014_healthcare
+Assessment Description,وصف التقييم,healthcare,Server,server_ar_20261014_healthcare
+Assessment Parameter,عنصر التقييم,healthcare,Server,server_ar_20261014_healthcare
+Assessment Parameters,عناصر التقييم,healthcare,Server,server_ar_20261014_healthcare
+Assessment Scale,مقياس التقييم,healthcare,Server,server_ar_20261014_healthcare
+Assessment Sheet,نموذج التقييم,healthcare,Server,server_ar_20261014_healthcare
+Assessment Template,قالب التقييم,healthcare,Server,server_ar_20261014_healthcare
+Assign Bed,تخصيص سرير,healthcare,Server,server_ar_20261014_healthcare
+Assistance Level,مستوى المساعدة,healthcare,Server,server_ar_20261014_healthcare
+Attach Medical Record,إرفاق سجل طبي,healthcare,Server,server_ar_20261014_healthcare
+Attach Result,إرفاق نتيجة,healthcare,Server,server_ar_20261014_healthcare
+Attending Practitioner,الممارس الصحي المعالج,healthcare,Server,server_ar_20261014_healthcare
+Automatically Generate Billable,إنشاء بنود قابلة للفوترة تلقائيًا,healthcare,Server,server_ar_20261014_healthcare
+Available slots,الفترات المتاحة,healthcare,Server,server_ar_20261014_healthcare
+Average Score,متوسط الدرجات,healthcare,Server,server_ar_20261014_healthcare
+Avoid Confirmation,تجاوز التأكيد,healthcare,Server,server_ar_20261014_healthcare
+Awaiting Disposition,بانتظار قرار التصرف بالحالة,healthcare,Server,server_ar_20261014_healthcare
+Based on Condition and Formula,بناءً على الشرط والمعادلة,healthcare,Server,server_ar_20261014_healthcare
+Based on Consumption,بناءً على الاستهلاك,healthcare,Server,server_ar_20261014_healthcare
+Bed,سرير,healthcare,Server,server_ar_20261014_healthcare
+Bed Occupancy,إشغال السرير,healthcare,Server,server_ar_20261014_healthcare
+Billables,البنود القابلة للفوترة,healthcare,Server,server_ar_20261014_healthcare
+Billing & Accounts,الفوترة والحسابات,healthcare,Server,server_ar_20261014_healthcare
+Billing Item,صنف الفوترة,healthcare,Server,server_ar_20261014_healthcare
+Billing Summary,ملخص الفوترة,healthcare,Server,server_ar_20261014_healthcare
+Billing Type,نوع الفوترة,healthcare,Server,server_ar_20261014_healthcare
+Billing and Insurance,الفوترة والتأمين,healthcare,Server,server_ar_20261014_healthcare
+Biologic,دواء حيوي,healthcare,Server,server_ar_20261014_healthcare
+Bloated,منتفخ,healthcare,Server,server_ar_20261014_healthcare
+Blood Pressure,ضغط الدم,healthcare,Server,server_ar_20261014_healthcare
+Blood Pressure (diastolic),ضغط الدم الانبساطي,healthcare,Server,server_ar_20261014_healthcare
+Blood Pressure (systolic),ضغط الدم الانقباضي,healthcare,Server,server_ar_20261014_healthcare
+Body Part,جزء الجسم,healthcare,Server,server_ar_20261014_healthcare
+Body Part Link,رابط جزء الجسم,healthcare,Server,server_ar_20261014_healthcare
+Body Parts,أجزاء الجسم,healthcare,Server,server_ar_20261014_healthcare
+Body Temperature,درجة حرارة الجسم,healthcare,Server,server_ar_20261014_healthcare
+Book,حجز,healthcare,Server,server_ar_20261014_healthcare
+Boolean,منطقي,healthcare,Server,server_ar_20261014_healthcare
+Boolean Value,قيمة منطقية,healthcare,Server,server_ar_20261014_healthcare
+Break,استراحة,healthcare,Server,server_ar_20261014_healthcare
+Browse Medication,تصفح الأدوية,healthcare,Server,server_ar_20261014_healthcare
+Cancel Admission,إلغاء التنويم,healthcare,Server,server_ar_20261014_healthcare
+Canonical Mapping,الربط المعياري,healthcare,Server,server_ar_20261014_healthcare
+Captured,تم التسجيل,healthcare,Server,server_ar_20261014_healthcare
+Care,الرعاية,healthcare,Server,server_ar_20261014_healthcare
+Change In Item,التغيير في الصنف,healthcare,Server,server_ar_20261014_healthcare
+Change Item Code,تغيير رمز الصنف,healthcare,Server,server_ar_20261014_healthcare
+Change Template Code,تغيير رمز القالب,healthcare,Server,server_ar_20261014_healthcare
+Change in Item,التغيير في الصنف,healthcare,Server,server_ar_20261014_healthcare
+Check Availability,التحقق من التوفر,healthcare,Server,server_ar_20261014_healthcare
+Check In,تسجيل الوصول,healthcare,Server,server_ar_20261014_healthcare
+Check Out,تسجيل المغادرة,healthcare,Server,server_ar_20261014_healthcare
+Checked In,تم تسجيل الوصول,healthcare,Server,server_ar_20261014_healthcare
+Checked Out,تم تسجيل المغادرة,healthcare,Server,server_ar_20261014_healthcare
+Checklist,قائمة التحقق,healthcare,Server,server_ar_20261014_healthcare
+Chief Complaint,الشكوى الرئيسية,healthcare,Server,server_ar_20261014_healthcare
+Claim Amount,مبلغ المطالبة,healthcare,Server,server_ar_20261014_healthcare
+Claim Coverage %,نسبة تغطية المطالبة %,healthcare,Server,server_ar_20261014_healthcare
+Claim Details,تفاصيل المطالبة,healthcare,Server,server_ar_20261014_healthcare
+Claim Error / Reject Reason,خطأ المطالبة / سبب الرفض,healthcare,Server,server_ar_20261014_healthcare
+Claim Mode of Approval,طريقة اعتماد المطالبة,healthcare,Server,server_ar_20261014_healthcare
+Claim Status,حالة المطالبة,healthcare,Server,server_ar_20261014_healthcare
+Claim Validity End Date,تاريخ انتهاء صلاحية المطالبة,healthcare,Server,server_ar_20261014_healthcare
+Claims Receivable Account,حساب المطالبات المستحقة,healthcare,Server,server_ar_20261014_healthcare
+Clinical Note,ملاحظة سريرية,healthcare,Server,server_ar_20261014_healthcare
+Clinical Note Type,نوع الملاحظة السريرية,healthcare,Server,server_ar_20261014_healthcare
+Clinical Notes,الملاحظات السريرية,healthcare,Server,server_ar_20261014_healthcare
+Clinical Procedure,إجراء طبي,healthcare,Server,server_ar_20261014_healthcare
+Clinical Procedure Consumable Item,صنف مستهلك للإجراء الطبي,healthcare,Server,server_ar_20261014_healthcare
+Clinical Procedure Item,صنف الإجراء الطبي,healthcare,Server,server_ar_20261014_healthcare
+Clinical Procedure Rate,سعر الإجراء الطبي,healthcare,Server,server_ar_20261014_healthcare
+Clinical Procedure Template,قالب الإجراء الطبي,healthcare,Server,server_ar_20261014_healthcare
+Clinical Procedures,الإجراءات الطبية,healthcare,Server,server_ar_20261014_healthcare
+Coated,مغطى بطبقة,healthcare,Server,server_ar_20261014_healthcare
+Code Description,وصف الرمز,healthcare,Server,server_ar_20261014_healthcare
+Code System,نظام الترميز,healthcare,Server,server_ar_20261014_healthcare
+Code Value,قيمة الرمز,healthcare,Server,server_ar_20261014_healthcare
+Code Value Description,وصف قيمة الرمز,healthcare,Server,server_ar_20261014_healthcare
+Code Value Set,مجموعة قيم الرموز,healthcare,Server,server_ar_20261014_healthcare
+Codification Table,جدول الترميز,healthcare,Server,server_ar_20261014_healthcare
+Collect Payment on Portal,تحصيل الدفع عبر البوابة,healthcare,Server,server_ar_20261014_healthcare
+Collect Registration Fee,تحصيل رسوم التسجيل,healthcare,Server,server_ar_20261014_healthcare
+Collected,تم الجمع,healthcare,Server,server_ar_20261014_healthcare
+Collected By,جُمع بواسطة,healthcare,Server,server_ar_20261014_healthcare
+Collected On,تاريخ الجمع,healthcare,Server,server_ar_20261014_healthcare
+Collected User,مستخدم جمع العينة,healthcare,Server,server_ar_20261014_healthcare
+Collection Date Time,تاريخ ووقت الجمع,healthcare,Server,server_ar_20261014_healthcare
+Collection Details,تفاصيل الجمع,healthcare,Server,server_ar_20261014_healthcare
+Collection Point,نقطة جمع العينات,healthcare,Server,server_ar_20261014_healthcare
+Colony Population,عدد المستعمرات,healthcare,Server,server_ar_20261014_healthcare
+Colony UOM,وحدة قياس المستعمرات,healthcare,Server,server_ar_20261014_healthcare
+Combinations,التركيبات,healthcare,Server,server_ar_20261014_healthcare
+Complaint,شكوى,healthcare,Server,server_ar_20261014_healthcare
+Complaints,الشكاوى,healthcare,Server,server_ar_20261014_healthcare
+Complete and Consume,إكمال واستهلاك,healthcare,Server,server_ar_20261014_healthcare
+Completed Orders,الأوامر المكتملة,healthcare,Server,server_ar_20261014_healthcare
+Completed Sessions,الجلسات المكتملة,healthcare,Server,server_ar_20261014_healthcare
+Component Observation Parent,الملاحظة الأم للمكوّن,healthcare,Server,server_ar_20261014_healthcare
+Component Observations,ملاحظات المكوّنات,healthcare,Server,server_ar_20261014_healthcare
+Compound,مركّب,healthcare,Server,server_ar_20261014_healthcare
+Compound Test Result,نتيجة فحص مركّب,healthcare,Server,server_ar_20261014_healthcare
+Confirm to Schedule Admission,تأكيد جدولة التنويم,healthcare,Server,server_ar_20261014_healthcare
+Confirmation Message,رسالة التأكيد,healthcare,Server,server_ar_20261014_healthcare
+Conflicts With,يتعارض مع,healthcare,Server,server_ar_20261014_healthcare
+Consent Management,إدارة الموافقات,healthcare,Server,server_ar_20261014_healthcare
+Consent Required,الموافقة مطلوبة,healthcare,Server,server_ar_20261014_healthcare
+Constipated,مصاب بالإمساك,healthcare,Server,server_ar_20261014_healthcare
+Consultation Item,صنف الاستشارة,healthcare,Server,server_ar_20261014_healthcare
+Consumable Total Amount,إجمالي مبلغ المستهلكات,healthcare,Server,server_ar_20261014_healthcare
+Consume Stock,استهلاك المخزون,healthcare,Server,server_ar_20261014_healthcare
+Consumption Details,تفاصيل الاستهلاك,healthcare,Server,server_ar_20261014_healthcare
+Consumption Invoiced,استهلاك مفوتر,healthcare,Server,server_ar_20261014_healthcare
+Contact & Address,الاتصال والعنوان,healthcare,Server,server_ar_20261014_healthcare
+Container Closure Color,لون غطاء الحاوية,healthcare,Server,server_ar_20261014_healthcare
+Contraindicated,مضاد استطباب,healthcare,Server,server_ar_20261014_healthcare
+Conversion Factor is mandatory,معامل التحويل مطلوب,healthcare,Server,server_ar_20261014_healthcare
+Could not create Service Units,تعذر إنشاء وحدات الخدمة,healthcare,Server,server_ar_20261014_healthcare
+Counts Completed,العدد المنجز,healthcare,Server,server_ar_20261014_healthcare
+Counts Target,العدد المستهدف,healthcare,Server,server_ar_20261014_healthcare
+Coverage %,نسبة التغطية %,healthcare,Server,server_ar_20261014_healthcare
+Coverage Amount,مبلغ التغطية,healthcare,Server,server_ar_20261014_healthcare
+Coverage Percentage,نسبة التغطية,healthcare,Server,server_ar_20261014_healthcare
+Coverage Status,حالة التغطية,healthcare,Server,server_ar_20261014_healthcare
+Create ABHA,إنشاء معرّف ABHA,healthcare,Server,server_ar_20261014_healthcare
+Create Coverage,إنشاء تغطية,healthcare,Server,server_ar_20261014_healthcare
+Create Insurance Coverage,إنشاء تغطية تأمينية,healthcare,Server,server_ar_20261014_healthcare
+Create Medication Request,إنشاء طلب دواء,healthcare,Server,server_ar_20261014_healthcare
+Create Multiple,إنشاء متعدد,healthcare,Server,server_ar_20261014_healthcare
+Create Nursing Tasks,إنشاء مهام تمريض,healthcare,Server,server_ar_20261014_healthcare
+Create Service Request,إنشاء طلب خدمة,healthcare,Server,server_ar_20261014_healthcare
+Create Slots,إنشاء فترات زمنية,healthcare,Server,server_ar_20261014_healthcare
+Create Treatment Counselling,إنشاء استشارة علاجية,healthcare,Server,server_ar_20261014_healthcare
+Create/Link Code,إنشاء / ربط رمز,healthcare,Server,server_ar_20261014_healthcare
+Create/Link Item,إنشاء / ربط صنف,healthcare,Server,server_ar_20261014_healthcare
+Creating Insurance Coverage,جارٍ إنشاء التغطية التأمينية,healthcare,Server,server_ar_20261014_healthcare
+Date Fieldname,اسم حقل التاريخ,healthcare,Server,server_ar_20261014_healthcare
+Date Time,التاريخ والوقت,healthcare,Server,server_ar_20261014_healthcare
+Date of birth,تاريخ الميلاد,healthcare,Server,server_ar_20261014_healthcare
+DateTime,التاريخ والوقت,healthcare,Server,server_ar_20261014_healthcare
+Day(s),يوم / أيام,healthcare,Server,server_ar_20261014_healthcare
+Deceased,متوفى,healthcare,Server,server_ar_20261014_healthcare
+Default Appointment Type,نوع الموعد الافتراضي,healthcare,Server,server_ar_20261014_healthcare
+Default Code System,نظام الترميز الافتراضي,healthcare,Server,server_ar_20261014_healthcare
+Default Duration,المدة الافتراضية,healthcare,Server,server_ar_20261014_healthcare
+Default Duration (In Minutes),المدة الافتراضية (دقائق),healthcare,Server,server_ar_20261014_healthcare
+Default Google Calendar,تقويم Google الافتراضي,healthcare,Server,server_ar_20261014_healthcare
+Default Healthcare Service Items,أصناف خدمات الرعاية الصحية الافتراضية,healthcare,Server,server_ar_20261014_healthcare
+Default Intent,الغرض الافتراضي,healthcare,Server,server_ar_20261014_healthcare
+Default Interval,الفاصل الافتراضي,healthcare,Server,server_ar_20261014_healthcare
+Default Interval UOM,وحدة قياس الفاصل الافتراضية,healthcare,Server,server_ar_20261014_healthcare
+Default Prescription Dosage,جرعة الوصفة الافتراضية,healthcare,Server,server_ar_20261014_healthcare
+Default Prescription Duration,مدة الوصفة الافتراضية,healthcare,Server,server_ar_20261014_healthcare
+Definition,التعريف,healthcare,Server,server_ar_20261014_healthcare
+Denied,مرفوض,healthcare,Server,server_ar_20261014_healthcare
+Description ,الوصف,healthcare,Server,server_ar_20261014_healthcare
+Descriptive,وصفي,healthcare,Server,server_ar_20261014_healthcare
+Descriptive Result,نتيجة وصفية,healthcare,Server,server_ar_20261014_healthcare
+Descriptive Test,فحص وصفي,healthcare,Server,server_ar_20261014_healthcare
+Descriptive Test Result,نتيجة الفحص الوصفي,healthcare,Server,server_ar_20261014_healthcare
+Descriptive Test Template,قالب الفحص الوصفي,healthcare,Server,server_ar_20261014_healthcare
+Descriptive Toggle,خيار النتيجة الوصفية,healthcare,Server,server_ar_20261014_healthcare
+Diagnosis,التشخيص,healthcare,Server,server_ar_20261014_healthcare
+Diagnosis Trends,اتجاهات التشخيص,healthcare,Server,server_ar_20261014_healthcare
+Diagnostic,تشخيصي,healthcare,Server,server_ar_20261014_healthcare
+Diet Adviced,النظام الغذائي الموصى به,healthcare,Server,server_ar_20261014_healthcare
+Difficulty Level,مستوى الصعوبة,healthcare,Server,server_ar_20261014_healthcare
+Direct,مباشر,healthcare,Server,server_ar_20261014_healthcare
+Directive,توجيه,healthcare,Server,server_ar_20261014_healthcare
+Disapproval Reason,سبب عدم الموافقة,healthcare,Server,server_ar_20261014_healthcare
+Discharge,إخراج المريض,healthcare,Server,server_ar_20261014_healthcare
+Discharge Date,تاريخ الخروج,healthcare,Server,server_ar_20261014_healthcare
+Discharge Details,تفاصيل الخروج,healthcare,Server,server_ar_20261014_healthcare
+Discharge Instructions,تعليمات الخروج,healthcare,Server,server_ar_20261014_healthcare
+Discharge Notes,ملاحظات الخروج,healthcare,Server,server_ar_20261014_healthcare
+Discharge Ordered Date,تاريخ أمر الخروج,healthcare,Server,server_ar_20261014_healthcare
+Discharge Scheduled,تمت جدولة الخروج,healthcare,Server,server_ar_20261014_healthcare
+Discharge Summary,ملخص الخروج,healthcare,Server,server_ar_20261014_healthcare
+Discharged,تم الخروج,healthcare,Server,server_ar_20261014_healthcare
+Discharging Practitioner,الممارس الصحي المسؤول عن الخروج,healthcare,Server,server_ar_20261014_healthcare
+Disposition,قرار التصرف بالحالة,healthcare,Server,server_ar_20261014_healthcare
+Disposition Date and Time,تاريخ ووقت القرار,healthcare,Server,server_ar_20261014_healthcare
+Disposition Notes,ملاحظات القرار,healthcare,Server,server_ar_20261014_healthcare
+Do not add Video Conferencing,عدم إضافة استشارة مرئية,healthcare,Server,server_ar_20261014_healthcare
+DocName,اسم المستند,healthcare,Server,server_ar_20261014_healthcare
+Dosage,الجرعة,healthcare,Server,server_ar_20261014_healthcare
+Dosage Form,الشكل الدوائي,healthcare,Server,server_ar_20261014_healthcare
+Dosage Strength,تركيز الجرعة,healthcare,Server,server_ar_20261014_healthcare
+Dosage by Time Interval,الجرعة حسب الفاصل الزمني,healthcare,Server,server_ar_20261014_healthcare
+Drug,الدواء,healthcare,Server,server_ar_20261014_healthcare
+Drug Code,رمز الدواء,healthcare,Server,server_ar_20261014_healthcare
+Drug Name,اسم الدواء,healthcare,Server,server_ar_20261014_healthcare
+Drug Name / Description,اسم الدواء / وصفه,healthcare,Server,server_ar_20261014_healthcare
+Drug Prescription,وصفة دوائية,healthcare,Server,server_ar_20261014_healthcare
+Duplicate Allergy,حساسية مكررة,healthcare,Server,server_ar_20261014_healthcare
+Duplicate Interaction,تداخل مكرر,healthcare,Server,server_ar_20261014_healthcare
+Duplicate Item,صنف مكرر,healthcare,Server,server_ar_20261014_healthcare
+Duration (In Minutes),المدة (دقائق),healthcare,Server,server_ar_20261014_healthcare
+Edit Clinical Note,تعديل الملاحظة السريرية,healthcare,Server,server_ar_20261014_healthcare
+Edit Exercise Step,تعديل خطوة التمرين,healthcare,Server,server_ar_20261014_healthcare
+Edit Observation,تعديل الملاحظة السريرية,healthcare,Server,server_ar_20261014_healthcare
+Eligibility Applicable for,الأهلية تنطبق على,healthcare,Server,server_ar_20261014_healthcare
+Eligibility Details,تفاصيل الأهلية,healthcare,Server,server_ar_20261014_healthcare
+Eligibility For ,الأهلية لـ,healthcare,Server,server_ar_20261014_healthcare
+Emergency,الطوارئ,healthcare,Server,server_ar_20261014_healthcare
+Emergency Consultation Fee,رسوم استشارة الطوارئ,healthcare,Server,server_ar_20261014_healthcare
+Emergency Occupancy,إشغال الطوارئ,healthcare,Server,server_ar_20261014_healthcare
+Emergency Record,سجل الطوارئ,healthcare,Server,server_ar_20261014_healthcare
+Emergency Triage Queue,قائمة انتظار الفرز بالطوارئ,healthcare,Server,server_ar_20261014_healthcare
+Employee (Lab Technician),الموظف (فني المختبر),healthcare,Server,server_ar_20261014_healthcare
+Employee and User Details,تفاصيل الموظف والمستخدم,healthcare,Server,server_ar_20261014_healthcare
+Enable Free Follow-ups,تفعيل المتابعات المجانية,healthcare,Server,server_ar_20261014_healthcare
+Enable Medication Alerts,تفعيل تنبيهات الأدوية,healthcare,Server,server_ar_20261014_healthcare
+Encounter Date,تاريخ الزيارة,healthcare,Server,server_ar_20261014_healthcare
+Encounter Details,تفاصيل الزيارة,healthcare,Server,server_ar_20261014_healthcare
+Encounter Impression,الانطباع السريري للزيارة,healthcare,Server,server_ar_20261014_healthcare
+Encounter Status,حالة الزيارة,healthcare,Server,server_ar_20261014_healthcare
+Encounter Time,وقت الزيارة,healthcare,Server,server_ar_20261014_healthcare
+Ended,انتهى,healthcare,Server,server_ar_20261014_healthcare
+Entered In Error,أُدخل بالخطأ,healthcare,Server,server_ar_20261014_healthcare
+Entered in Error,أُدخل بالخطأ,healthcare,Server,server_ar_20261014_healthcare
+Environment,البيئة,healthcare,Server,server_ar_20261014_healthcare
+Error / Reject Reason,الخطأ / سبب الرفض,healthcare,Server,server_ar_20261014_healthcare
+Error in formula,خطأ في المعادلة,healthcare,Server,server_ar_20261014_healthcare
+Estimated Duration,المدة المقدرة,healthcare,Server,server_ar_20261014_healthcare
+Exercise Difficulty Level,مستوى صعوبة التمرين,healthcare,Server,server_ar_20261014_healthcare
+Exercise Instructions,تعليمات التمرين,healthcare,Server,server_ar_20261014_healthcare
+Exercise Name,اسم التمرين,healthcare,Server,server_ar_20261014_healthcare
+Exercise Steps,خطوات التمرين,healthcare,Server,server_ar_20261014_healthcare
+Exercise Type,نوع التمرين,healthcare,Server,server_ar_20261014_healthcare
+Exercise Type Step,خطوة نوع التمرين,healthcare,Server,server_ar_20261014_healthcare
+Exercise Video,فيديو التمرين,healthcare,Server,server_ar_20261014_healthcare
+Exercises,التمارين,healthcare,Server,server_ar_20261014_healthcare
+Expected Discharge,الخروج المتوقع,healthcare,Server,server_ar_20261014_healthcare
+Expected Length of Stay,مدة الإقامة المتوقعة,healthcare,Server,server_ar_20261014_healthcare
+Expected Result Date,تاريخ النتيجة المتوقع,healthcare,Server,server_ar_20261014_healthcare
+Expected Result Time,وقت النتيجة المتوقع,healthcare,Server,server_ar_20261014_healthcare
+Expected a Patient Appointment,يلزم موعد مريض,healthcare,Server,server_ar_20261014_healthcare
+Experimental ,تجريبي,healthcare,Server,server_ar_20261014_healthcare
+External Referral,إحالة خارجية,healthcare,Server,server_ar_20261014_healthcare
+Family,العائلة,healthcare,Server,server_ar_20261014_healthcare
+Fee Validity,صلاحية الرسوم,healthcare,Server,server_ar_20261014_healthcare
+Fee Validity Reference,مرجع صلاحية الرسوم,healthcare,Server,server_ar_20261014_healthcare
+Fetch Patient Coverages,جلب تغطيات المريض,healthcare,Server,server_ar_20261014_healthcare
+Fetching Coverages,جارٍ جلب التغطيات,healthcare,Server,server_ar_20261014_healthcare
+Fetching Pending Medication Orders,جارٍ جلب أوامر الأدوية المعلقة,healthcare,Server,server_ar_20261014_healthcare
+Fetching Template Details,جارٍ جلب تفاصيل القالب,healthcare,Server,server_ar_20261014_healthcare
+Fetching Treatment Plans,جارٍ جلب خطط العلاج,healthcare,Server,server_ar_20261014_healthcare
+Filler Order,أمر الجهة المنفذة,healthcare,Server,server_ar_20261014_healthcare
+Final,نهائي,healthcare,Server,server_ar_20261014_healthcare
+Findings,نتائج الفحص,healthcare,Server,server_ar_20261014_healthcare
+Fluid,سائل,healthcare,Server,server_ar_20261014_healthcare
+Follow Up Date,تاريخ المتابعة,healthcare,Server,server_ar_20261014_healthcare
+Followup Date,تاريخ المتابعة,healthcare,Server,server_ar_20261014_healthcare
+For Procedure,للإجراء,healthcare,Server,server_ar_20261014_healthcare
+Free Followup Details,تفاصيل المتابعة المجانية,healthcare,Server,server_ar_20261014_healthcare
+Free Visits Taken,الزيارات المجانية المستخدمة,healthcare,Server,server_ar_20261014_healthcare
+From Age Type,نوع وحدة العمر الابتدائي,healthcare,Server,server_ar_20261014_healthcare
+From Duration,من مدة,healthcare,Server,server_ar_20261014_healthcare
+Furry,مغطى بطبقة كثيفة,healthcare,Server,server_ar_20261014_healthcare
+Gateway Name,اسم البوابة,healthcare,Server,server_ar_20261014_healthcare
+Gender (if unidentified),الجنس (إذا كانت الهوية مجهولة),healthcare,Server,server_ar_20261014_healthcare
+Generate Billables,إنشاء بنود قابلة للفوترة,healthcare,Server,server_ar_20261014_healthcare
+Generic Name,الاسم العلمي,healthcare,Server,server_ar_20261014_healthcare
+Gestational Age,عمر الحمل,healthcare,Server,server_ar_20261014_healthcare
+Get Applicable Treatment Plans,جلب خطط العلاج المنطبقة,healthcare,Server,server_ar_20261014_healthcare
+Get From Encounter,جلب من الزيارة,healthcare,Server,server_ar_20261014_healthcare
+Get Items from Healthcare Services,جلب الأصناف من خدمات الرعاية الصحية,healthcare,Server,server_ar_20261014_healthcare
+Get Items from Prescriptions,جلب الأصناف من الوصفات,healthcare,Server,server_ar_20261014_healthcare
+Get Orders,جلب الأوامر,healthcare,Server,server_ar_20261014_healthcare
+Get Pending Medication Orders,جلب أوامر الأدوية المعلقة,healthcare,Server,server_ar_20261014_healthcare
+Get Prescribed Clinical Procedures,جلب الإجراءات الطبية الموصوفة,healthcare,Server,server_ar_20261014_healthcare
+Get Prescribed Therapies,جلب العلاجات الموصوفة,healthcare,Server,server_ar_20261014_healthcare
+Get from Patient Encounter,جلب من زيارة المريض,healthcare,Server,server_ar_20261014_healthcare
+Getting From Encounter,جارٍ الجلب من الزيارة,healthcare,Server,server_ar_20261014_healthcare
+Google Calendar Required,تقويم Google مطلوب,healthcare,Server,server_ar_20261014_healthcare
+Granted,ممنوح,healthcare,Server,server_ar_20261014_healthcare
+Group Tests,تجميع الفحوص,healthcare,Server,server_ar_20261014_healthcare
+Grouped Observations,ملاحظات مجمعة,healthcare,Server,server_ar_20261014_healthcare
+Has Component,له مكوّن,healthcare,Server,server_ar_20261014_healthcare
+Health ID Service,خدمة الهوية الصحية,healthcare,Server,server_ar_20261014_healthcare
+Healthcare Activity,نشاط الرعاية الصحية,healthcare,Server,server_ar_20261014_healthcare
+Healthcare Administrator,مسؤول الرعاية الصحية,healthcare,Server,server_ar_20261014_healthcare
+Healthcare Insurance Policy,وثيقة تأمين الرعاية الصحية,healthcare,Server,server_ar_20261014_healthcare
+Healthcare Payment Record,سجل دفع الرعاية الصحية,healthcare,Server,server_ar_20261014_healthcare
+Healthcare Practitioner,ممارس صحي,healthcare,Server,server_ar_20261014_healthcare
+Healthcare Practitioner (Primary),الممارس الصحي الأساسي,healthcare,Server,server_ar_20261014_healthcare
+Healthcare Schedule Time Slot,فترة جدول الرعاية الصحية,healthcare,Server,server_ar_20261014_healthcare
+Healthcare Service,خدمة رعاية صحية,healthcare,Server,server_ar_20261014_healthcare
+Healthcare Service Items,أصناف خدمات الرعاية الصحية,healthcare,Server,server_ar_20261014_healthcare
+Healthcare Service Template,قالب خدمة الرعاية الصحية,healthcare,Server,server_ar_20261014_healthcare
+Healthcare Service Unit,وحدة خدمة الرعاية الصحية,healthcare,Server,server_ar_20261014_healthcare
+Healthcare Service Unit Tree,شجرة وحدات الرعاية الصحية,healthcare,Server,server_ar_20261014_healthcare
+Healthcare Service Unit Type,نوع وحدة الرعاية الصحية,healthcare,Server,server_ar_20261014_healthcare
+Healthcare Services,خدمات الرعاية الصحية,healthcare,Server,server_ar_20261014_healthcare
+Heart Rate / Pulse,معدل ضربات القلب / النبض,healthcare,Server,server_ar_20261014_healthcare
+Height (In Meter),الطول (بالمتر),healthcare,Server,server_ar_20261014_healthcare
+High Sensitivity,حساسية عالية,healthcare,Server,server_ar_20261014_healthcare
+Hospital,المستشفى,healthcare,Server,server_ar_20261014_healthcare
+Hour,ساعة,healthcare,Server,server_ar_20261014_healthcare
+Identification Number (UID),رقم التعريف (UID),healthcare,Server,server_ar_20261014_healthcare
+Identify Patient,تحديد هوية المريض,healthcare,Server,server_ar_20261014_healthcare
+Imaging,التصوير الطبي,healthcare,Server,server_ar_20261014_healthcare
+Imaging Toggle,خيار التصوير الطبي,healthcare,Server,server_ar_20261014_healthcare
+Immutable,غير قابل للتعديل,healthcare,Server,server_ar_20261014_healthcare
+Immutable ,غير قابل للتعديل,healthcare,Server,server_ar_20261014_healthcare
+In Months,بالأشهر,healthcare,Server,server_ar_20261014_healthcare
+In Treatment,قيد العلاج,healthcare,Server,server_ar_20261014_healthcare
+In print,في الطباعة,healthcare,Server,server_ar_20261014_healthcare
+Incomplete Services,خدمات غير مكتملة,healthcare,Server,server_ar_20261014_healthcare
+Inpatient Billables,بنود التنويم القابلة للفوترة,healthcare,Server,server_ar_20261014_healthcare
+Inpatient Details,تفاصيل التنويم,healthcare,Server,server_ar_20261014_healthcare
+Inpatient Medication Entry,سجل صرف دواء لمريض منوّم,"erpnext,lms,healthcare",Server,server_ar_20261014_healthcare
+Inpatient Medication Entry Child,بنود صرف أدوية التنويم,"erpnext,lms",Server,server_ar_20261014_healthcare
+Inpatient Medication Entry Detail,تفاصيل صرف دواء لمريض منوّم,healthcare,Server,server_ar_20261014_healthcare
+Inpatient Medication Order,أمر دواء لمريض منوّم,healthcare,Server,server_ar_20261014_healthcare
+Inpatient Medication Order Entry,بند أمر دواء لمريض منوّم,healthcare,Server,server_ar_20261014_healthcare
+Inpatient Medication Orders,أوامر أدوية التنويم,healthcare,Server,server_ar_20261014_healthcare
+Inpatient Occupancy,إشغال التنويم,healthcare,Server,server_ar_20261014_healthcare
+Inpatient Record Item,بند سجل التنويم,healthcare,Server,server_ar_20261014_healthcare
+Inpatient Settings,إعدادات التنويم,healthcare,Server,server_ar_20261014_healthcare
+Inpatient Status,حالة التنويم,healthcare,Server,server_ar_20261014_healthcare
+Inpatient Visit Charge,رسوم زيارة مريض منوّم,healthcare,Server,server_ar_20261014_healthcare
+Inpatient Visit Charge Item,صنف رسوم زيارة مريض منوّم,healthcare,Server,server_ar_20261014_healthcare
+Instance Order,أمر منفرد,healthcare,Server,server_ar_20261014_healthcare
+Insufficient Data,بيانات غير كافية,healthcare,Server,server_ar_20261014_healthcare
+Insurance ,التأمين,healthcare,Server,server_ar_20261014_healthcare
+Insurance Claim Coverage,تغطية مطالبة التأمين,"erpnext,lms,healthcare",Server,server_ar_20261014_healthcare
+Insurance Claim Credit Days,أيام ائتمان مطالبة التأمين,healthcare,Server,server_ar_20261014_healthcare
+Insurance Claim Details,تفاصيل مطالبة التأمين,healthcare,Server,server_ar_20261014_healthcare
+Insurance Coverage,التغطية التأمينية,healthcare,Server,server_ar_20261014_healthcare
+Insurance Coverage %,نسبة التغطية التأمينية %,"erpnext,lms",Server,server_ar_20261014_healthcare
+Insurance Coverage Amount,مبلغ التغطية التأمينية,"erpnext,lms",Server,server_ar_20261014_healthcare
+Insurance Coverage Approved Qty,الكمية المعتمدة للتغطية التأمينية,"erpnext,lms",Server,server_ar_20261014_healthcare
+Insurance Coverage Approved Rate,السعر المعتمد للتغطية التأمينية,"erpnext,lms",Server,server_ar_20261014_healthcare
+Insurance Coverage Posting Date,تاريخ ترحيل التغطية التأمينية,healthcare,Server,server_ar_20261014_healthcare
+Insurance Eligibility Plan,خطة أهلية التأمين,healthcare,Server,server_ar_20261014_healthcare
+Insurance Payor,جهة سداد التأمين,"erpnext,lms,healthcare",Server,server_ar_20261014_healthcare
+Insurance Payor Contract,عقد جهة سداد التأمين,healthcare,Server,server_ar_20261014_healthcare
+Insurance Payor Eligibility Plan,خطة أهلية جهة سداد التأمين,healthcare,Server,server_ar_20261014_healthcare
+Insurance Payor Name,اسم جهة سداد التأمين,healthcare,Server,server_ar_20261014_healthcare
+Insurance Plan,خطة التأمين,healthcare,Server,server_ar_20261014_healthcare
+Insurance Policy,وثيقة التأمين,healthcare,Server,server_ar_20261014_healthcare
+Insurance Policy Details,تفاصيل وثيقة التأمين,healthcare,Server,server_ar_20261014_healthcare
+Intent,الغرض,healthcare,Server,server_ar_20261014_healthcare
+Interactant A,الطرف المتداخل أ,healthcare,Server,server_ar_20261014_healthcare
+Interactant A Type,نوع الطرف المتداخل أ,healthcare,Server,server_ar_20261014_healthcare
+Interactant B,الطرف المتداخل ب,healthcare,Server,server_ar_20261014_healthcare
+Interactant B Type,نوع الطرف المتداخل ب,healthcare,Server,server_ar_20261014_healthcare
+Interactants,الأطراف المتداخلة,healthcare,Server,server_ar_20261014_healthcare
+Interaction,التداخل,healthcare,Server,server_ar_20261014_healthcare
+Interpretation,التفسير,healthcare,Server,server_ar_20261014_healthcare
+Interpretation Template,قالب التفسير,healthcare,Server,server_ar_20261014_healthcare
+Interval UOM,وحدة قياس الفاصل,healthcare,Server,server_ar_20261014_healthcare
+Intervention,التدخل,healthcare,Server,server_ar_20261014_healthcare
+Invalid Date of Birth,تاريخ الميلاد غير صالح,healthcare,Server,server_ar_20261014_healthcare
+Invalid Healthcare Service Unit,وحدة خدمة الرعاية الصحية غير صالحة,healthcare,Server,server_ar_20261014_healthcare
+Invalid Insurance Policy,وثيقة التأمين غير صالحة,healthcare,Server,server_ar_20261014_healthcare
+Invalid Number of Service Units,عدد وحدات الخدمة غير صالح,healthcare,Server,server_ar_20261014_healthcare
+Investigations,الفحوص والاستقصاءات,healthcare,Server,server_ar_20261014_healthcare
+Invoice Consumables Separately,فوترة المستهلكات بصورة منفصلة,healthcare,Server,server_ar_20261014_healthcare
+Invoice Discount %,نسبة خصم الفاتورة %,healthcare,Server,server_ar_20261014_healthcare
+Invoice Discount Amount,مبلغ خصم الفاتورة,healthcare,Server,server_ar_20261014_healthcare
+Invoice Patient Registration,فوترة تسجيل المريض,healthcare,Server,server_ar_20261014_healthcare
+Invoice Separately as Consumables,الفوترة بشكل منفصل كمستهلكات,healthcare,Server,server_ar_20261014_healthcare
+Invoiced,مفوتر,healthcare,Server,server_ar_20261014_healthcare
+Is Combination,تركيبة,healthcare,Server,server_ar_20261014_healthcare
+Is FHIR Defined,معرّف وفق FHIR,healthcare,Server,server_ar_20261014_healthcare
+Is Inpatient,مريض منوّم,healthcare,Server,server_ar_20261014_healthcare
+Is OT,غرفة عمليات,healthcare,Server,server_ar_20261014_healthcare
+Is Order Completed,الأمر مكتمل,healthcare,Server,server_ar_20261014_healthcare
+Is Orderable,قابل للطلب,healthcare,Server,server_ar_20261014_healthcare
+Italic,مائل,healthcare,Server,server_ar_20261014_healthcare
+Item Code (Drug),رمز الصنف (الدواء),healthcare,Server,server_ar_20261014_healthcare
+Item Insurance Eligibility,أهلية الصنف للتأمين,healthcare,Server,server_ar_20261014_healthcare
+Lab Prescription,طلب فحص مخبري,healthcare,Server,server_ar_20261014_healthcare
+Lab Routine,روتين المختبر,healthcare,Server,server_ar_20261014_healthcare
+Lab Technician,فني المختبر,healthcare,Server,server_ar_20261014_healthcare
+Lab Technician Designation,المسمى الوظيفي لفني المختبر,healthcare,Server,server_ar_20261014_healthcare
+Lab Technician Name,اسم فني المختبر,healthcare,Server,server_ar_20261014_healthcare
+Lab Test,فحص مخبري,healthcare,Server,server_ar_20261014_healthcare
+Lab Test Group Template,قالب مجموعة الفحوص المخبرية,healthcare,Server,server_ar_20261014_healthcare
+Lab Test Name,اسم الفحص المخبري,healthcare,Server,server_ar_20261014_healthcare
+Lab Test Report,تقرير الفحص المخبري,healthcare,Server,server_ar_20261014_healthcare
+Lab Test Sample,عينة الفحص المخبري,healthcare,Server,server_ar_20261014_healthcare
+Lab Test Template,قالب الفحص المخبري,healthcare,Server,server_ar_20261014_healthcare
+Lab Test UOM,وحدة قياس الفحص المخبري,healthcare,Server,server_ar_20261014_healthcare
+Lab Test is already created,تم إنشاء الفحص المخبري بالفعل,healthcare,Server,server_ar_20261014_healthcare
+Lab Tests,الفحوص المخبرية,healthcare,Server,server_ar_20261014_healthcare
+LabTest Approver,معتمد الفحوص المخبرية,healthcare,Server,server_ar_20261014_healthcare
+Laboratory,المختبر,healthcare,Server,server_ar_20261014_healthcare
+Laboratory SMS Alerts,تنبيهات المختبر النصية,healthcare,Server,server_ar_20261014_healthcare
+Laboratory Settings,إعدادات المختبر,healthcare,Server,server_ar_20261014_healthcare
+Laboratory User,مستخدم المختبر,healthcare,Server,server_ar_20261014_healthcare
+Left Without Being Seen,غادر دون معاينة,healthcare,Server,server_ar_20261014_healthcare
+Link Customer to Patient,ربط العميل بالمريض,healthcare,Server,server_ar_20261014_healthcare
+Link Existing Item,ربط صنف موجود,healthcare,Server,server_ar_20261014_healthcare
+Link existing Item,ربط صنف موجود,healthcare,Server,server_ar_20261014_healthcare
+Linked Item,الصنف المرتبط,healthcare,Server,server_ar_20261014_healthcare
+Linked Item Details,تفاصيل الصنف المرتبط,healthcare,Server,server_ar_20261014_healthcare
+Linked Items,الأصناف المرتبطة,healthcare,Server,server_ar_20261014_healthcare
+Linked Party (Customer),الطرف المرتبط (العميل),healthcare,Server,server_ar_20261014_healthcare
+Long Interpretation,التفسير المفصل,healthcare,Server,server_ar_20261014_healthcare
+Low Sensitivity,حساسية منخفضة,healthcare,Server,server_ar_20261014_healthcare
+Mandatory Results,نتائج إلزامية,healthcare,Server,server_ar_20261014_healthcare
+Mark Approved,تحديد كمعتمد,healthcare,Server,server_ar_20261014_healthcare
+Mark Collected,تحديد كمجموع,healthcare,Server,server_ar_20261014_healthcare
+Mark Draft,تحديد كمسودة,healthcare,Server,server_ar_20261014_healthcare
+Mark Rejected,تحديد كمرفوض,healthcare,Server,server_ar_20261014_healthcare
+Max number of visit,الحد الأقصى لعدد الزيارات,healthcare,Server,server_ar_20261014_healthcare
+Maximum Appointments,الحد الأقصى للمواعيد,healthcare,Server,server_ar_20261014_healthcare
+Maximum Quantity Exceeded,تم تجاوز الحد الأقصى للكمية,healthcare,Server,server_ar_20261014_healthcare
+Medical Codes,الرموز الطبية,healthcare,Server,server_ar_20261014_healthcare
+Medical Coding,الترميز الطبي,healthcare,Server,server_ar_20261014_healthcare
+Medical History,التاريخ الطبي,healthcare,Server,server_ar_20261014_healthcare
+Medical Record,السجل الطبي,healthcare,Server,server_ar_20261014_healthcare
+Medical Value,القيمة الطبية,healthcare,Server,server_ar_20261014_healthcare
+Medical history,التاريخ الطبي,healthcare,Server,server_ar_20261014_healthcare
+Medication,دواء,healthcare,Server,server_ar_20261014_healthcare
+Medication Alert Log,سجل تنبيهات الأدوية,healthcare,Server,server_ar_20261014_healthcare
+Medication Alerts,تنبيهات الأدوية,healthcare,Server,server_ar_20261014_healthcare
+Medication Blocked,الدواء محظور,healthcare,Server,server_ar_20261014_healthcare
+Medication Class,فئة الدواء,healthcare,Server,server_ar_20261014_healthcare
+Medication Details,تفاصيل الدواء,healthcare,Server,server_ar_20261014_healthcare
+Medication Ingredient,المادة الفعالة للدواء,healthcare,Server,server_ar_20261014_healthcare
+Medication Interaction,تداخل دوائي,healthcare,Server,server_ar_20261014_healthcare
+Medication Item,صنف الدواء,healthcare,Server,server_ar_20261014_healthcare
+Medication Item wise Sales,مبيعات الأدوية حسب الصنف,healthcare,Server,server_ar_20261014_healthcare
+Medication Linked Item,الصنف المرتبط بالدواء,healthcare,Server,server_ar_20261014_healthcare
+Medication Orders,أوامر الأدوية,healthcare,Server,server_ar_20261014_healthcare
+Medication Request,طلب دواء,healthcare,Server,server_ar_20261014_healthcare
+Medication Request Status,حالة طلب الدواء,healthcare,Server,server_ar_20261014_healthcare
+Medication Request(s) Created,تم إنشاء طلبات الأدوية,healthcare,Server,server_ar_20261014_healthcare
+Medication Requests,طلبات الأدوية,healthcare,Server,server_ar_20261014_healthcare
+Medication Warehouse,مستودع الأدوية,healthcare,Server,server_ar_20261014_healthcare
+Medications,الأدوية,healthcare,Server,server_ar_20261014_healthcare
+Merge Into Patient,دمج في سجل مريض,healthcare,Server,server_ar_20261014_healthcare
+Method Value,قيمة الطريقة,healthcare,Server,server_ar_20261014_healthcare
+Middle Name (Optional),الاسم الأوسط (اختياري),healthcare,Server,server_ar_20261014_healthcare
+Middle Name (optional),الاسم الأوسط (اختياري),healthcare,Server,server_ar_20261014_healthcare
+Minimum Billable Quantity,الحد الأدنى للكمية القابلة للفوترة,healthcare,Server,server_ar_20261014_healthcare
+Mins in Dept,الدقائق في القسم,healthcare,Server,server_ar_20261014_healthcare
+Missing Configuration,إعدادات ناقصة,healthcare,Server,server_ar_20261014_healthcare
+Missing Insurance Policy,وثيقة التأمين غير موجودة,healthcare,Server,server_ar_20261014_healthcare
+Missing Mandatory Fields,حقول إلزامية ناقصة,healthcare,Server,server_ar_20261014_healthcare
+Missing Required Fields,حقول مطلوبة ناقصة,healthcare,Server,server_ar_20261014_healthcare
+Mode of Approval,طريقة الاعتماد,healthcare,Server,server_ar_20261014_healthcare
+Moderate,متوسط,healthcare,Server,server_ar_20261014_healthcare
+Moderate Sensitivity,حساسية متوسطة,healthcare,Server,server_ar_20261014_healthcare
+Monday ,الاثنين,healthcare,Server,server_ar_20261014_healthcare
+Month(s),شهر / أشهر,healthcare,Server,server_ar_20261014_healthcare
+More info,معلومات إضافية,healthcare,Server,server_ar_20261014_healthcare
+Name of Insurance Plan,اسم خطة التأمين,healthcare,Server,server_ar_20261014_healthcare
+National Drug Code,الرمز الوطني للدواء,healthcare,Server,server_ar_20261014_healthcare
+New Clinical Note,ملاحظة سريرية جديدة,healthcare,Server,server_ar_20261014_healthcare
+New Medication,دواء جديد,healthcare,Server,server_ar_20261014_healthcare
+New Medication Request,طلب دواء جديد,healthcare,Server,server_ar_20261014_healthcare
+New Observation,ملاحظة سريرية جديدة,healthcare,Server,server_ar_20261014_healthcare
+New Service Request,طلب خدمة جديد,healthcare,Server,server_ar_20261014_healthcare
+New Service Unit Name,اسم وحدة الخدمة الجديدة,healthcare,Server,server_ar_20261014_healthcare
+No Clinical Notes,لا توجد ملاحظات سريرية,healthcare,Server,server_ar_20261014_healthcare
+No Drug Shortage,لا يوجد نقص أدوية,healthcare,Server,server_ar_20261014_healthcare
+No Lab Tests created,لم يتم إنشاء فحوص مخبرية,healthcare,Server,server_ar_20261014_healthcare
+No Medication Requests,لا توجد طلبات أدوية,healthcare,Server,server_ar_20261014_healthcare
+No Observations,لا توجد ملاحظات سريرية,healthcare,Server,server_ar_20261014_healthcare
+No Result,لا توجد نتيجة,healthcare,Server,server_ar_20261014_healthcare
+No Service Requests,لا توجد طلبات خدمة,healthcare,Server,server_ar_20261014_healthcare
+No Show,لم يحضر,healthcare,Server,server_ar_20261014_healthcare
+No of Sessions,عدد الجلسات,healthcare,Server,server_ar_20261014_healthcare
+No slots available for booking,لا توجد فترات متاحة للحجز,healthcare,Server,server_ar_20261014_healthcare
+No vital signs recorded,لم تُسجل علامات حيوية,healthcare,Server,server_ar_20261014_healthcare
+Normal Condition,الحالة الطبيعية,healthcare,Server,server_ar_20261014_healthcare
+Normal From,بداية النطاق الطبيعي,healthcare,Server,server_ar_20261014_healthcare
+Normal Interpretation,تفسير النتيجة الطبيعية,healthcare,Server,server_ar_20261014_healthcare
+Normal Long Interpretation,التفسير المفصل للنتيجة الطبيعية,healthcare,Server,server_ar_20261014_healthcare
+Normal Options,خيارات النتائج الطبيعية,healthcare,Server,server_ar_20261014_healthcare
+Normal Range,النطاق الطبيعي,healthcare,Server,server_ar_20261014_healthcare
+Normal Ratio,النسبة الطبيعية,healthcare,Server,server_ar_20261014_healthcare
+Normal Test Result,نتيجة الفحص الطبيعية,healthcare,Server,server_ar_20261014_healthcare
+Normal Test Template,قالب الفحص الطبيعي,healthcare,Server,server_ar_20261014_healthcare
+Normal To,نهاية النطاق الطبيعي,healthcare,Server,server_ar_20261014_healthcare
+Normal Toggle,خيار النتيجة الطبيعية,healthcare,Server,server_ar_20261014_healthcare
+Normal Value,القيمة الطبيعية,healthcare,Server,server_ar_20261014_healthcare
+Not Active,غير نشط,healthcare,Server,server_ar_20261014_healthcare
+Not Collected,لم يتم الجمع,healthcare,Server,server_ar_20261014_healthcare
+Not Orderable,غير قابل للطلب,healthcare,Server,server_ar_20261014_healthcare
+Notify,إشعار,healthcare,Server,server_ar_20261014_healthcare
+Number Of Repeats Allowed,عدد مرات التكرار المسموحة,healthcare,Server,server_ar_20261014_healthcare
+Number of Service Units,عدد وحدات الخدمة,healthcare,Server,server_ar_20261014_healthcare
+Nursing Checklist Template,قالب قائمة تحقق التمريض,healthcare,Server,server_ar_20261014_healthcare
+Nursing Checklist Template Task,مهمة قالب قائمة تحقق التمريض,healthcare,Server,server_ar_20261014_healthcare
+Nursing Task,مهمة تمريض,healthcare,Server,server_ar_20261014_healthcare
+Nursing Tasks,مهام التمريض,healthcare,Server,server_ar_20261014_healthcare
+Nursing Tasks Created,تم إنشاء مهام التمريض,healthcare,Server,server_ar_20261014_healthcare
+Nursing User,مستخدم التمريض,healthcare,Server,server_ar_20261014_healthcare
+Nutrition Values,القيم الغذائية,healthcare,Server,server_ar_20261014_healthcare
+Patient Age,عمر المريض,healthcare,Server,server_ar_20261014_healthcare
+Patient Age From,عمر المريض من,healthcare,Server,server_ar_20261014_healthcare
+Patient Age To,عمر المريض إلى,healthcare,Server,server_ar_20261014_healthcare
+Patient Allergy,حساسية المريض,healthcare,Server,server_ar_20261014_healthcare
+Patient Appointment Analytics,تحليلات مواعيد المرضى,healthcare,Server,server_ar_20261014_healthcare
+Patient Assessment,تقييم المريض,healthcare,Server,server_ar_20261014_healthcare
+Patient Assessment Detail,تفاصيل تقييم المريض,healthcare,Server,server_ar_20261014_healthcare
+Patient Assessment Parameter,عنصر تقييم المريض,healthcare,Server,server_ar_20261014_healthcare
+Patient Assessment Sheet,نموذج تقييم المريض,healthcare,Server,server_ar_20261014_healthcare
+Patient Assessment Template,قالب تقييم المريض,healthcare,Server,server_ar_20261014_healthcare
+Patient Care Type,نوع رعاية المريض,healthcare,Server,server_ar_20261014_healthcare
+Patient Consent Template,قالب موافقة المريض,healthcare,Server,server_ar_20261014_healthcare
+Patient Demographics,البيانات الديموغرافية للمريض,healthcare,Server,server_ar_20261014_healthcare
+Patient Description,وصف المريض,healthcare,Server,server_ar_20261014_healthcare
+Patient Details,تفاصيل المريض,healthcare,Server,server_ar_20261014_healthcare
+Patient Encounter,زيارة المريض,healthcare,Server,server_ar_20261014_healthcare
+Patient Encounter Diagnosis,تشخيص زيارة المريض,healthcare,Server,server_ar_20261014_healthcare
+Patient Encounter Symptom,عرض مرضي في زيارة المريض,healthcare,Server,server_ar_20261014_healthcare
+Patient Gender,جنس المريض,healthcare,Server,server_ar_20261014_healthcare
+Patient History Custom Document Type,نوع مستند مخصص للتاريخ الطبي,healthcare,Server,server_ar_20261014_healthcare
+Patient History Standard Document Type,نوع مستند قياسي للتاريخ الطبي,healthcare,Server,server_ar_20261014_healthcare
+Patient Instructions,تعليمات المريض,healthcare,Server,server_ar_20261014_healthcare
+Patient Insurance Coverage,التغطية التأمينية للمريض,"erpnext,lms,healthcare",Server,server_ar_20261014_healthcare
+Patient Insurance Coverage Details,تفاصيل التغطية التأمينية للمريض,healthcare,Server,server_ar_20261014_healthcare
+Patient Insurance Policy,وثيقة تأمين المريض,healthcare,Server,server_ar_20261014_healthcare
+Patient Insurance Policy Number,رقم وثيقة تأمين المريض,"erpnext,lms",Server,server_ar_20261014_healthcare
+Patient Medical Record,السجل الطبي للمريض,healthcare,Server,server_ar_20261014_healthcare
+Patient Name By,تسمية المريض حسب,healthcare,Server,server_ar_20261014_healthcare
+Patient Payable,المستحق على المريض,healthcare,Server,server_ar_20261014_healthcare
+Patient Portal,بوابة المريض,healthcare,Server,server_ar_20261014_healthcare
+Patient Profile,ملف المريض,healthcare,Server,server_ar_20261014_healthcare
+Patient Progress,تقدم حالة المريض,healthcare,Server,server_ar_20261014_healthcare
+Patient Registration,تسجيل المريض,healthcare,Server,server_ar_20261014_healthcare
+Patient Relation,صلة القرابة بالمريض,healthcare,Server,server_ar_20261014_healthcare
+Patient already exist,المريض موجود بالفعل,healthcare,Server,server_ar_20261014_healthcare
+Patient and Policy Details,تفاصيل المريض والوثيقة,healthcare,Server,server_ar_20261014_healthcare
+Patient not found,المريض غير موجود,healthcare,Server,server_ar_20261014_healthcare
+Payment Required,الدفع مطلوب,healthcare,Server,server_ar_20261014_healthcare
+Payment for Doctype,الدفع لنوع المستند,healthcare,Server,server_ar_20261014_healthcare
+Permitted Data Type,نوع البيانات المسموح,healthcare,Server,server_ar_20261014_healthcare
+Permitted Unit,الوحدة المسموحة,healthcare,Server,server_ar_20261014_healthcare
+Personal and Social History,التاريخ الشخصي والاجتماعي,healthcare,Server,server_ar_20261014_healthcare
+Physical Examination,الفحص السريري,healthcare,Server,server_ar_20261014_healthcare
+Physician,الطبيب,healthcare,Server,server_ar_20261014_healthcare
+Plan Conditions,شروط الخطة,healthcare,Server,server_ar_20261014_healthcare
+Planned End Datetime,تاريخ ووقت الانتهاء المخطط,healthcare,Server,server_ar_20261014_healthcare
+Planned Sessions,الجلسات المخططة,healthcare,Server,server_ar_20261014_healthcare
+Planned vs Actual Therapy Session,جلسات العلاج المخططة مقابل الفعلية,healthcare,Server,server_ar_20261014_healthcare
+Please save the patient first,يرجى حفظ المريض أولًا,healthcare,Server,server_ar_20261014_healthcare
+Please select Drug,يرجى اختيار الدواء,healthcare,Server,server_ar_20261014_healthcare
+Please select Healthcare Service,يرجى اختيار خدمة الرعاية الصحية,healthcare,Server,server_ar_20261014_healthcare
+Please select Patient,يرجى اختيار المريض,healthcare,Server,server_ar_20261014_healthcare
+Please select Patient first,يرجى اختيار المريض أولًا,healthcare,Server,server_ar_20261014_healthcare
+Please select Patient to get Lab Tests,يرجى اختيار المريض لجلب الفحوص المخبرية,healthcare,Server,server_ar_20261014_healthcare
+Please select a Medication,يرجى اختيار دواء,healthcare,Server,server_ar_20261014_healthcare
+Please select a Patient to be invoiced,يرجى اختيار المريض المطلوب إصدار فاتورة له,healthcare,Server,server_ar_20261014_healthcare
+Please select a patient first,يرجى اختيار المريض أولًا,healthcare,Server,server_ar_20261014_healthcare
+Please select a service request.,يرجى اختيار طلب خدمة.,healthcare,Server,server_ar_20261014_healthcare
+Please select a valid Date,يرجى اختيار تاريخ صالح,healthcare,Server,server_ar_20261014_healthcare
+Please select patient,يرجى اختيار المريض,healthcare,Server,server_ar_20261014_healthcare
+Please set the Paid Amount first,يرجى تحديد المبلغ المدفوع أولًا,healthcare,Server,server_ar_20261014_healthcare
+Police,الشرطة,healthcare,Server,server_ar_20261014_healthcare
+Policy Expiry Date,تاريخ انتهاء الوثيقة,healthcare,Server,server_ar_20261014_healthcare
+Policy Number,رقم الوثيقة,healthcare,Server,server_ar_20261014_healthcare
+Portal Image,صورة البوابة,healthcare,Server,server_ar_20261014_healthcare
+Position In Queue,الموقع في قائمة الانتظار,healthcare,Server,server_ar_20261014_healthcare
+Post-Op,بعد العملية,healthcare,Server,server_ar_20261014_healthcare
+Post-op Nursing Checklist Template,قالب تحقق التمريض بعد العملية,healthcare,Server,server_ar_20261014_healthcare
+Practitioner Availability,توفر الممارس الصحي,healthcare,Server,server_ar_20261014_healthcare
+Practitioner Email,البريد الإلكتروني للممارس الصحي,healthcare,Server,server_ar_20261014_healthcare
+Practitioner Name,اسم الممارس الصحي,healthcare,Server,server_ar_20261014_healthcare
+Practitioner Primary Address,العنوان الرئيسي للممارس الصحي,healthcare,Server,server_ar_20261014_healthcare
+Practitioner Primary Contact,جهة الاتصال الرئيسية للممارس الصحي,healthcare,Server,server_ar_20261014_healthcare
+Practitioner Schedule,جدول الممارس الصحي,healthcare,Server,server_ar_20261014_healthcare
+Practitioner Schedule Not Found,جدول الممارس الصحي غير موجود,healthcare,Server,server_ar_20261014_healthcare
+Practitioner Schedules,جداول الممارسين الصحيين,healthcare,Server,server_ar_20261014_healthcare
+Practitioner Service Unit Schedule,جدول وحدة خدمة الممارس الصحي,healthcare,Server,server_ar_20261014_healthcare
+Practitioner Type,نوع الممارس الصحي,healthcare,Server,server_ar_20261014_healthcare
+Practitioners,الممارسون الصحيون,healthcare,Server,server_ar_20261014_healthcare
+Pre-Op,قبل العملية,healthcare,Server,server_ar_20261014_healthcare
+Pre-op Nursing Checklist Template,قالب تحقق التمريض قبل العملية,healthcare,Server,server_ar_20261014_healthcare
+Preferred Display Name,اسم العرض المفضل,healthcare,Server,server_ar_20261014_healthcare
+Pregnant,حامل,healthcare,Server,server_ar_20261014_healthcare
+Preliminary,أولي,healthcare,Server,server_ar_20261014_healthcare
+Prescription,الوصفة الطبية,healthcare,Server,server_ar_20261014_healthcare
+Prescription Dosage,جرعة الوصفة,healthcare,Server,server_ar_20261014_healthcare
+Prescription Duration,مدة الوصفة,healthcare,Server,server_ar_20261014_healthcare
+Prescriptions,الوصفات الطبية,healthcare,Server,server_ar_20261014_healthcare
+Price List Not Set,قائمة الأسعار غير محددة,healthcare,Server,server_ar_20261014_healthcare
+Price List is mandatory,قائمة الأسعار مطلوبة,healthcare,Server,server_ar_20261014_healthcare
+Print Barcode,طباعة الباركود,healthcare,Server,server_ar_20261014_healthcare
+Print Position,موضع الطباعة,healthcare,Server,server_ar_20261014_healthcare
+Print {0},طباعة {0},healthcare,Server,server_ar_20261014_healthcare
+Printed on,طُبع في,healthcare,Server,server_ar_20261014_healthcare
+Procedure Created,تم إنشاء الإجراء,healthcare,Server,server_ar_20261014_healthcare
+Procedure Name,اسم الإجراء,healthcare,Server,server_ar_20261014_healthcare
+Procedure Prescription,وصفة الإجراء,healthcare,Server,server_ar_20261014_healthcare
+Procedure Template,قالب الإجراء,healthcare,Server,server_ar_20261014_healthcare
+Procedures,الإجراءات,healthcare,Server,server_ar_20261014_healthcare
+Process Transfer,تنفيذ النقل,healthcare,Server,server_ar_20261014_healthcare
+Processing Inpatient Discharge,جارٍ تنفيذ خروج المريض المنوّم,healthcare,Server,server_ar_20261014_healthcare
+Processing Patient Admission,جارٍ تنفيذ دخول المريض,healthcare,Server,server_ar_20261014_healthcare
+Proposal,مقترح,healthcare,Server,server_ar_20261014_healthcare
+Pulse,النبض,healthcare,Server,server_ar_20261014_healthcare
+Quantity Invoiced,الكمية المفوترة,healthcare,Server,server_ar_20261014_healthcare
+Raised For,أُنشئ لأجل,healthcare,Server,server_ar_20261014_healthcare
+Rate / UOM,السعر / وحدة القياس,healthcare,Server,server_ar_20261014_healthcare
+Reason For Rejection,سبب الرفض,healthcare,Server,server_ar_20261014_healthcare
+Reason Reference,مرجع السبب,healthcare,Server,server_ar_20261014_healthcare
+Reason Reference DocType,نوع مستند مرجع السبب,healthcare,Server,server_ar_20261014_healthcare
+Reason Required,السبب مطلوب,healthcare,Server,server_ar_20261014_healthcare
+Reason for Cancellation,سبب الإلغاء,healthcare,Server,server_ar_20261014_healthcare
+Received Time,وقت الاستلام,healthcare,Server,server_ar_20261014_healthcare
+Record Alerts From,تسجيل التنبيهات من,healthcare,Server,server_ar_20261014_healthcare
+Record Triage,تسجيل الفرز الطبي,healthcare,Server,server_ar_20261014_healthcare
+Record Vital Signs,تسجيل العلامات الحيوية,healthcare,Server,server_ar_20261014_healthcare
+Record Vitals,تسجيل العلامات الحيوية,healthcare,Server,server_ar_20261014_healthcare
+Recorded On,تاريخ التسجيل,healthcare,Server,server_ar_20261014_healthcare
+Refer,إحالة,healthcare,Server,server_ar_20261014_healthcare
+Refer Patient,إحالة المريض,healthcare,Server,server_ar_20261014_healthcare
+Reference Child,السجل الفرعي المرجعي,healthcare,Server,server_ar_20261014_healthcare
+Reference Posting Date,تاريخ الترحيل المرجعي,healthcare,Server,server_ar_20261014_healthcare
+Reference Range,النطاق المرجعي,healthcare,Server,server_ar_20261014_healthcare
+Reference Ranges,النطاقات المرجعية,healthcare,Server,server_ar_20261014_healthcare
+Reference Sales Invoice,فاتورة المبيعات المرجعية,healthcare,Server,server_ar_20261014_healthcare
+Reference Text,النص المرجعي,healthcare,Server,server_ar_20261014_healthcare
+Reference URL,الرابط المرجعي,healthcare,Server,server_ar_20261014_healthcare
+Reference Visits,الزيارات المرجعية,healthcare,Server,server_ar_20261014_healthcare
+Referral,إحالة,healthcare,Server,server_ar_20261014_healthcare
+Referred to Practitioner,الممارس الصحي المحال إليه,healthcare,Server,server_ar_20261014_healthcare
+Reflex Order,أمر فحص انعكاسي,healthcare,Server,server_ar_20261014_healthcare
+Reflexes,المنعكسات,healthcare,Server,server_ar_20261014_healthcare
+Registered,مسجل,healthcare,Server,server_ar_20261014_healthcare
+Registration Fee,رسوم التسجيل,healthcare,Server,server_ar_20261014_healthcare
+Registration Item,صنف التسجيل,healthcare,Server,server_ar_20261014_healthcare
+Registration Message,رسالة التسجيل,healthcare,Server,server_ar_20261014_healthcare
+Rejected Amount,المبلغ المرفوض,healthcare,Server,server_ar_20261014_healthcare
+Rejected Claims Expense Account,حساب مصروف المطالبات المرفوضة,healthcare,Server,server_ar_20261014_healthcare
+Reminder Message,رسالة التذكير,healthcare,Server,server_ar_20261014_healthcare
+Replaced,مستبدل,healthcare,Server,server_ar_20261014_healthcare
+Report Preference,تفضيل التقرير,healthcare,Server,server_ar_20261014_healthcare
+Request,طلب,healthcare,Server,server_ar_20261014_healthcare
+Request Date,تاريخ الطلب,healthcare,Server,server_ar_20261014_healthcare
+Request Details,تفاصيل الطلب,healthcare,Server,server_ar_20261014_healthcare
+Request Name,اسم الطلب,healthcare,Server,server_ar_20261014_healthcare
+Request Status,حالة الطلب,healthcare,Server,server_ar_20261014_healthcare
+Requested End Time,وقت الانتهاء المطلوب,healthcare,Server,server_ar_20261014_healthcare
+Requested Start Time,وقت البدء المطلوب,healthcare,Server,server_ar_20261014_healthcare
+Requesting Department,القسم الطالب,healthcare,Server,server_ar_20261014_healthcare
+Requesting Practitioner,الممارس الصحي الطالب,healthcare,Server,server_ar_20261014_healthcare
+Requesting Practitioner Name,اسم الممارس الصحي الطالب,healthcare,Server,server_ar_20261014_healthcare
+Require Result Value,اشتراط قيمة النتيجة,healthcare,Server,server_ar_20261014_healthcare
+Reschedule Appointment,إعادة جدولة الموعد,healthcare,Server,server_ar_20261014_healthcare
+Resend OTP,إعادة إرسال رمز التحقق,healthcare,Server,server_ar_20261014_healthcare
+Resistant,مقاوم,healthcare,Server,server_ar_20261014_healthcare
+Respiratory Rate,معدل التنفس,healthcare,Server,server_ar_20261014_healthcare
+Respiratory rate,معدل التنفس,healthcare,Server,server_ar_20261014_healthcare
+Respiratory/Pulse Rate,معدل التنفس / النبض,healthcare,Server,server_ar_20261014_healthcare
+Result Component,مكوّن النتيجة,healthcare,Server,server_ar_20261014_healthcare
+Result Date,تاريخ النتيجة,healthcare,Server,server_ar_20261014_healthcare
+Result Emailed Message,رسالة إرسال النتيجة بالبريد,healthcare,Server,server_ar_20261014_healthcare
+Result Format,تنسيق النتيجة,healthcare,Server,server_ar_20261014_healthcare
+Result Interpretation,تفسير النتيجة,healthcare,Server,server_ar_20261014_healthcare
+Result Legend,مفتاح رموز النتيجة,healthcare,Server,server_ar_20261014_healthcare
+Result Legend Print,طباعة مفتاح رموز النتيجة,healthcare,Server,server_ar_20261014_healthcare
+Result Options,خيارات النتيجة,healthcare,Server,server_ar_20261014_healthcare
+Result Period From,فترة النتيجة من,healthcare,Server,server_ar_20261014_healthcare
+Result Period To,فترة النتيجة إلى,healthcare,Server,server_ar_20261014_healthcare
+Result Printed Message,رسالة طباعة النتيجة,healthcare,Server,server_ar_20261014_healthcare
+Result Template,قالب النتيجة,healthcare,Server,server_ar_20261014_healthcare
+Result Value,قيمة النتيجة,healthcare,Server,server_ar_20261014_healthcare
+Review Details,تفاصيل المراجعة,healthcare,Server,server_ar_20261014_healthcare
+Risk Factors,عوامل الخطورة,healthcare,Server,server_ar_20261014_healthcare
+Routine,روتيني,healthcare,Server,server_ar_20261014_healthcare
+SMS Sent,تم إرسال الرسالة النصية,healthcare,Server,server_ar_20261014_healthcare
+"SMS not sent, please check SMS Settings",لم تُرسل الرسالة النصية، يرجى مراجعة إعدادات الرسائل,healthcare,Server,server_ar_20261014_healthcare
+Sales Date,تاريخ البيع,healthcare,Server,server_ar_20261014_healthcare
+Sales Invoice Item Amount,مبلغ صنف فاتورة المبيعات,healthcare,Server,server_ar_20261014_healthcare
+Sales Invoice Posting Date,تاريخ ترحيل فاتورة المبيعات,healthcare,Server,server_ar_20261014_healthcare
+Sales Invoice Status,حالة فاتورة المبيعات,healthcare,Server,server_ar_20261014_healthcare
+Sales Invoice {0} created,تم إنشاء فاتورة المبيعات {0},healthcare,Server,server_ar_20261014_healthcare
+Sample Collection Required,جمع العينة مطلوب,healthcare,Server,server_ar_20261014_healthcare
+Sample Collection Time,وقت جمع العينة,healthcare,Server,server_ar_20261014_healthcare
+Sample Details,تفاصيل العينة,healthcare,Server,server_ar_20261014_healthcare
+Sample ID,معرّف العينة,healthcare,Server,server_ar_20261014_healthcare
+Sample Status,حالة العينة,healthcare,Server,server_ar_20261014_healthcare
+Sample Type,نوع العينة,healthcare,Server,server_ar_20261014_healthcare
+Sample UOM,وحدة قياس العينة,healthcare,Server,server_ar_20261014_healthcare
+Samples,العينات,healthcare,Server,server_ar_20261014_healthcare
+Scale Max,الحد الأقصى للمقياس,healthcare,Server,server_ar_20261014_healthcare
+Scale Maximum,الحد الأقصى للمقياس,healthcare,Server,server_ar_20261014_healthcare
+Scale Min,الحد الأدنى للمقياس,healthcare,Server,server_ar_20261014_healthcare
+Scale Minimum,الحد الأدنى للمقياس,healthcare,Server,server_ar_20261014_healthcare
+Schedule Admission,جدولة التنويم,healthcare,Server,server_ar_20261014_healthcare
+Schedule Details,تفاصيل الجدولة,healthcare,Server,server_ar_20261014_healthcare
+Schedule Discharge,جدولة الخروج,healthcare,Server,server_ar_20261014_healthcare
+Scheduled Billing Time,وقت الفوترة المجدول,healthcare,Server,server_ar_20261014_healthcare
+Scheduling Patient Admission,جارٍ جدولة دخول المريض,healthcare,Server,server_ar_20261014_healthcare
+Scope Type,نوع النطاق,healthcare,Server,server_ar_20261014_healthcare
+Score Obtained,الدرجة المحققة,healthcare,Server,server_ar_20261014_healthcare
+Secondary UOM,وحدة القياس الثانوية,healthcare,Server,server_ar_20261014_healthcare
+Secondary UOM Result,النتيجة بوحدة القياس الثانوية,healthcare,Server,server_ar_20261014_healthcare
+Select Assessment Parameter,اختر عنصر التقييم,healthcare,Server,server_ar_20261014_healthcare
+Select Assessment Template,اختر قالب التقييم,healthcare,Server,server_ar_20261014_healthcare
+Select Bed,اختر السرير,healthcare,Server,server_ar_20261014_healthcare
+Select Days,اختر الأيام,healthcare,Server,server_ar_20261014_healthcare
+Select Insurance Policy,اختر وثيقة التأمين,healthcare,Server,server_ar_20261014_healthcare
+Select Patient,اختر المريض,healthcare,Server,server_ar_20261014_healthcare
+Select Therapy Type,اختر نوع العلاج,healthcare,Server,server_ar_20261014_healthcare
+Select a Service Request,اختر طلب خدمة,healthcare,Server,server_ar_20261014_healthcare
+Selected Fields,الحقول المحددة,healthcare,Server,server_ar_20261014_healthcare
+Send to Emergency,إرسال إلى الطوارئ,healthcare,Server,server_ar_20261014_healthcare
+Sending OTP...,جارٍ إرسال رمز التحقق...,healthcare,Server,server_ar_20261014_healthcare
+Sensitivity,الحساسية,healthcare,Server,server_ar_20261014_healthcare
+Sensitivity Test Result,نتيجة اختبار الحساسية,healthcare,Server,server_ar_20261014_healthcare
+Sensitivity Toggle,خيار الحساسية,healthcare,Server,server_ar_20261014_healthcare
+Sequence in Order Group,الترتيب داخل مجموعة الأوامر,healthcare,Server,server_ar_20261014_healthcare
+Service Request,طلب خدمة,healthcare,Server,server_ar_20261014_healthcare
+Service Request Category,فئة طلب الخدمة,healthcare,Server,server_ar_20261014_healthcare
+Service Request Defaults,الإعدادات الافتراضية لطلب الخدمة,healthcare,Server,server_ar_20261014_healthcare
+Service Request Reason,سبب طلب الخدمة,healthcare,Server,server_ar_20261014_healthcare
+Service Requests,طلبات الخدمة,healthcare,Server,server_ar_20261014_healthcare
+Service Template,قالب الخدمة,healthcare,Server,server_ar_20261014_healthcare
+Service Template Type,نوع قالب الخدمة,healthcare,Server,server_ar_20261014_healthcare
+Service Type,نوع الخدمة,healthcare,Server,server_ar_20261014_healthcare
+Service Unit Capacity,سعة وحدة الخدمة,healthcare,Server,server_ar_20261014_healthcare
+Service Unit Name,اسم وحدة الخدمة,healthcare,Server,server_ar_20261014_healthcare
+Service Unit Not Found,وحدة الخدمة غير موجودة,healthcare,Server,server_ar_20261014_healthcare
+Service Unit Occupied,وحدة الخدمة مشغولة,healthcare,Server,server_ar_20261014_healthcare
+Service Unit Tree,شجرة وحدات الخدمة,healthcare,Server,server_ar_20261014_healthcare
+Service Unit Type,نوع وحدة الخدمة,healthcare,Server,server_ar_20261014_healthcare
+Service Unit Type Item,صنف نوع وحدة الخدمة,healthcare,Server,server_ar_20261014_healthcare
+Sessions Completed,الجلسات المكتملة,healthcare,Server,server_ar_20261014_healthcare
+Set Disposition,تحديد قرار التصرف بالحالة,healthcare,Server,server_ar_20261014_healthcare
+Severe,شديد,healthcare,Server,server_ar_20261014_healthcare
+Short Interpretation,تفسير مختصر,healthcare,Server,server_ar_20261014_healthcare
+Show Completed Orders,عرض الأوامر المكتملة,healthcare,Server,server_ar_20261014_healthcare
+Show Components,عرض المكوّنات,healthcare,Server,server_ar_20261014_healthcare
+Show Diagnostics Tab on Portal,عرض تبويب الفحوص التشخيصية في البوابة,healthcare,Server,server_ar_20261014_healthcare
+Show Payment Popup,عرض نافذة الدفع,healthcare,Server,server_ar_20261014_healthcare
+Show Payment Prompt in Appointment,عرض طلب الدفع في الموعد,healthcare,Server,server_ar_20261014_healthcare
+Show in Portal,عرض في البوابة,healthcare,Server,server_ar_20261014_healthcare
+Social History,التاريخ الاجتماعي,healthcare,Server,server_ar_20261014_healthcare
+Source Doc,المستند المصدر,healthcare,Server,server_ar_20261014_healthcare
+Specimen,عينة مخبرية,healthcare,Server,server_ar_20261014_healthcare
+Specimen Type,نوع العينة المخبرية,healthcare,Server,server_ar_20261014_healthcare
+Spouse,الزوج / الزوجة,healthcare,Server,server_ar_20261014_healthcare
+Staff Role,دور الموظف,healthcare,Server,server_ar_20261014_healthcare
+Standard Document Types,أنواع المستندات القياسية,healthcare,Server,server_ar_20261014_healthcare
+Steps Table,جدول الخطوات,healthcare,Server,server_ar_20261014_healthcare
+Stock Consumption,استهلاك المخزون,healthcare,Server,server_ar_20261014_healthcare
+Strength,التركيز,healthcare,Server,server_ar_20261014_healthcare
+Strength UOM,وحدة قياس التركيز,healthcare,Server,server_ar_20261014_healthcare
+Submit Orders on Save,اعتماد الأوامر عند الحفظ,healthcare,Server,server_ar_20261014_healthcare
+Submitted Date,تاريخ الاعتماد,healthcare,Server,server_ar_20261014_healthcare
+Substance,مادة,healthcare,Server,server_ar_20261014_healthcare
+Substance Type,نوع المادة,healthcare,Server,server_ar_20261014_healthcare
+Surgical History,التاريخ الجراحي,healthcare,Server,server_ar_20261014_healthcare
+Surgical history,التاريخ الجراحي,healthcare,Server,server_ar_20261014_healthcare
+Survey,استبيان,healthcare,Server,server_ar_20261014_healthcare
+Susceptible,حساس,healthcare,Server,server_ar_20261014_healthcare
+Symptoms,الأعراض,healthcare,Server,server_ar_20261014_healthcare
+Syncing Documents ...,جارٍ مزامنة المستندات...,healthcare,Server,server_ar_20261014_healthcare
+System URI,معرّف موارد النظام,healthcare,Server,server_ar_20261014_healthcare
+Target Reassessment (Minutes),الوقت المستهدف لإعادة التقييم (دقائق),healthcare,Server,server_ar_20261014_healthcare
+Targetted,مستهدف,healthcare,Server,server_ar_20261014_healthcare
+Task Details,تفاصيل المهمة,healthcare,Server,server_ar_20261014_healthcare
+Task DocType,نوع مستند المهمة,healthcare,Server,server_ar_20261014_healthcare
+Task Doctype,نوع مستند المهمة,healthcare,Server,server_ar_20261014_healthcare
+Task Document Name,اسم مستند المهمة,healthcare,Server,server_ar_20261014_healthcare
+Task Duration,مدة المهمة,healthcare,Server,server_ar_20261014_healthcare
+Task End Time,وقت انتهاء المهمة,healthcare,Server,server_ar_20261014_healthcare
+Task Resolution,حل المهمة,healthcare,Server,server_ar_20261014_healthcare
+Task Schedule,جدول المهمة,healthcare,Server,server_ar_20261014_healthcare
+Task Start Time,وقت بدء المهمة,healthcare,Server,server_ar_20261014_healthcare
+Tele,عن بُعد,healthcare,Server,server_ar_20261014_healthcare
+Temperature,درجة الحرارة,healthcare,Server,server_ar_20261014_healthcare
+Template Details,تفاصيل القالب,healthcare,Server,server_ar_20261014_healthcare
+Template DocName,اسم مستند القالب,healthcare,Server,server_ar_20261014_healthcare
+Template DocType,نوع مستند القالب,healthcare,Server,server_ar_20261014_healthcare
+Test,فحص,healthcare,Server,server_ar_20261014_healthcare
+Test Created,تم إنشاء الفحص,healthcare,Server,server_ar_20261014_healthcare
+Test Group,مجموعة الفحوص,healthcare,Server,server_ar_20261014_healthcare
+Test Name,اسم الفحص,healthcare,Server,server_ar_20261014_healthcare
+Test Template,قالب الفحص,healthcare,Server,server_ar_20261014_healthcare
+Therapies,العلاجات,healthcare,Server,server_ar_20261014_healthcare
+Therapy,علاج,healthcare,Server,server_ar_20261014_healthcare
+Therapy For,العلاج لـ,healthcare,Server,server_ar_20261014_healthcare
+Therapy Plan Detail,تفصيل خطة العلاج,healthcare,Server,server_ar_20261014_healthcare
+Therapy Plan Details,تفاصيل خطة العلاج,healthcare,Server,server_ar_20261014_healthcare
+Therapy Plan Required,خطة العلاج مطلوبة,healthcare,Server,server_ar_20261014_healthcare
+Therapy Plan Template,قالب خطة العلاج,healthcare,Server,server_ar_20261014_healthcare
+Therapy Plan Template Detail,تفصيل قالب خطة العلاج,healthcare,Server,server_ar_20261014_healthcare
+Therapy Type,نوع العلاج,healthcare,Server,server_ar_20261014_healthcare
+Therapy Types,أنواع العلاج,healthcare,Server,server_ar_20261014_healthcare
+Time Off,فترة عدم التوفر,healthcare,Server,server_ar_20261014_healthcare
+Time Offset,إزاحة الوقت,healthcare,Server,server_ar_20261014_healthcare
+Time Slots,الفترات الزمنية,healthcare,Server,server_ar_20261014_healthcare
+Time of Approval,وقت الاعتماد,healthcare,Server,server_ar_20261014_healthcare
+Time of Result,وقت النتيجة,healthcare,Server,server_ar_20261014_healthcare
+Time slots added,تمت إضافة الفترات الزمنية,healthcare,Server,server_ar_20261014_healthcare
+To Admit,للتنويم,healthcare,Server,server_ar_20261014_healthcare
+To Age Type,نوع وحدة العمر النهائي,healthcare,Server,server_ar_20261014_healthcare
+To Discharge,للخروج,healthcare,Server,server_ar_20261014_healthcare
+To Duration,إلى مدة,healthcare,Server,server_ar_20261014_healthcare
+Total Counts Completed,إجمالي العدد المنجز,healthcare,Server,server_ar_20261014_healthcare
+Total Counts Targeted,إجمالي العدد المستهدف,healthcare,Server,server_ar_20261014_healthcare
+Total Coverage Amount Invoiced,إجمالي مبلغ التغطية المفوتر,healthcare,Server,server_ar_20261014_healthcare
+Total Dispensable Quantity,إجمالي الكمية القابلة للصرف,healthcare,Server,server_ar_20261014_healthcare
+Total Insurance Claim Amount,إجمالي مبلغ مطالبة التأمين,healthcare,Server,server_ar_20261014_healthcare
+Total Insurance Coverage Amount,إجمالي مبلغ التغطية التأمينية,"erpnext,lms",Server,server_ar_20261014_healthcare
+Total Orders,إجمالي الأوامر,healthcare,Server,server_ar_20261014_healthcare
+Total Qty Invoiced,إجمالي الكمية المفوترة,healthcare,Server,server_ar_20261014_healthcare
+Total Sales,إجمالي المبيعات,healthcare,Server,server_ar_20261014_healthcare
+Total Score Obtained,إجمالي الدرجات المحققة,healthcare,Server,server_ar_20261014_healthcare
+Total Sessions,إجمالي الجلسات,healthcare,Server,server_ar_20261014_healthcare
+Total Sessions Completed,إجمالي الجلسات المكتملة,healthcare,Server,server_ar_20261014_healthcare
+Transfer Bed,نقل السرير,healthcare,Server,server_ar_20261014_healthcare
+Transfer Qty,كمية النقل,healthcare,Server,server_ar_20261014_healthcare
+Transferred For Procedure,نُقل لإجراء طبي,healthcare,Server,server_ar_20261014_healthcare
+Treatment Done,تم العلاج,healthcare,Server,server_ar_20261014_healthcare
+Treatment Plan Template,قالب خطة العلاج,healthcare,Server,server_ar_20261014_healthcare
+Treatment Plan Template Item,صنف قالب خطة العلاج,healthcare,Server,server_ar_20261014_healthcare
+Treatment Plan Template Items,أصناف قالب خطة العلاج,healthcare,Server,server_ar_20261014_healthcare
+Treatment Plan Template Practitioner,ممارس قالب خطة العلاج,healthcare,Server,server_ar_20261014_healthcare
+Triage,الفرز الطبي,healthcare,Server,server_ar_20261014_healthcare
+Triage Date and Time,تاريخ ووقت الفرز الطبي,healthcare,Server,server_ar_20261014_healthcare
+Triage Level,مستوى الفرز الطبي,healthcare,Server,server_ar_20261014_healthcare
+Triage Practitioner,ممارس الفرز الطبي,healthcare,Server,server_ar_20261014_healthcare
+Triaged,تم الفرز الطبي,healthcare,Server,server_ar_20261014_healthcare
+Unbilled Services,خدمات غير مفوترة,healthcare,Server,server_ar_20261014_healthcare
+Underline,تسطير,healthcare,Server,server_ar_20261014_healthcare
+Underweight,نقص الوزن,healthcare,Server,server_ar_20261014_healthcare
+Unidentified Patient,مريض مجهول الهوية,healthcare,Server,server_ar_20261014_healthcare
+Unsatisfactory,غير مُرضٍ,healthcare,Server,server_ar_20261014_healthcare
+Update Claim Status,تحديث حالة المطالبة,healthcare,Server,server_ar_20261014_healthcare
+Update Schedule,تحديث الجدول,healthcare,Server,server_ar_20261014_healthcare
+Vacant,شاغر,healthcare,Server,server_ar_20261014_healthcare
+Valid Number of Days,عدد أيام الصلاحية,healthcare,Server,server_ar_20261014_healthcare
+Validate Nursing Checklists,التحقق من قوائم التمريض,healthcare,Server,server_ar_20261014_healthcare
+Value Set,مجموعة القيم,healthcare,Server,server_ar_20261014_healthcare
+Verification Failed,فشل التحقق,healthcare,Server,server_ar_20261014_healthcare
+Verify ABHA,التحقق من معرّف ABHA,healthcare,Server,server_ar_20261014_healthcare
+Verify ABHA Number,التحقق من رقم ABHA,healthcare,Server,server_ar_20261014_healthcare
+View Lab Tests,عرض الفحوص المخبرية,healthcare,Server,server_ar_20261014_healthcare
+Visits Completed,الزيارات المكتملة,healthcare,Server,server_ar_20261014_healthcare
+Walk-in,حضور دون موعد,healthcare,Server,server_ar_20261014_healthcare
+Weight (In Kilogram),الوزن (كيلوجرام),healthcare,Server,server_ar_20261014_healthcare
+Widow,أرمل / أرملة,healthcare,Server,server_ar_20261014_healthcare
+Worksheet & Legend,ورقة العمل ومفتاح الرموز,healthcare,Server,server_ar_20261014_healthcare
+Worksheet Instructions,تعليمات ورقة العمل,healthcare,Server,server_ar_20261014_healthcare
+Worksheet Print,طباعة ورقة العمل,healthcare,Server,server_ar_20261014_healthcare
+Year(s),سنة / سنوات,healthcare,Server,server_ar_20261014_healthcare
+Years,سنوات,healthcare,Server,server_ar_20261014_healthcare
+Years(s),سنوات,healthcare,Server,server_ar_20261014_healthcare

@@ -1,0 +1,240 @@
+source,arabic,app,module,origin
+ Quantity,الكمية,healthcare,Server,server_ar_20261014_review_more
+ out of {0}, من {0},healthcare,Server,server_ar_20261014_review_more
+"""Is Fixed Asset"" cannot be unchecked, as Asset record exists against the item",لا يمكن إلغاء خيار «أصل ثابت» لوجود سجل أصل مرتبط بالصنف,erpnext,Server,server_ar_20261014_review_more
+# Req'd Items,عدد الأصناف المطلوبة,erpnext,Server,server_ar_20261014_review_more
+'Allow Multiple Sales Orders Against a Customer's Purchase Order',السماح بأوامر بيع متعددة مقابل أمر شراء العميل,erpnext,Server,server_ar_20261014_review_more
+"'Inspection Required before Delivery' has disabled for the item {0}, no need to create the QI",خيار «الفحص مطلوب قبل التسليم» معطّل للصنف {0}؛ لا حاجة لإنشاء فحص جودة,erpnext,Server,server_ar_20261014_review_more
+"'Inspection Required before Purchase' has disabled for the item {0}, no need to create the QI",خيار «الفحص مطلوب قبل الشراء» معطّل للصنف {0}؛ لا حاجة لإنشاء فحص جودة,erpnext,Server,server_ar_20261014_review_more
+'To Package No.' cannot be less than 'From Package No.',لا يمكن أن يقل «إلى رقم طرد» عن «من رقم طرد»,erpnext,Server,server_ar_20261014_review_more
+'Update Stock' can not be checked because items are not delivered via {0},لا يمكن تفعيل «تحديث المخزون» لأن الأصناف لا تُسلّم عبر {0},erpnext,Server,server_ar_20261014_review_more
+'Verification Link Expiry Duration' must be between 15 to 60 minutes.,يجب أن تكون «مدة صلاحية رابط التحقق» بين 15 و60 دقيقة.,erpnext,Server,server_ar_20261014_review_more
+", Mobile {}",، الجوال {},healthcare,Server,server_ar_20261014_review_more
+A Negative,فصيلة A سالب,healthcare,Server,server_ar_20261014_review_more
+A Positive,فصيلة A موجب,healthcare,Server,server_ar_20261014_review_more
+A Sales Invoice already exists for this Emergency Record,توجد فاتورة مبيعات لهذا السجل في الطوارئ بالفعل,healthcare,Server,server_ar_20261014_review_more
+A medication alert log cannot be changed,لا يمكن تعديل سجل تنبيه الدواء,healthcare,Server,server_ar_20261014_review_more
+A medication alert log cannot be deleted,لا يمكن حذف سجل تنبيه الدواء,healthcare,Server,server_ar_20261014_review_more
+A medication alert that was raised when an order was placed,تنبيه دوائي أُنشئ عند تسجيل الطلب,healthcare,Server,server_ar_20261014_review_more
+A new batch '{0}' has been published that might interest you. Check it out!,نُشرت دفعة جديدة '{0}' قد تهمك. اطّلع عليها!,lms,Server,server_ar_20261014_review_more
+A new batch has been published on ,نُشرت دفعة جديدة على ,lms,Server,server_ar_20261014_review_more
+A new course '{0}' has been published that might interest you. Check it out!,نُشرت دورة جديدة '{0}' قد تهمك. اطّلع عليها!,lms,Server,server_ar_20261014_review_more
+A new course has been published on ,نُشرت دورة جديدة على ,lms,Server,server_ar_20261014_review_more
+A verified appointment cannot be moved back to 'Unverified' status.,لا يمكن إعادة موعد تم التحقق منه إلى حالة «غير متحقق».,erpnext,Server,server_ar_20261014_review_more
+AB Negative,فصيلة AB سالب,healthcare,Server,server_ar_20261014_review_more
+AB Positive,فصيلة AB موجب,healthcare,Server,server_ar_20261014_review_more
+ABDM Request,طلب ABDM,healthcare,Server,server_ar_20261014_review_more
+ABDM Settings,إعدادات ABDM,healthcare,Server,server_ar_20261014_review_more
+ABHA Address is required to search,عنوان ABHA مطلوب للبحث,healthcare,Server,server_ar_20261014_review_more
+ABHA Addressent Required,عنوان ABHA مطلوب,healthcare,Server,server_ar_20261014_review_more
+ABHA ID created successfully,تم إنشاء معرّف ABHA بنجاح,healthcare,Server,server_ar_20261014_review_more
+ABHA ID not Created,لم يُنشأ معرّف ABHA,healthcare,Server,server_ar_20261014_review_more
+Abbreviation already used for {0},الاختصار مستخدم بالفعل لـ{0},healthcare,Server,server_ar_20261014_review_more
+"According to the BOM {0}, the Item '{1}' is missing in the stock entry.",وفق قائمة المواد {0}، الصنف '{1}' غير موجود في حركة المخزون.,erpnext,Server,server_ar_20261014_review_more
+"Account balance already in Credit, you are not allowed to set 'Balance Must Be' as 'Debit'",رصيد الحساب دائن بالفعل، ولا يمكن تعيين «يجب أن يكون الرصيد» إلى «مدين»,erpnext,Server,server_ar_20261014_review_more
+"Account balance already in Debit, you are not allowed to set 'Balance Must Be' as 'Credit'",رصيد الحساب مدين بالفعل، ولا يمكن تعيين «يجب أن يكون الرصيد» إلى «دائن»,erpnext,Server,server_ar_20261014_review_more
+"Accounts cannot be removed, as user doesn't have access to all the accounts of {0}",لا يمكن إزالة الحسابات لأن المستخدم لا يملك الوصول إلى جميع حسابات {0},erpnext,Server,server_ar_20261014_review_more
+Active Treatment Counselling {0} already exist for encounter {1},توجد استشارة علاجية نشطة {0} للزيارة {1} بالفعل,healthcare,Server,server_ar_20261014_review_more
+Adding items...,جارٍ إضافة الأصناف...,healthcare,Server,server_ar_20261014_review_more
+Additional Discount Amount ({discount_amount}) cannot exceed the total before such discount ({total_before_discount}),لا يمكن أن يتجاوز الخصم الإضافي ({discount_amount}) الإجمالي قبل هذا الخصم ({total_before_discount}),erpnext,Server,server_ar_20261014_review_more
+Additional information regarding the patient,معلومات إضافية عن المريض,healthcare,Server,server_ar_20261014_review_more
+Additional {0} {1} of item {2} required as per BOM to complete this transaction,يلزم {0} {1} إضافية من الصنف {2} حسب قائمة المواد لإكمال هذه المعاملة,erpnext,Server,server_ar_20261014_review_more
+Admission Nursing Checklist Template,قالب قائمة تحقق تمريض الدخول,healthcare,Server,server_ar_20261014_review_more
+Against Inpatient Medication Order Entry,مقابل بند أمر دواء لمريض منوّم,healthcare,Server,server_ar_20261014_review_more
+All actions that are implied by the request have occurred.,تم تنفيذ جميع الإجراءات التي يتضمنها الطلب.,healthcare,Server,server_ar_20261014_review_more
+All published FHIR Versions.,جميع إصدارات FHIR المنشورة.,healthcare,Server,server_ar_20261014_review_more
+All the drugs are available with sufficient qty to process this Inpatient Medication Entry.,جميع الأدوية متاحة بكميات كافية لتنفيذ سجل أدوية المريض المنوّم.,healthcare,Server,server_ar_20261014_review_more
+"Allergies, Medical and Surgical History",الحساسيات والتاريخ الطبي والجراحي,healthcare,Server,server_ar_20261014_review_more
+Allocated Amount (via Journal Entry),المبلغ المخصص (عبر قيد يومية),healthcare,Server,server_ar_20261014_review_more
+Allow Discharge Despite Pending Healthcare Services,السماح بالخروج رغم وجود خدمات صحية معلقة,healthcare,Server,server_ar_20261014_review_more
+Allow Discharge Despite Unbilled Healthcare Services,السماح بالخروج رغم وجود خدمات صحية غير مفوترة,healthcare,Server,server_ar_20261014_review_more
+Allowed primary roles are 'Customer' and 'Supplier'. Please select one of these roles only.,الأدوار الأساسية المسموحة هي «عميل» و«مورّد». يرجى اختيار أحدهما فقط.,erpnext,Server,server_ar_20261014_review_more
+Also you can't switch back to FIFO after setting the valuation method to Moving Average for this item.,لا يمكنك العودة إلى الوارد أولًا صادر أولًا بعد تعيين طريقة تقييم هذا الصنف إلى المتوسط المتحرك.,erpnext,Server,server_ar_20261014_review_more
+An Inpatient Medication Order {0} against Patient Encounter {1} already exists.,يوجد أمر أدوية تنويم {0} مقابل زيارة المريض {1} بالفعل.,healthcare,Server,server_ar_20261014_review_more
+An active contract for this Insurance Payor already exists: {0},يوجد عقد نشط لجهة سداد التأمين هذه بالفعل: {0},healthcare,Server,server_ar_20261014_review_more
+An interaction needs two different interactants,يتطلب التداخل طرفين مختلفين,healthcare,Server,server_ar_20261014_review_more
+Apply Free Follow-ups on Encounters,تطبيق المتابعات المجانية على الزيارات,healthcare,Server,server_ar_20261014_review_more
+Apply free follow ups to Patient Encounters created without an Appointment,تطبيق المتابعات المجانية على زيارات المرضى المنشأة دون موعد,healthcare,Server,server_ar_20261014_review_more
+Appointment Cancelled.,تم إلغاء الموعد.,healthcare,Server,server_ar_20261014_review_more
+Appointment Cancelled. Please review and cancel the invoice {0},تم إلغاء الموعد. يرجى مراجعة الفاتورة {0} وإلغائها,healthcare,Server,server_ar_20261014_review_more
+Appointment Confirmation Message Not Sent,لم تُرسل رسالة تأكيد الموعد,healthcare,Server,server_ar_20261014_review_more
+Appointment Date and Time are required.,تاريخ الموعد ووقته مطلوبان.,healthcare,Server,server_ar_20261014_review_more
+Appointment date and Healthcare Practitioner are Mandatory,تاريخ الموعد والممارس الصحي مطلوبان,healthcare,Server,server_ar_20261014_review_more
+Appointment end must be after start.,يجب أن يكون انتهاء الموعد بعد بدايته.,healthcare,Server,server_ar_20261014_review_more
+Appointment for service units with Inpatient Occupancy can only be created against the unit where patient is admitted.,لا يمكن إنشاء موعد لوحدات خدمة ذات إشغال تنويم إلا في الوحدة التي يقيم بها المريض.,healthcare,Server,server_ar_20261014_review_more
+Appointment {0} and Sales Invoice {1} cancelled,تم إلغاء الموعد {0} وفاتورة المبيعات {1},healthcare,Server,server_ar_20261014_review_more
+Appointments created manually cannot have 'Unverified' status.,لا يمكن أن تكون المواعيد المنشأة يدويًا في حالة «غير متحقق».,erpnext,Server,server_ar_20261014_review_more
+"Approved / Rejected / Paid Amount connot be more than Claim Amount, please update row #{}",لا يمكن أن يتجاوز المبلغ المعتمد / المرفوض / المدفوع مبلغ المطالبة. يرجى تحديث الصف #{},healthcare,Server,server_ar_20261014_review_more
+Are you sure you want to cancel this appointment?,هل تريد إلغاء هذا الموعد؟,healthcare,Server,server_ar_20261014_review_more
+Are you sure you want to mark {0} sample(s) as Collected?,هل تريد تأكيد جمع {0} عينة؟,healthcare,Server,server_ar_20261014_review_more
+Asset's depreciation schedule updated after Asset Shift Allocation {0},تم تحديث جدول إهلاك الأصل بعد تخصيص ورديات الأصل {0},erpnext,Server,server_ar_20261014_review_more
+Asset's value adjusted after cancellation of Asset Value Adjustment {0},تم تعديل قيمة الأصل بعد إلغاء تسوية قيمة الأصل {0},erpnext,Server,server_ar_20261014_review_more
+Asset's value adjusted after submission of Asset Value Adjustment {0},تم تعديل قيمة الأصل بعد اعتماد تسوية قيمة الأصل {0},erpnext,Server,server_ar_20261014_review_more
+B Negative,فصيلة B سالب,healthcare,Server,server_ar_20261014_review_more
+B Positive,فصيلة B موجب,healthcare,Server,server_ar_20261014_review_more
+BP Diastolic,ضغط الدم الانبساطي,healthcare,Server,server_ar_20261014_review_more
+BP Systolic,ضغط الدم الانقباضي,healthcare,Server,server_ar_20261014_review_more
+Bank Transaction {0} has no deposit or withdrawal but has an included fee of {1}. Automatic bank fee reconciliation was skipped; please review manually.,الحركة البنكية {0} لا تتضمن إيداعًا أو سحبًا، لكنها تتضمن رسمًا بقيمة {1}. تم تجاوز التسوية التلقائية للرسم؛ يرجى المراجعة يدويًا.,banking,Server,server_ar_20261014_review_more
+Bank Transaction {0} is already reserved by draft {1} {2}. Submit or delete that voucher before creating another.,الحركة البنكية {0} محجوزة بالفعل للمسودة {1} {2}. اعتمد السند أو احذفه قبل إنشاء آخر.,banking,Server,server_ar_20261014_review_more
+Bank Transaction {0} is reserved by draft {1} {2}. Submit or delete that voucher before reconciling other entries.,الحركة البنكية {0} محجوزة للمسودة {1} {2}. اعتمد السند أو احذفه قبل تسوية قيود أخرى.,banking,Server,server_ar_20261014_review_more
+Bank {0} does not have EBICS Host ID or URL set,لم يُحدد معرّف مضيف EBICS أو رابطه للبنك {0},banking,Server,server_ar_20261014_review_more
+"Based on your HR Policy, select your leave allocation period's end date",اختر تاريخ نهاية فترة تخصيص الإجازة وفق سياسة الموارد البشرية,"erpnext,helpdesk",Server,server_ar_20261014_review_more
+"Based on your HR Policy, select your leave allocation period's start date",اختر تاريخ بداية فترة تخصيص الإجازة وفق سياسة الموارد البشرية,"erpnext,helpdesk",Server,server_ar_20261014_review_more
+"Batch No {0} is not present in the original {1} {2}, hence you can't return it against the {1} {2}",رقم الدفعة {0} غير موجود في المستند الأصلي {1} {2}، لذلك لا يمكن إرجاعه مقابل {1} {2},erpnext,Server,server_ar_20261014_review_more
+Billing currency must be equal to either default company's currency or party account currency,يجب أن تكون عملة الفوترة عملة الشركة الافتراضية أو عملة حساب الطرف,erpnext,Server,server_ar_20261014_review_more
+Block refuses the order. Warn shows the alert and saves. Notify is an indicator only,الحظر يرفض الطلب، والتحذير يعرض التنبيه مع الحفظ، والإشعار مؤشر فقط,healthcare,Server,server_ar_20261014_review_more
+Can refer row only if the charge type is 'On Previous Row Amount' or 'Previous Row Total',يمكن الإشارة إلى صف فقط عندما يكون نوع الرسم «على مبلغ الصف السابق» أو «إجمالي الصف السابق»,erpnext,Server,server_ar_20261014_review_more
+"Cannot Cancel, Insurance Claim already Completed / Partly Paid",لا يمكن الإلغاء؛ مطالبة التأمين مكتملة أو مسددة جزئيًا,healthcare,Server,server_ar_20261014_review_more
+"Cannot cancel, {0} taken against Fee Validity {1}. Cancel {2} first.",لا يمكن الإلغاء؛ استُخدم {0} مقابل صلاحية الرسوم {1}. ألغِ {2} أولًا.,healthcare,Server,server_ar_20261014_review_more
+Cannot check in a {0} appointment,لا يمكن تسجيل الوصول لموعد في حالة {0},healthcare,Server,server_ar_20261014_review_more
+Cannot create Unavailable block: it conflicts with existing Patient Appointment(s): ,لا يمكن إنشاء فترة عدم توفر لتعارضها مع مواعيد مرضى موجودة: ,healthcare,Server,server_ar_20261014_review_more
+Cannot deduct when category is for 'Valuation' or 'Valuation and Total',لا يمكن الاستقطاع عندما تكون الفئة «تقييم» أو «تقييم وإجمالي»,erpnext,Server,server_ar_20261014_review_more
+"Cannot link existing Item Code {}, UOM {} does not match with Item Stock UOM",لا يمكن ربط الصنف الموجود {}؛ وحدة القياس {} لا تطابق وحدة قياس مخزون الصنف,healthcare,Server,server_ar_20261014_review_more
+Cannot mark Inpatient Record as Discharged since there are unbilled services. ,لا يمكن تعيين سجل التنويم إلى «تم الخروج» لوجود خدمات غير مفوترة.,healthcare,Server,server_ar_20261014_review_more
+Cannot select charge type as 'On Previous Row Amount' or 'On Previous Row Total' for first row,لا يمكن اختيار «على مبلغ الصف السابق» أو «على إجمالي الصف السابق» للصف الأول,erpnext,Server,server_ar_20261014_review_more
+Changed customer name to '{}' as '{}' already exists.,تم تغيير اسم العميل إلى '{}' لأن '{}' موجود بالفعل.,erpnext,Server,server_ar_20261014_review_more
+Charge of type 'Actual' in row {0} cannot be included in Item Rate or Paid Amount,لا يمكن تضمين رسم من نوع «فعلي» في الصف {0} ضمن سعر الصنف أو المبلغ المدفوع,erpnext,Server,server_ar_20261014_review_more
+Charge {0} with overdue amount {1} is missing from the charges table. Please refresh the page to get latest charges.,الرسم {0} بمبلغ متأخر {1} غير موجود في جدول الرسوم. حدّث الصفحة لجلب أحدث الرسوم.,lending,Server,server_ar_20261014_review_more
+Check allergies and interactions when medication is ordered. Off until a site has reviewed its interaction rules,التحقق من الحساسيات والتداخلات عند طلب الدواء. يظل معطّلًا حتى يراجع الموقع قواعد التداخلات,healthcare,Server,server_ar_20261014_review_more
+Check this if the Clinical Procedure is billable and also set the rate.,حدد هذا الخيار إذا كان الإجراء الطبي قابلًا للفوترة، وحدد سعره أيضًا.,healthcare,Server,server_ar_20261014_review_more
+Check-in time cannot be after current time,لا يمكن أن يكون وقت تسجيل الوصول بعد الوقت الحالي,healthcare,Server,server_ar_20261014_review_more
+Check-in time cannot be greater than the current time,لا يمكن أن يكون وقت تسجيل الوصول بعد الوقت الحالي,healthcare,Server,server_ar_20261014_review_more
+Checking this option will prompt for Appointment invoicing and payment,يؤدي تفعيل هذا الخيار إلى طلب فوترة الموعد وتحصيل الدفع,healthcare,Server,server_ar_20261014_review_more
+Checking this will create Lab Test(s) specified in the Sales Invoice on submission.,يؤدي تفعيل هذا الخيار إلى إنشاء الفحوص المخبرية المحددة في فاتورة المبيعات عند اعتمادها.,healthcare,Server,server_ar_20261014_review_more
+Checking this will create a Sample Collection document  every time you create a Lab Test,يؤدي تفعيل هذا الخيار إلى إنشاء مستند جمع عينة عند إنشاء كل فحص مخبري,healthcare,Server,server_ar_20261014_review_more
+Checking this will create new Patients with a Disabled status by default and will only be enabled after invoicing the Registration Fee.,يؤدي تفعيل هذا الخيار إلى إنشاء المرضى الجدد بحالة معطّلة افتراضيًا، ولا يُفعّلون إلا بعد فوترة رسوم التسجيل.,healthcare,Server,server_ar_20261014_review_more
+Checking this will popup to invoice appointment,يؤدي تفعيل هذا الخيار إلى عرض نافذة فوترة الموعد,healthcare,Server,server_ar_20261014_review_more
+Checking this will restrict printing and emailing of Lab Test documents unless they have the status as Approved.,يؤدي تفعيل هذا الخيار إلى منع طباعة الفحوص المخبرية وإرسالها بالبريد إلا إذا كانت معتمدة.,healthcare,Server,server_ar_20261014_review_more
+Circular reference detected: '{0}' is already a component (directly or indirectly) of '{1}',تم اكتشاف مرجع دائري: '{0}' مكوّن بالفعل ضمن '{1}' بصورة مباشرة أو غير مباشرة,healthcare,Server,server_ar_20261014_review_more
+Claim already created for all Inpatient Occupancies,أُنشئت المطالبة لجميع إشغالات التنويم بالفعل,healthcare,Server,server_ar_20261014_review_more
+Claims Receivable Account is mandatory for Company {},حساب المطالبات المستحقة مطلوب للشركة {},healthcare,Server,server_ar_20261014_review_more
+Clinical Procedure ({0}):,الإجراء الطبي ({0}):,healthcare,Server,server_ar_20261014_review_more
+Clinical Procedure is already created,تم إنشاء الإجراء الطبي بالفعل,healthcare,Server,server_ar_20261014_review_more
+Clinical Procedure {0} already created from service request {1},أُنشئ الإجراء الطبي {0} من طلب الخدمة {1} بالفعل,healthcare,Server,server_ar_20261014_review_more
+Closing [Opening + Total] ,الإقفال [الافتتاح + الإجمالي],erpnext,Server,server_ar_20261014_review_more
+Codes indicating the degree of authority/intentionality associated with a request.,رموز توضح مستوى التفويض أو القصد المرتبط بالطلب.,healthcare,Server,server_ar_20261014_review_more
+Codes providing the status of an observation.,رموز توضح حالة الملاحظة السريرية.,healthcare,Server,server_ar_20261014_review_more
+Collect Fee for Patient Registration,تحصيل رسوم تسجيل المريض,healthcare,Server,server_ar_20261014_review_more
+Collection Details:,تفاصيل الجمع:,healthcare,Server,server_ar_20261014_review_more
+Company Address is missing. You don't have permission to create an Address. Please contact your System Manager.,عنوان الشركة غير موجود، ولا تملك صلاحية إنشاء عنوان. تواصل مع مسؤول النظام.,erpnext,Server,server_ar_20261014_review_more
+Company Address is missing. You don't have permission to update it. Please contact your System Manager.,عنوان الشركة غير موجود، ولا تملك صلاحية تحديثه. تواصل مع مسؤول النظام.,erpnext,Server,server_ar_20261014_review_more
+Company and Insurance Provider are mandatory,الشركة ومزود التأمين مطلوبان,healthcare,Server,server_ar_20261014_review_more
+Company of asset {0} and purchase document {1} doesn't matches.,شركة الأصل {0} لا تطابق شركة مستند الشراء {1}.,erpnext,Server,server_ar_20261014_review_more
+Company or Personal Email is mandatory when 'Create User Automatically' is enabled,البريد الإلكتروني للشركة أو البريد الشخصي مطلوب عند تفعيل «إنشاء مستخدم تلقائيًا»,erpnext,Server,server_ar_20261014_review_more
+Complete {0} and Consume Stock?,إكمال {0} واستهلاك المخزون؟,healthcare,Server,server_ar_20261014_review_more
+Complete {0}?,إكمال {0}؟,healthcare,Server,server_ar_20261014_review_more
+Conditions will be applied on all the selected items combined. ,ستُطبق الشروط على مجموع الأصناف المحددة معًا.,erpnext,Server,server_ar_20261014_review_more
+Configure a service Item for {0},حدد صنف خدمة لـ{0},healthcare,Server,server_ar_20261014_review_more
+Consulting Charges: {0},رسوم الاستشارة: {0},healthcare,Server,server_ar_20261014_review_more
+Consumables could not be loaded because the selected Clinical Procedure Template's stock settings could not be fetched.,تعذر تحميل المستهلكات لعدم إمكانية جلب إعدادات المخزون لقالب الإجراء الطبي المحدد.,healthcare,Server,server_ar_20261014_review_more
+Consumables could not be loaded for the selected Clinical Procedure Template. Please try again.,تعذر تحميل مستهلكات قالب الإجراء الطبي المحدد. يرجى المحاولة مجددًا.,healthcare,Server,server_ar_20261014_review_more
+Consumables were not loaded because the selected Clinical Procedure Template does not consume stock.,لم تُحمّل المستهلكات لأن قالب الإجراء الطبي المحدد لا يستهلك المخزون.,healthcare,Server,server_ar_20261014_review_more
+Contact: ,جهة الاتصال: ,healthcare,Server,server_ar_20261014_review_more
+"Could not add conferencing to this Appointment, please contact System Manager",تعذرت إضافة اتصال مرئي إلى الموعد. يرجى التواصل مع مسؤول النظام,healthcare,Server,server_ar_20261014_review_more
+"Could not create Credit Note automatically, please uncheck 'Issue Credit Note' and submit again",تعذر إنشاء إشعار دائن تلقائيًا. ألغِ خيار «إصدار إشعار دائن» ثم أعد الاعتماد,erpnext,Server,server_ar_20261014_review_more
+"Could not detect any tables in this PDF. It may be a scanned or image-based statement, which is not supported (no OCR).",لم يتم العثور على جداول في ملف PDF. قد يكون الكشف صورة أو مستندًا ممسوحًا ضوئيًا، وهذا غير مدعوم لعدم توفر التعرف الضوئي على النصوص.,erpnext,Server,server_ar_20261014_review_more
+Could not find path for ,تعذر العثور على مسار لـ,erpnext,Server,server_ar_20261014_review_more
+Could not resolve recipient '{0}' to a WhatsApp Profile. Please ensure a default WhatsApp account is configured.,تعذر تحديد ملف WhatsApp للمستلم '{0}'. تأكد من إعداد حساب WhatsApp افتراضي.,whatsapp,Server,server_ar_20261014_review_more
+Counts Completed: {0},العدد المنجز: {0},healthcare,Server,server_ar_20261014_review_more
+Counts Targeted: {0},العدد المستهدف: {0},healthcare,Server,server_ar_20261014_review_more
+Create Lab Test(s) on Sales Invoice Submission,إنشاء الفحوص المخبرية عند اعتماد فاتورة المبيعات,healthcare,Server,server_ar_20261014_review_more
+Create Observation(s) on Sales Invoice Submission,إنشاء الملاحظات السريرية عند اعتماد فاتورة المبيعات,healthcare,Server,server_ar_20261014_review_more
+Create Sample Collection document for Lab Test,إنشاء مستند جمع عينة للفحص المخبري,healthcare,Server,server_ar_20261014_review_more
+Create and link a service item to be billed for Out Patient Consulting.,إنشاء وربط صنف خدمة لفوترة استشارات العيادات الخارجية.,healthcare,Server,server_ar_20261014_review_more
+Create and link the document to complete this task,أنشئ المستند واربطه لإكمال هذه المهمة,healthcare,Server,server_ar_20261014_review_more
+Creating Lab Tests...,جارٍ إنشاء الفحوص المخبرية...,healthcare,Server,server_ar_20261014_review_more
+Creating Treatment Counselling,جارٍ إنشاء الاستشارة العلاجية,healthcare,Server,server_ar_20261014_review_more
+Creating {0} Service Units,جارٍ إنشاء {0} وحدة خدمة,healthcare,Server,server_ar_20261014_review_more
+Critical Condition,حالة حرجة,healthcare,Server,server_ar_20261014_review_more
+Critical From,بداية النطاق الحرج,healthcare,Server,server_ar_20261014_review_more
+Critical Interpretation,تفسير النتيجة الحرجة,healthcare,Server,server_ar_20261014_review_more
+Critical Long Interpretation,التفسير المفصل للنتيجة الحرجة,healthcare,Server,server_ar_20261014_review_more
+Critical Options,خيارات النتائج الحرجة,healthcare,Server,server_ar_20261014_review_more
+Critical Ratio,النسبة الحرجة,healthcare,Server,server_ar_20261014_review_more
+Critical To,نهاية النطاق الحرج,healthcare,Server,server_ar_20261014_review_more
+Critical Value,القيمة الحرجة,healthcare,Server,server_ar_20261014_review_more
+Default Unit of Measure for Variant '{0}' must be same as in Template '{1}',يجب أن تطابق وحدة القياس الافتراضية للمتغير '{0}' الوحدة في القالب '{1}',erpnext,Server,server_ar_20261014_review_more
+Different 'Source Warehouse' and 'Target Warehouse' can be set for each row.,يمكن تحديد مستودع مصدر ومستودع هدف مختلفين لكل صف.,erpnext,Server,server_ar_20261014_review_more
+DocType {0} with company field '{1}' is already in the list,نوع المستند {0} بحقل الشركة '{1}' موجود بالفعل في القائمة,erpnext,Server,server_ar_20261014_review_more
+Dunning Letter for Dunning Type {0} in language '{1}' not found.,لم يتم العثور على خطاب مطالبة من النوع {0} باللغة '{1}'.,erpnext,Server,server_ar_20261014_review_more
+Duplicate line reference: '{0}',مرجع السطر مكرر: '{0}',erpnext,Server,server_ar_20261014_review_more
+Expected End Date should be less than or equal to parent task's Expected End Date {0}.,يجب ألا يتجاوز تاريخ الانتهاء المتوقع تاريخ انتهاء المهمة الأم {0}.,erpnext,Server,server_ar_20261014_review_more
+Expense / Difference account ({0}) must be a 'Profit or Loss' account,يجب أن يكون حساب المصروف / الفرق ({0}) من حسابات «الأرباح والخسائر»,erpnext,Server,server_ar_20261014_review_more
+Field '{0}' is not a valid Account field,الحقل '{0}' ليس حقل حساب صالحًا,erpnext,Server,server_ar_20261014_review_more
+Field '{0}' is not a valid Company link field for DocType {1},الحقل '{0}' ليس حقل ربط صالحًا بالشركة لنوع المستند {1},erpnext,Server,server_ar_20261014_review_more
+Flat Interest Rate loans cannot have 'Repay Fixed Amount per Period' repayment method,لا يمكن استخدام طريقة «سداد مبلغ ثابت لكل فترة» لقروض الفائدة الثابتة,lending,Server,server_ar_20261014_review_more
+Following Material Requests have been raised automatically based on Item's re-order level,أُنشئت طلبات المواد التالية تلقائيًا حسب مستوى إعادة الطلب للصنف,erpnext,Server,server_ar_20261014_review_more
+"For Return Invoices with Stock effect, '0' qty Items are not allowed. Following rows are affected: {0}",لا يُسمح بأصناف بكمية صفر في فواتير المرتجعات المؤثرة في المخزون. الصفوف المتأثرة: {0},erpnext,Server,server_ar_20261014_review_more
+For the 'Apply Rule On Other' condition the field {0} is mandatory,الحقل {0} مطلوب للشرط «تطبيق القاعدة على غيره»,erpnext,Server,server_ar_20261014_review_more
+Formula references itself ('{0}'),المعادلة تشير إلى نفسها ('{0}'),erpnext,Server,server_ar_20261014_review_more
+Further nodes can be only created under 'Group' type nodes,يمكن إنشاء عقد إضافية ضمن عقد من نوع «مجموعة» فقط,erpnext,Server,server_ar_20261014_review_more
+Has Certificate ,له شهادة,erpnext,Server,server_ar_20261014_review_more
+"If you still want to proceed, please disable '{0}' checkbox.",للمتابعة، يرجى إلغاء خيار '{0}'.,erpnext,Server,server_ar_20261014_review_more
+Internal transfers can only be done in company's default currency,يمكن إجراء التحويلات الداخلية بعملة الشركة الافتراضية فقط,erpnext,Server,server_ar_20261014_review_more
+Invalid operator '{0}',عامل تشغيل غير صالح: '{0}',erpnext,Server,server_ar_20261014_review_more
+Invalid parameter. 'dn' should be of type str,معامل غير صالح. يجب أن تكون قيمة 'dn' نصًا,erpnext,Server,server_ar_20261014_review_more
+Invalid value {0} for 'Based On',القيمة {0} غير صالحة للحقل «بناءً على»,erpnext,Server,server_ar_20261014_review_more
+Invalid value {0} for 'Doctype',القيمة {0} غير صالحة للحقل «نوع المستند»,erpnext,Server,server_ar_20261014_review_more
+It seems like the EBICS User lacks permissions for order type '{0}'. The permitted types are: {1}.,يبدو أن مستخدم EBICS لا يملك صلاحية نوع الأمر '{0}'. الأنواع المسموحة: {1}.,banking,Server,server_ar_20261014_review_more
+"It seems that there is an issue with the server's stripe configuration. In case of failure, the amount will get refunded to your account.",يبدو أن هناك مشكلة في إعدادات Stripe على الخادم. في حال فشل العملية سيُعاد المبلغ إلى حسابك.,payments,Server,server_ar_20261014_review_more
+Item Row {0}: {1} {2} does not exist in above '{1}' table,صف الصنف {0}: السجل {1} {2} غير موجود في جدول '{1}' أعلاه,erpnext,Server,server_ar_20261014_review_more
+Item must be added using 'Get Items from Purchase Receipts' button,يجب إضافة الصنف باستخدام زر «جلب الأصناف من استلامات المشتريات»,erpnext,Server,server_ar_20261014_review_more
+Item {0} not found in 'Raw Materials Supplied' table in {1} {2},الصنف {0} غير موجود في جدول «المواد الخام الموردة» في {1} {2},erpnext,Server,server_ar_20261014_review_more
+Item {0}: {1} qty produced. ,الصنف {0}: الكمية المنتجة {1}.,erpnext,Server,server_ar_20261014_review_more
+License key not found. Please activate the checkbox 'Enable EBICS' in the {0} and ensure that your subscription is active.,مفتاح الترخيص غير موجود. فعّل خيار «تفعيل EBICS» في {0} وتأكد من نشاط الاشتراك.,banking,Server,server_ar_20261014_review_more
+Loan GL Consolidation Start Date {0} must be a future date. Existing GL up to today stays daily; consolidation applies only from the start date onward.,يجب أن يكون تاريخ بدء تجميع قيود القرض {0} في المستقبل. تبقى القيود حتى اليوم يومية، ويبدأ التجميع من التاريخ المحدد فقط.,lending,Server,server_ar_20261014_review_more
+"Loan GL Consolidation Start Date {0} must be after the last posted loan GL ({1}), so existing daily GL is left untouched and only new activity is consolidated.",يجب أن يكون تاريخ بدء تجميع قيود القرض {0} بعد آخر قيد مرحّل ({1})، للحفاظ على القيود اليومية الحالية وتجميع النشاط الجديد فقط.,lending,Server,server_ar_20261014_review_more
+Logical operators must be 'and' or 'or',يجب أن تكون العوامل المنطقية 'and' أو 'or',erpnext,Server,server_ar_20261014_review_more
+"Looks like something went wrong during the transaction. Since we haven't confirmed the payment, Paypal will automatically refund you this amount. If it doesn't, please send us an email and mention the Correlation ID: {0}.",حدث خطأ أثناء المعاملة. لعدم تأكيد الدفع، سيعيد PayPal المبلغ تلقائيًا. إذا لم تتم الإعادة، راسلنا بالبريد مع ذكر معرّف التتبع: {0}.,payments,Server,server_ar_20261014_review_more
+MT940 file detected. Please enable 'Import MT940 Format' to proceed.,تم اكتشاف ملف MT940. فعّل «استيراد صيغة MT940» للمتابعة.,erpnext,Server,server_ar_20261014_review_more
+Maintenance Schedule is not generated for all the items. Please click on 'Generate Schedule',لم يُنشأ جدول الصيانة لجميع الأصناف. يرجى الضغط على «إنشاء الجدول»,erpnext,Server,server_ar_20261014_review_more
+Method '{0}' must be whitelisted and permit GET requests,يجب أن تكون الدالة '{0}' ضمن الدوال المسموحة وأن تسمح بطلبات GET,erpnext,Server,server_ar_20261014_review_more
+O Negative,فصيلة O سالب,healthcare,Server,server_ar_20261014_review_more
+O Positive,فصيلة O موجب,healthcare,Server,server_ar_20261014_review_more
+Operator '{0}' requires a list value,يتطلب العامل '{0}' قيمة من نوع قائمة,erpnext,Server,server_ar_20261014_review_more
+"Optional. Sets company's default currency, if not specified.",اختياري. تُستخدم عملة الشركة الافتراضية إذا لم تُحدد العملة.,erpnext,Server,server_ar_20261014_review_more
+PDF statement support requires the 'pdfplumber' library to be installed.,يتطلب دعم كشوف PDF تثبيت مكتبة 'pdfplumber'.,erpnext,Server,server_ar_20261014_review_more
+Package No(s) already in use. Try from Package No {0},أرقام الطرود مستخدمة بالفعل. جرّب البدء من رقم الطرد {0},erpnext,Server,server_ar_20261014_review_more
+Payment Entry has been modified after you pulled it. Please pull it again.,تم تعديل سند الدفع بعد جلبه. يرجى جلبه مجددًا.,erpnext,Server,server_ar_20261014_review_more
+Payment Reconciliation Job: {0} is running for this party. Can't reconcile now.,مهمة تسوية المدفوعات {0} قيد التشغيل لهذا الطرف. لا يمكن إجراء التسوية الآن.,erpnext,Server,server_ar_20261014_review_more
+Penalty Interest Rate is levied on the pending amount on a daily basis in case of delayed repayment ,تُحتسب فائدة التأخير يوميًا على المبلغ المعلق عند تأخر السداد,lending,Server,server_ar_20261014_review_more
+Please add 'Supplier' role to user {0}.,يرجى إضافة دور «مورّد» للمستخدم {0}.,erpnext,Server,server_ar_20261014_review_more
+Please add <a href='{0}'>{1}</a> for <a href='{2}'>{3}</a> to send calendar invites for evaluations.,أضف <a href='{0}'>{1}</a> إلى <a href='{2}'>{3}</a> لإرسال دعوات التقويم للتقييمات.,lms,Server,server_ar_20261014_review_more
+Please click on 'Generate Schedule',يرجى الضغط على «إنشاء الجدول»,erpnext,Server,server_ar_20261014_review_more
+Please click on 'Generate Schedule' to fetch Serial No added for Item {0},اضغط على «إنشاء الجدول» لجلب الأرقام التسلسلية المضافة للصنف {0},erpnext,Server,server_ar_20261014_review_more
+Please click on 'Generate Schedule' to get schedule,اضغط على «إنشاء الجدول» لجلب الجدول,erpnext,Server,server_ar_20261014_review_more
+Please create Landed Cost Vouchers against Invoices that have 'Update Stock' enabled.,أنشئ سندات التكاليف الإضافية مقابل فواتير مفعّل بها «تحديث المخزون».,erpnext,Server,server_ar_20261014_review_more
+Please make sure the file you are using has 'Parent Account' column present in the header.,تأكد من وجود عمود «الحساب الأب» في ترويسة الملف المستخدم.,erpnext,Server,server_ar_20261014_review_more
+Please mention 'Weight UOM' along with Weight.,يرجى تحديد وحدة قياس الوزن مع الوزن.,erpnext,Server,server_ar_20261014_review_more
+Please mention '{0}' in Company: {1},يرجى تحديد '{0}' في الشركة: {1},erpnext,Server,server_ar_20261014_review_more
+Please set 'Apply Additional Discount On',يرجى تحديد «تطبيق الخصم الإضافي على»,erpnext,Server,server_ar_20261014_review_more
+Please set 'Asset Depreciation Cost Center' in Company {0},يرجى تحديد «مركز تكلفة إهلاك الأصول» في الشركة {0},erpnext,Server,server_ar_20261014_review_more
+Please set 'Gain/Loss Account on Asset Disposal' in Company {0},يرجى تحديد «حساب أرباح / خسائر استبعاد الأصول» في الشركة {0},erpnext,Server,server_ar_20261014_review_more
+Please set '{0}' in Company: {1},يرجى تحديد '{0}' في الشركة: {1},erpnext,Server,server_ar_20261014_review_more
+Please set Fiscal Code for the customer '%s',يرجى تحديد الرمز الضريبي للعميل '%s',erpnext,Server,server_ar_20261014_review_more
+Please set Fiscal Code for the public administration '%s',يرجى تحديد الرمز الضريبي للجهة العامة '%s',erpnext,Server,server_ar_20261014_review_more
+Please set Tax ID for the customer '%s',يرجى تحديد الرقم الضريبي للعميل '%s',erpnext,Server,server_ar_20261014_review_more
+Row #{0}: {1} '{2}' does not exist on {3},الصف #{0}: السجل {1} '{2}' غير موجود في {3},whatsapp,Server,server_ar_20261014_review_more
+Row #{0}: {1} '{2}' is a {3} field; {1} must be one of {4},الصف #{0}: الحقل {1} '{2}' من نوع {3}؛ يجب أن تكون قيمة {1} إحدى القيم {4},whatsapp,Server,server_ar_20261014_review_more
+"Seems issue with server's razorpay config. Don't worry, in case of failure amount will get refunded to your account.",يبدو أن هناك مشكلة في إعدادات Razorpay على الخادم. في حال فشل العملية سيُعاد المبلغ إلى حسابك.,payments,Server,server_ar_20261014_review_more
+"Synced ${r.message.total_synced} templates, skipped ${r.message.total_skipped}",تمت مزامنة ${r.message.total_synced} قالب وتجاوز ${r.message.total_skipped},whatsapp,Server,server_ar_20261014_review_more
+"Synced ${res.message.total_synced} templates, skipped ${res.message.total_skipped}",تمت مزامنة ${res.message.total_synced} قالب وتجاوز ${res.message.total_skipped},whatsapp,Server,server_ar_20261014_review_more
+"Template '{0}' already exists on Meta (ID: {1}). Clear the WhatsApp Template ID to re-push, or edit on WhatsApp Manager and sync.",القالب '{0}' موجود في Meta بالفعل (المعرّف: {1}). امسح معرّف قالب WhatsApp لإعادة إرساله، أو عدّله في مدير WhatsApp ثم زامنه.,whatsapp,Server,server_ar_20261014_review_more
+"Template '{0}' has unfilled variables but is not bound to a reference DocType, so variable values cannot be auto-filled.",القالب '{0}' يتضمن متغيرات غير معبأة وغير مرتبط بنوع مستند مرجعي، لذلك لا يمكن تعبئة قيمها تلقائيًا.,whatsapp,Server,server_ar_20261014_review_more
+Template '{0}' has variables without a mapped field: {1}. Set Variable Field on each Template Variable row before sending.,القالب '{0}' يتضمن متغيرات دون حقل مرتبط: {1}. حدد حقل المتغير في كل صف قبل الإرسال.,whatsapp,Server,server_ar_20261014_review_more
+Template '{0}' resolves variables from {1}; cannot send from {2}.,يستمد القالب '{0}' قيم المتغيرات من {1}؛ ولا يمكن إرساله من {2}.,whatsapp,Server,server_ar_20261014_review_more
+The amount paid ({0}) cannot be greater than the payable amount ({1}) for Security Deposit Adjustment repayments.,لا يمكن أن يتجاوز المبلغ المدفوع ({0}) المبلغ المستحق ({1}) لسداد تسوية مبلغ الضمان.,lending,Server,server_ar_20261014_review_more
+"There seems to be an issue with the server's GoCardless configuration. Don't worry, in case of failure, the amount will get refunded to your account.",يبدو أن هناك مشكلة في إعدادات GoCardless على الخادم. في حال فشل العملية سيُعاد المبلغ إلى حسابك.,payments,Server,server_ar_20261014_review_more
+"There seems to be an issue with the server's braintree configuration. Don't worry, in case of failure, the amount will get refunded to your account.",يبدو أن هناك مشكلة في إعدادات Braintree على الخادم. في حال فشل العملية سيُعاد المبلغ إلى حسابك.,payments,Server,server_ar_20261014_review_more
+"This repost covers more than 6 months and has been enqueued as a background job. Track its progress on the Status field. If it fails while processing, the system adds a comment with the error.",تشمل إعادة الترحيل أكثر من 6 أشهر وأُدرجت كمهمة خلفية. تابع تقدمها في حقل الحالة. إذا فشلت أثناء المعالجة، يضيف النظام تعليقًا بالخطأ.,lending,Server,server_ar_20261014_review_more
+Total Installments Overdue ,إجمالي الأقساط المتأخرة,lending,Server,server_ar_20261014_review_more
+"Total overdue amount for charge {0} is {1}, but table shows {2}. Please remove the duplicate charges and refresh the page.",إجمالي المتأخر للرسم {0} هو {1}، لكن الجدول يعرض {2}. أزل الرسوم المكررة وحدّث الصفحة.,lending,Server,server_ar_20261014_review_more
+User does not have permission to access this user's profile details.,لا يملك المستخدم صلاحية الوصول إلى تفاصيل ملف هذا المستخدم.,lms,Server,server_ar_20261014_review_more
+"We'll try to download all transactions of completed days in the selected period, using <code>camt.053</code>.",سنحاول تنزيل جميع معاملات الأيام المكتملة في الفترة المحددة باستخدام <code>camt.053</code>.,banking,Server,server_ar_20261014_review_more
+"We'll try to download new transactions from today, using <code>camt.052</code>.",سنحاول تنزيل معاملات اليوم الجديدة باستخدام <code>camt.052</code>.,banking,Server,server_ar_20261014_review_more
+You do not have permission to access this course's assessment data.,ليس لديك صلاحية الوصول إلى بيانات تقييم هذه الدورة.,lms,Server,server_ar_20261014_review_more
+You do not have permission to access this course's progress data.,ليس لديك صلاحية الوصول إلى بيانات تقدم هذه الدورة.,lms,Server,server_ar_20261014_review_more
+violation events,أحداث المخالفات,lms,Server,server_ar_20261014_review_more
+you can,يمكنك,lms,Server,server_ar_20261014_review_more
+"{0} in the last 30 days, {1} in the last 12 months (365 days).",{0} خلال آخر 30 يومًا، و{1} خلال آخر 12 شهرًا (365 يومًا).,banking,Server,server_ar_20261014_review_more
+"{0} is a {1} account, so the automatic Journal Entry needs a party. Please add a {2} filter to restrict this rule to transactions with a party.",الحساب {0} من نوع {1}، لذلك يحتاج قيد اليومية التلقائي إلى طرف. أضف مرشح {2} لقصر هذه القاعدة على المعاملات ذات الطرف.,banking,Server,server_ar_20261014_review_more

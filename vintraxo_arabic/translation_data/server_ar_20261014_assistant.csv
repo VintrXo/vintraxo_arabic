@@ -1,0 +1,43 @@
+source,arabic,app,module,origin
+Action field 'args' must be an object.,يجب أن يكون الحقل 'args' في الإجراء كائنًا.,ask_alyf,Server,server_ar_20261014_assistant
+Action field 'doctype' is required.,الحقل 'doctype' في الإجراء مطلوب.,ask_alyf,Server,server_ar_20261014_assistant
+Action field 'file_id' is required.,الحقل 'file_id' في الإجراء مطلوب.,ask_alyf,Server,server_ar_20261014_assistant
+Action field 'records' must be a non-empty list.,يجب أن يكون الحقل 'records' في الإجراء قائمة غير فارغة.,ask_alyf,Server,server_ar_20261014_assistant
+Action field 'records' row #{0} must be an object.,يجب أن يكون الصف #{0} من الحقل 'records' في الإجراء كائنًا.,ask_alyf,Server,server_ar_20261014_assistant
+Action field 'values' must be an object.,يجب أن يكون الحقل 'values' في الإجراء كائنًا.,ask_alyf,Server,server_ar_20261014_assistant
+Action field '{0}' must be an object.,يجب أن يكون الحقل '{0}' في الإجراء كائنًا.,ask_alyf,Server,server_ar_20261014_assistant
+App '{0}' is not installed.,التطبيق '{0}' غير مثبت.,ask_alyf,Server,server_ar_20261014_assistant
+Ask ALYF User,مستخدم مساعد ALYF,ask_alyf,Server,server_ar_20261014_assistant
+Create skill '{0}',إنشاء المهارة '{0}',ask_alyf,Server,server_ar_20261014_assistant
+DocType '{0}' is excluded from Agent mode.,نوع المستند '{0}' مستبعد من وضع الوكيل.,ask_alyf,Server,server_ar_20261014_assistant
+Field '{0}' in {1} is a child table ({2}) and must be a list of row objects.,الحقل '{0}' في {1} جدول فرعي ({2}) ويجب أن يكون قائمة من كائنات الصفوف.,ask_alyf,Server,server_ar_20261014_assistant
+Field '{0}' row #{1} in {2} must be an object.,يجب أن يكون الصف #{1} من الحقل '{0}' في {2} كائنًا.,ask_alyf,Server,server_ar_20261014_assistant
+File '{0}' was not found.,لم يتم العثور على الملف '{0}'.,ask_alyf,Server,server_ar_20261014_assistant
+Frontend action 'frm_add_child' field 'docname' must be a string.,يجب أن يكون الحقل 'docname' نصًا في إجراء الواجهة 'frm_add_child'.,ask_alyf,Server,server_ar_20261014_assistant
+Frontend action 'frm_add_child' field 'doctype' must be a string.,يجب أن يكون الحقل 'doctype' نصًا في إجراء الواجهة 'frm_add_child'.,ask_alyf,Server,server_ar_20261014_assistant
+Frontend action 'frm_add_child' field 'values' must be an object.,يجب أن يكون الحقل 'values' كائنًا في إجراء الواجهة 'frm_add_child'.,ask_alyf,Server,server_ar_20261014_assistant
+Frontend action 'frm_add_child' requires a fieldname.,يتطلب إجراء الواجهة 'frm_add_child' اسم حقل.,ask_alyf,Server,server_ar_20261014_assistant
+Frontend action 'frm_set_value' field 'docname' must be a string.,يجب أن يكون الحقل 'docname' نصًا في إجراء الواجهة 'frm_set_value'.,ask_alyf,Server,server_ar_20261014_assistant
+Frontend action 'frm_set_value' field 'doctype' must be a string.,يجب أن يكون الحقل 'doctype' نصًا في إجراء الواجهة 'frm_set_value'.,ask_alyf,Server,server_ar_20261014_assistant
+Frontend action 'frm_set_value' requires a fieldname.,يتطلب إجراء الواجهة 'frm_set_value' اسم حقل.,ask_alyf,Server,server_ar_20261014_assistant
+Frontend action 'new_doc' field 'route_options' must be an object.,يجب أن يكون الحقل 'route_options' كائنًا في إجراء الواجهة 'new_doc'.,ask_alyf,Server,server_ar_20261014_assistant
+Frontend action 'new_doc' requires a DocType.,يتطلب إجراء الواجهة 'new_doc' نوع مستند.,ask_alyf,Server,server_ar_20261014_assistant
+Frontend action 'scroll_to_field' requires a fieldname.,يتطلب إجراء الواجهة 'scroll_to_field' اسم حقل.,ask_alyf,Server,server_ar_20261014_assistant
+Frontend action 'set_route' requires a non-empty route list.,يتطلب إجراء الواجهة 'set_route' قائمة مسارات غير فارغة.,ask_alyf,Server,server_ar_20261014_assistant
+I've prepared the operation. Please review and confirm.,جهزت العملية. يرجى مراجعتها وتأكيدها.,ask_alyf,Server,server_ar_20261014_assistant
+No documentation URL was found for app '{0}'.,لم يتم العثور على رابط توثيق للتطبيق '{0}'.,ask_alyf,Server,server_ar_20261014_assistant
+No pending operation matches call_id '{0}'.,لا توجد عملية معلقة تطابق معرّف الاستدعاء '{0}'.,ask_alyf,Server,server_ar_20261014_assistant
+No pyproject.toml was found for app '{0}'.,لم يتم العثور على ملف pyproject.toml للتطبيق '{0}'.,ask_alyf,Server,server_ar_20261014_assistant
+No repository URL was found for app '{0}'.,لم يتم العثور على رابط مستودع للتطبيق '{0}'.,ask_alyf,Server,server_ar_20261014_assistant
+No version was found for app '{0}'.,لم يتم العثور على إصدار للتطبيق '{0}'.,ask_alyf,Server,server_ar_20261014_assistant
+Path '{0}' must point to a file inside an installed app.,يجب أن يشير المسار '{0}' إلى ملف داخل تطبيق مثبت.,ask_alyf,Server,server_ar_20261014_assistant
+Path '{0}' was not found in app '{1}'.,لم يتم العثور على المسار '{0}' في التطبيق '{1}'.,ask_alyf,Server,server_ar_20261014_assistant
+Skill '{0}' is not available for the current user.,المهارة '{0}' غير متاحة للمستخدم الحالي.,ask_alyf,Server,server_ar_20261014_assistant
+Skill '{0}' was not found.,لم يتم العثور على المهارة '{0}'.,ask_alyf,Server,server_ar_20261014_assistant
+Unsupported action '{0}'.,الإجراء '{0}' غير مدعوم.,ask_alyf,Server,server_ar_20261014_assistant
+"Unsupported file type '{0}'. Supported types: PDF, PNG, JPG, GIF, WebP.",نوع الملف '{0}' غير مدعوم. الأنواع المدعومة: PDF، PNG، JPG، GIF، WebP.,ask_alyf,Server,server_ar_20261014_assistant
+Unsupported frontend action '{0}'.,إجراء الواجهة '{0}' غير مدعوم.,ask_alyf,Server,server_ar_20261014_assistant
+Unsupported operation kind '{0}'.,نوع العملية '{0}' غير مدعوم.,ask_alyf,Server,server_ar_20261014_assistant
+What's the average resolution time for issues?,ما متوسط وقت حل المشكلات؟,ask_alyf,Server,server_ar_20261014_assistant
+What's the total outstanding receivables?,ما إجمالي المستحقات المدينة؟,ask_alyf,Server,server_ar_20261014_assistant
+{0} '{1}' was not found.,لم يتم العثور على {0} '{1}'.,ask_alyf,Server,server_ar_20261014_assistant
